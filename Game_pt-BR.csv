@@ -679,7 +679,7 @@ Um novo desafio aguarda ..."
 /E34B37A2424D0CACEFF574B53C4592A6,Chef de Fer,Chef de Fer
 /EA91658543784FA5636C37911D5F6E0E,Chef de Partie,Chef de Partie
 /4DAF51E641747DF3FC84F99D55E4F1D5,Chef's Hat,Chapéu do chef
-/06A59B87472902E0E229EE9AF8615FEC,Chest with torches,Peito com tochas
+/06A59B87472902E0E229EE9AF8615FEC,Chest with torches,Báu com tochas
 /8E024AB64F51A88B7002DDAD910182CD,Chicken,Frango
 /2A309FC842E317DEED7D27A9360217C7,Chieftain's Blade,Blade do Chieftain
 /66B27DCD4CD4523318902B9AE8DDB13C,Chimes,Sinos
@@ -1399,18 +1399,15 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /CBBDBE16470915EE3492689F76F5E85A,Hunt a deer and bring one of its antlers to the Wise Old Man,Caça um cervo e traga um de seus chifres para o velho sábio
 /22AD550A41FB0BC6E63372BB01CF9020,Hunter,Caçador
 /76417A9047D8065A6F0290A5607954D7,Hunter's Stagbow,Hunter's Stagbow
-/2F233AC74FC1DE4BC580408D1C9633A1,Hydration Decay Multiplier,Multiplicador de decaimento de hidratação
-/30933CDB4CF210E2F35932A32F70AB44,Hydration Decay Multiplier,Multiplicador de decaimento de hidratação
+/2F233AC74FC1DE4BC580408D1C9633A1,Hydration Decay Multiplier,Multiplicador de perda da hidratação
+/30933CDB4CF210E2F35932A32F70AB44,Hydration Decay Multiplier,Multiplicador de perda da hidratação
 /48EB7102492FBDB09CFBA4A9B45D3173,HydrationModifyStaminaRegen,HidrationModifyStaminareGen
 /289579A84B55F2E7C4B195BF1CD68BFC,I,EU
-/4FA2013A4433B2338E8691BA1AE40BD0,I wonder what's inside..,Eu me pergunto o que está lá dentro ..
-/B13D3B8A4ACC4A1225ABB79DC53884EC,I'm pretty sure this screen no longer exists but updating the class anyway just in case,"Tenho certeza de que esta tela não existe mais, mas atualizando a aula de qualquer maneira por caso de"
-/738A9F1B43F078F60F42E3A1764A988D,INNER CORNER 45° STAIRS,Esquina interno de 45 ° escadas
-/793ACF1F4399C48EDDD133A9811F09A7,INNER CORNER 45° STAIRS,Esquina interno de 45 ° escadas
-/37E32AAB4BE3ADDA5CE150B01B1C726C,"IOU:
-The Contents of this Chest - The Design Team","IOU:
-O conteúdo deste baú 
-- A equipe de design"
+/4FA2013A4433B2338E8691BA1AE40BD0,I wonder what's inside..,Eu me pergunto o que está lá dentro..
+/B13D3B8A4ACC4A1225ABB79DC53884EC,I'm pretty sure this screen no longer exists but updating the class anyway just in case,"Tenho quase certeza de que essa tela não existe mais, mas estou atualizando a classe mesmo assim, só por precaução"
+/738A9F1B43F078F60F42E3A1764A988D,INNER CORNER 45° STAIRS,Escada em Ângulo Interno de 45°
+/793ACF1F4399C48EDDD133A9811F09A7,INNER CORNER 45° STAIRS,Escada em Ângulo Interno de 45°
+/37E32AAB4BE3ADDA5CE150B01B1C726C,"IOU: The Contents of this Chest - The Design Team","IOU: O conteúdo deste baú - A equipe de design"
 /A0984BE4481D06BA154194A9699A224E,ITEM TYPE,Tipo de item
 /CE5914234390FF3DAAC8218CDAF36A6D,Imbued Granite Maul Head,Cabeça de granito imbuído
 /C3689E3241F6C1277780698ED7350232,Immune,Imune
@@ -1562,7 +1559,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /5F6306174054E1BD32C47E81BB6F4C9A,Label,Rótulo
 /EE532ECF4DB6286415293E9548702980,Large,Grande
 /7E198D6F4EEF04A0FA1C5E9221A660C4,Large Bronze Bar Pile,Grande pilha de barra de bronze
-/6F9CC458429D7358D42249882ED29685,Large Chest,Peito grande
+/6F9CC458429D7358D42249882ED29685,Large Chest,Báu grande
 /BD550179412C6AC2954BF2867638D73C,Large Gold Bar Pile,Grande pilha de barras de ouro
 /0C2F13EE46C67F924A86CFB309FF0696,Large Iron Bar Pile,Grande pilha de barra de ferro
 /326972374329514EDFE6E88283B6F870,Large Silver Bar Pile,Grande pilha de barra de prata
@@ -2670,7 +2667,7 @@ Runas são retidas se você morrer."
 /6536C31E4DAC2F8368EE499AB3C90DC7,Small 60° Roof,Pequeno teto de 60 °
 /2BD560D347EFDA2ED45ADABF53F62E45,Small 60° Valley Roof,Telhado pequeno de 60 °
 /50711A474CA171586234EF8ED18CD713,Small Bronze Bar Pile,Pequena pilha de barra de bronze
-/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Peito pequeno
+/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Báu pequeno
 /1084BCF540E0A4F42408EBBABE29F33F,Small Clay Bin,Lata de argila pequena
 /3BCDC1DE4D06F1BB2982D2A05306653F,Small Clay Pile,Pequena pilha de argila
 /C130BD644E03AB41CD2F73BF0C1A974C,Small Coarse Thread Bin,Bin lã grossa pequena
@@ -6965,7 +6962,7 @@ Tão orgulhoso era ele da adaga que sussurraria, agindo como se sussurrasse de v
 
 Felizmente, a maioria dos punhais de pedra é agradavelmente silenciosa."
 ST_JournalEntries/Toadflax,"One of the most popular plants with witches everywhere, as much as for the name as its use in herblore. One witch, a particularly odd duck called Henrietta, once tried to combine the herb with the amphibian of its namesake. The resulting monstrosity killed five people, before it could finally be put down.","Uma das plantas mais populares com bruxas em todos os lugares, tanto quanto para o nome como seu uso em Herblore. Uma bruxa, um pato particularmente estranho chamado Henrietta, uma vez tentou combinar a erva com o anfíbio de seu homônimo. A monstruosidade resultante matou cinco pessoas, antes que finalmente pudesse ser abatida."
-ST_JournalEntries/PersonalChest_name,Personal Chest,Peito pessoal
+ST_JournalEntries/PersonalChest_name,Personal Chest,Báu pessoal
 ST_JournalEntries/WeakAntipoisonPotion,"Poison has always been a problem for hunters. The forests are full of venomous creatures, just waiting for a chance to strike. The difference between an edible mushroom and one filled with deadly toxins, is hard to spot on a moonless night. Thus the antipoison potion was once of the first to be created. A glorious catch-all that fought against all the venoms and toxins of the realm.
 
 They’re also surprisingly good for a hangover.","O veneno sempre foi um problema para os caçadores. As florestas estão cheias de criaturas venenosas, apenas esperando a chance de atacar. A diferença entre um cogumelo comestível e um cheio de toxinas mortais é difícil de identificar em uma noite sem lua. Assim, a poção antipoison foi uma das primeiras a serem criadas. Uma gordura gloriosa que lutou contra todos os venenos e toxinas do reino.
@@ -8316,7 +8313,7 @@ ST_Localization/Cancel,Cancel,Cancelar
 ST_Localization/CarryWeightExceeded,Carry Weight Exceeded,Carregar peso excedido
 ST_Localization/Cathan,Cathan,Cathan
 ST_Localization/CharcoalKiln,Charcoal Kiln,Forno a carvão
-ST_Localization/Chest,Chest,Peito
+ST_Localization/Chest,Chest,Báu
 ST_Localization/Clay,Clay,Argila
 ST_Localization/ClayBox,Clay Box,Caixa de barro
 ST_Localization/Close,Close,Fechar
@@ -8325,19 +8322,19 @@ ST_Localization/Confirm,Confirm,Confirmar
 ST_Localization/Continue,Continue,Continuar
 ST_Localization/CopperBar,Copper Bar,Barra de cobre
 ST_Localization/CopperOre,Copper Ore,Minério de cobre
-ST_Localization/Craft,Craft,Arte
-ST_Localization/BoneBroadheadArrowDesc,Crude Broadhead Arrows with tips crafted from Bone designed to lacerate.,Arrows de cabeça larga de petróleo com pontas criadas de osso projetadas para lacerar.
+ST_Localization/Craft,Craft,Craft
+ST_Localization/BoneBroadheadArrowDesc,Crude Broadhead Arrows with tips crafted from Bone designed to lacerate.,Flechas com Ponta Larga Rústicas, com pontas feitas de osso, projetadas para lacerar.
 ST_Localization/CrystalBow,Crystal Bow,Arco de cristal
 ST_Localization/Damage,Damage,Dano
 ST_Localization/DmgResistance,Damage Resistance,Resistência a danos
 ST_Localization/Defence,Defence,Defesa
-ST_Localization/DepositThreads,Deposit Threads,Tópicos de depósito
+ST_Localization/DepositThreads,Deposit Threads,Depositar Fios
 ST_Localization/Door,Door,Porta
 ST_Localization/Doric,Doric,Doric
 ST_Localization/DragonCarving,Dragon Carving,Escultura em dragão
 ST_Localization/DragonkinEffigy,Dragonkin Effigy,Dragonkin efígie
 ST_Localization/Duration,Duration,Duração
-ST_Localization/ElderLogs,Elder Logs,Torros de idosos
+ST_Localization/ElderLogs,Elder Logs,Troncos Ancestrais
 ST_Localization/Emerald,Emerald,Esmeralda
 ST_Localization/Enter,Enter,Digitar
 ST_Localization/Equip,Equip,Equipar
