@@ -1778,7 +1778,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /F5D0D6B3452712DFEC9DD6916DA369B6,Menus,Menus
 /FE153897425BED6548DA268657661849,Menus,Menus
 /8F9F090342B2A16C07CCCCB01E1F429B,Milestone Material Discovered,Material marco descoberto
-/0588E59445C735D990E6149FC70F38CF,"Mine Rune Essence, build a Rune Altar and craft some Air Runes and some Astral Runes","Essência da mina, construa um altar de runa e crie algumas runas de ar e algumas runas astrais"
+/0588E59445C735D990E6149FC70F38CF,"Mine Rune Essence, build a Rune Altar and craft some Air Runes and some Astral Runes","Minere runas de Essência, construa um Altar de Runa e crie algumas runas de ar e algumas runas astrais"
 /A5CCDAF74B2342E533E254877A0E5595,"Mined from Copper deposits, it can be smelted at a Furnace.","Minerado a partir de depósitos de cobre, ele pode ser fundido em um forno."
 /8E441E1B4E7135DA454531BA7A97F14C,"Mined from Gold deposits, it can be smelted at a Furnace.","Minerado a partir de depósitos de ouro, ele pode ser fundido em um forno."
 /577A8F704E225744E158708756063231,"Mined from Iron deposits, it can be smelted at a Furnace.","Minerado a partir de depósitos de ferro, pode ser fundido em um forno."
@@ -2411,7 +2411,7 @@ Runas são retidas se você morrer."
 /1891CD98471C86C8B663FC8CA096FE03,Rug (Circle),Tapete (círculo)
 /3533F024442708E9ECB3A19D31EC2F49,Run Speed,Executar velocidade
 /31B057CB482817DEDC25159AE6CF20EF,Rune,Runa
-/C47DFA4248BB030BDC47F2814526C18C,Rune Altar,Altar de runa
+/C47DFA4248BB030BDC47F2814526C18C,Rune Altar,Altar de Runa
 /87E917D74C01F90B647849A9F7F0EF55,Runecrafting,Criação de Runa
 /70AAE69D427E47A0D9915CB8D4258783,Runecrafting Repair Cost Refund Chance,Chance de reembolso do custo de reparo de Criação de Runa
 /B01B5E1142B85635E3B04E83369DF9BE,Runecrafting Xp Gain Modifier,Modificador de ganho de XP de Criação de Runa
@@ -4091,7 +4091,7 @@ QF_FTUE_Dialogue/FTUE_WoM_DragonSlayerLink,Let's see...,Vamos ver...
 QF_FTUE_Dialogue/FTUE_Zanik_WhoAreYou2,"Like you, I'm here seeking the thrill of adventure. I've done some exploring in my time. First of my people to visit the surface. One of the first people to visit the husk of the goblin homeworld, Yu'Biusk. Died a couple of times, so I know a thing or two about survival.","Como você, estou aqui procurando a emoção da aventura. Eu fiz algumas exploração no meu tempo. Primeiro do meu povo a visitar a superfície. Uma das primeiras pessoas a visitar a casca do Homeworld Goblin, Yu'biusk. Morreu algumas vezes, então eu sei uma coisa ou duas sobre sobrevivência."
 QF_FTUE_Dialogue/Doric_RightTool_Intro_GotAxe_1,"Looks like you've already got to grips with crafting tools and weapons, so here's a little something to help you on your way.","Parece que você já tem que entender ferramentas e armas de artesanato, então aqui está um pouco para ajudá-lo no seu caminho."
 QF_FTUE_Dialogue/Zanik_SeekingShelter_Intro_NotBuiltBed3,"Make yourself a shelter out of wood and stone. Any building will do, just needs floors, walls and a roof. When building, be sure to keep your structure stable.","Faça-se um abrigo de madeira e pedra. Qualquer edifício serve, só precisa de pisos, paredes e um teto. Ao construir, mantenha sua estrutura estável."
-QF_FTUE_Dialogue/RuneMysteries_Objective_2,"Mine rune essence, build a rune altar and craft some air runes.","A essência da mina, construa um altar de runa e crie algumas runas de ar."
+QF_FTUE_Dialogue/RuneMysteries_Objective_2,"Mine rune essence, build a rune altar and craft some air runes.","A essência da mina, construa um Altar de Runa e crie algumas runas de ar."
 QF_FTUE_Dialogue/Vannaka_Ratcatcher_SpokeTo_GotFangs3,Most enemies are more dangerous than rats. Keep an eye out on what an opponent is resistant to and choose your style to counter it.,A maioria dos inimigos é mais perigosa que os ratos. Fique de olho no que um oponente é resistente e escolha seu estilo para combatê-lo.
 QF_FTUE_Dialogue/Vannaka_ButterKnife_SpokenTo_GotGear1,Much better! You're all ready to face the dangers ahead.,Muito melhor! Você está todo pronto para enfrentar os perigos à frente.
 QF_FTUE_Dialogue/FTUE_WoM_WhoAreYou2,"My name is Dionysius, but most people just call me the Wise Old Man. Or 'Ultraviolet Archangel Threat' when they think I'm not listening.","Meu nome é Dionísio, mas a maioria das pessoas me chama de velho sábio. Ou 'ameaça ultravioleta de arcanjo' quando pensam que não estou ouvindo."
@@ -4141,7 +4141,7 @@ QF_FTUE_Dialogue/FTUE_Vannaka_WhoAreYou2,"The names Vannaka, I'm a Slayer Master
 QF_FTUE_Dialogue/Vannaka_Ratcatcher_SpokenTo_NotGotFangs2,"The windmill behind me is infested with the beasts, you may want to look there to gather the fangs.","O moinho de vento atrás de mim está infestado dos animais, você pode querer olhar lá para reunir as presas."
 QF_FTUE_Dialogue/Zanik_SeekingShelter_Intro_NotBuiltBed4,"Then make and claim a bed to rest in. To make a bed you're going to need something soft, like fur. Look around for small creatures to get fur from.","Em seguida, faça e reivindique uma cama para descansar. Para fazer uma cama, você precisará de algo macio, como pêlo. Procure pequenas criaturas para obter peles."
 QF_FTUE_Dialogue/FTUE_Zanik_ImproveHealth2,"There are lots of ways you can prepare delicious meals on Ashenfall, each will help make your exploration easier.","Existem várias maneiras de preparar refeições deliciosas na Ashenfall, cada uma ajudará a facilitar sua exploração."
-QF_FTUE_Dialogue/WoM_RuneMysteries_Intro_3,"There's a deposit of essence behind this temple. Go mine it, then build yourself a rune altar. You might want to get yourself a pickaxe.","Há um depósito de essência por trás deste templo. Vá minerar-o e, em seguida, construa um altar de runa. Você pode querer fazer uma picareta."
+QF_FTUE_Dialogue/WoM_RuneMysteries_Intro_3,"There's a deposit of essence behind this temple. Go mine it, then build yourself a rune altar. You might want to get yourself a pickaxe.","Há um depósito de essência por trás deste templo. Vá minerar-o e, em seguida, construa um Altar de Runa. Você pode querer fazer uma picareta."
 QF_FTUE_Dialogue/FTUE_Doric_Intro4,"There's a few of us, though less than there were. Some stuff happened, but the Wise Old Man over there can fill you in.","Há alguns de nós, embora menos do que houve. Algumas coisas aconteceram, mas o Velho Sábio pode te contar."
 QF_FTUE_Dialogue/Vannaka_ButterKnife_CompleteQuest2,"They're magic, so pick carefully. If you hunt alone, you'll want the ring of the hermit, if not go with the herd.","Eles são mágicos, então escolha com cuidado. Se você caçar sozinho, você vai querer o anel do eremita, se não for com o rebanho."
 QF_FTUE_Dialogue/FTUE_Doric_Secrets2,This whole continent has been magically hidden for thousands of years. There's got to be interesting mysteries buried about the place.,Todo esse continente está magicamente escondido há milhares de anos. Deve haver mistérios interessantes enterrados sobre o lugar.
@@ -4559,7 +4559,7 @@ ST_Crafting/EmptyMessageRepair,Nothing to repair,Nada para reparar
 ST_Crafting/PotteryWheel,Pottery Wheel,Roda de cerâmica
 ST_Crafting/Repair,Repair,Reparar
 ST_Crafting/Requirements,Requirements,Requisitos
-ST_Crafting/RuneAltar,Rune Altar,Altar de runa
+ST_Crafting/RuneAltar,Rune Altar,Altar de Runa
 ST_Crafting/SmithingAnvil,Smithing Anvil,Smithing Anvil
 ST_DialogMessages/UI.ErrorMessage.CharacterNameCantBeEmpty.Body,Character name cannot be empty.,O nome do personagem não pode estar vazio.
 ST_DialogMessages/UI.ErrorMessage.EOSRequiredToPlayOnline,Epic Online Services account required to play online. You can link your platform account with an Epic Online Services account in the settings.,Conta épica de serviços on-line necessária para jogar online. Você pode vincular sua conta de pEstanhoforma a uma conta EPIC Online Services nas configurações.
@@ -4949,7 +4949,7 @@ ST_FTUE/Doric_RTftJ_Intro1,"By Saradomin's big bushy beard! Just our luck, a gre
 ST_FTUE/WoM_Skipped_Tutorial_1,Can I help you?,Posso ajudar?
 ST_FTUE/Playerchoice_TellMeAboutAshenfall,Can you tell me about Ashenfall?,Você pode me falar sobre Ashenfall?
 ST_FTUE/Vannaka_RC_Intro5,Cook two rat roasts and bring them back to me. No one said survival would be pretty.,Cozinhe dois assados de ratos e leve-os de volta para mim. Ninguém disse que a sobrevivência seria bonita.
-ST_FTUE/WS_WiseOldMan_Objective2,Craft a Wardstone at a Rune Altar and bring it to the Wise Old Man.,Crie uma Pedra de proteção em um altar de runa e leve-o para o velho sábio.
+ST_FTUE/WS_WiseOldMan_Objective2,Craft a Wardstone at a Rune Altar and bring it to the Wise Old Man.,Crie uma Pedra de proteção em um Altar de Runa e leve-o para o velho sábio.
 ST_FTUE/WS_WiseOldMan_Intro2,"Crafting certain equipment intrinsically involves the weaving of small threads of enchantment, granting you greater protection.","A criação de certos equipamentos envolve intrinsecamente a tecelagem de pequenos fios de encantamento, concedendo maior proteção."
 ST_FTUE/Vannaka_SkippedTutorial_WhoAreYou_2,"Cull the population of monsters, to make the world a better place.","Abate a população de monstros, para tornar o mundo um lugar melhor."
 ST_FTUE/Zanik_RM_SpokenTo_NoLogs,"Cut down trees and gather 50 ash logs, then bring them to me.","Corte as árvores e junte 50 troncos de cinzas, depois traga-os para mim."
@@ -4963,8 +4963,8 @@ ST_FTUE/Zanik_RM_HasLogs2,"Fortunately, we've got magic! As you improve in a ski
 ST_FTUE/Doric_Generic,"Gathering resources and crafting items, that's the basics of survival in this place. Seek out new resources to discover new recipes.","Reunindo recursos e elaboração de itens, esse é o básico da sobrevivência neste local. Procure novos recursos para descobrir novas receitas."
 ST_FTUE/RTftJ_Title,Getting Started,Começando
 ST_FTUE/Vannaka_RC_NotDoneRTftJ,"Getting ahead of yourself, aren't we, young pup? Check your map to see where you're meant to be headed.","Ficando à frente de si mesmo, não somos, jovens filhotes? Verifique seu mapa para ver para onde você deve estar indo."
-ST_FTUE/WS_WiseOldMan_NotMadeStone,"Go and craft a wardstone and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma pedra de proteção e traga-a aqui para que eu possa verificar o seu trabalho. Você só precisa reunir alguma essência de runa e pedra, e fazer a criação delas em um altar de runa. Bem simples. Uma pedra de proteção será o suficiente.
-ST_FTUE/WS_WiseOldMan_Intro6,"Go and craft me one of them and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma para mim e traga aqui para que eu possa verificar o seu trabalho. Você só precisa reunir um pouco de essência de runa e pedra, e criá-las em um altar de runa. Bem simples. Uma pedra de proteção será suficiente.
+ST_FTUE/WS_WiseOldMan_NotMadeStone,"Go and craft a wardstone and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma pedra de proteção e traga-a aqui para que eu possa verificar o seu trabalho. Você só precisa reunir alguma essência de runa e pedra, e fazer a criação delas em um Altar de Runa. Bem simples. Uma pedra de proteção será o suficiente.
+ST_FTUE/WS_WiseOldMan_Intro6,"Go and craft me one of them and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma para mim e traga aqui para que eu possa verificar o seu trabalho. Você só precisa reunir um pouco de essência de runa e pedra, e criá-las em um Altar de Runa. Bem simples. Uma pedra de proteção será suficiente.
 ST_FTUE/Zanik_RM_HasRunes1,"Great work! Runes are the lifeblood of magic, you'll need them to cast spells and use magic staves. A well placed spell can make all the difference.","Ótimo trabalho! As runas são a essência da magia, você precisará delas para lançar feitiços e cajados mágicos. Um feitiço bem colocado pode fazer toda a diferença."
 ST_FTUE/Zanik_RM_HasLogs1,"Great, you've got them. Now, between you and me, that was a bit repetitive right? I'd be exhausted having to do that all the time.","Ótimo, você os tem. Agora, entre você e eu, isso foi um pouco repetitivo, certo? Eu estaria exausto tendo que fazer isso o tempo todo."
 ST_FTUE/WS_WiseOldMan_Intro3,"Handy stuff, especially with dragons about. Now, you'll find that your Lifewards can get depleted by the brutality of the other creatures on Ashenfall.","Coisas úteis, especialmente com dragões. Agora, você descobrirá que seu em direção à vida pode ser esgotado pela brutalidade das outras criaturas em Ashenfall."
@@ -4994,7 +4994,7 @@ ST_FTUE/Vannaka_RC_Intro2,"Look, you may have a weapon, but every great warrior 
 ST_FTUE/Doric_SkippedTutorial_WhoAreYou_1,Me? Name's Doric. I'm just a stupid old blacksmith that got swept up in tales of adventure. Trying to win back me glory days.,Meu? Nome é Doric. Eu sou apenas um velho ferreiro estúpido que foi varrido em histórias de aventura. Tentando me conquistar dias de glória.
 ST_FTUE/Zanik_SkippedTutorial_WhoAreYou_2,"Most of my people stay underground, hiding from the surface. But I couldn't wait to explore this vast and wonderful world.","A maioria do meu povo fica no subsolo, escondendo-se da superfície. Mas eu mal podia esperar para explorar este mundo vasto e maravilhoso."
 ST_FTUE/Vannaka_SkippedTutorial_WhoAreYou_1,My name is Vannaka and back on the mainland I was a Slayer Master. It was my job to send adventurers after dangerous beasts.,"Meu nome é Vannaka e, de volta ao continente, eu era um mestre de matadoras. Era meu trabalho enviar aventureiros após bestas perigosas."
-ST_FTUE/Zanik_RM_HasLogs_NoRunes,Not made the runes yet? You'll need to mine essence from the floating geysers and then craft air and astral runes on a rune altar.,Ainda não fez as runas? Você precisará extrair a essência dos gêiseres flutuantes e depois criar runas de ar e astral em um altar de runa.
+ST_FTUE/Zanik_RM_HasLogs_NoRunes,Not made the runes yet? You'll need to mine essence from the floating geysers and then craft air and astral runes on a rune altar.,Ainda não fez as runas? Você precisará extrair a essência dos gêiseres flutuantes e depois criar runas de ar e astral em um Altar de Runa.
 ST_FTUE/Doric_RTftJ_NextStep,"Now you've got something to fight with, go chat to Vannaka over to the north east, he can teach you how to keep fighting fit.","Agora você tem algo para lutar, vá conversar com Vannaka para o Nordeste, ele pode ensiná-lo a continuar lutando em forma."
 ST_FTUE/Doric_RTftJ_MadeDagger2,"Now, even the best weapons break over time. When that happens use a crafting bench to repair your gear.","Agora, mesmo as melhores armas quebram com o tempo. Quando isso acontecer, use um banco de criação para reparar seu equipamento."
 ST_FTUE/Doric_SkippedWom,"Oh dear, you just walked right past the Wise Old Man. He won't like that. Best go back and say hi, eh?","Oh querido, você acabou de passar pelo Velho Sábio. Ele não vai gostar disso. Melhor voltar e dizer oi, hein?"
@@ -5011,7 +5011,7 @@ ST_FTUE/Vannaka_RC_HasKebabs4,"Rats, for example, don't take kindly to getting s
 ST_FTUE/Vannaka_RC_HasKebabs5,"Right, let's teach you a bit about magic. Zanik's the one to talk to for that, you can find her down the road just before the river.","Certo, vamos te ensinar um pouco sobre magia. Zanik é o único com quem conversar, você pode encontrá-la no caminho pouco antes do rio."
 ST_FTUE/Zanik_RM_LinkToWoM1,"Right, now that you've learned the basics, it's time to get started. The Wise Old Man is waiting for you just outside Bramblemead Village. Follow your compass to find him.","Certo, agora que você aprendeu o básico, é hora de começar. O velho sábio está esperando por você do lado de fora do Bramblemaad Village. Siga sua bússola para encontrá-lo."
 ST_FTUE/RM_Title,Rune Mysteries,Mistérios Rune
-ST_FTUE/Zanik_RM_HasLogs5,"See those geysers around, with the floating rocks? Take this pickaxe and mine some essence from them, build a rune altar and then craft the runes from rune essence.","Veja aqueles gêiseres ao redor, com as rochas flutuantes? Pegue esta picareta e minei alguma essência deles, construa um altar de runa e depois crie as runas da Rune Essence."
+ST_FTUE/Zanik_RM_HasLogs5,"See those geysers around, with the floating rocks? Take this pickaxe and mine some essence from them, build a rune altar and then craft the runes from rune essence.","Veja aqueles gêiseres ao redor, com as rochas flutuantes? Pegue esta picareta e minei alguma essência deles, construa um Altar de Runa e depois crie as runas da Rune Essence."
 ST_FTUE/WS_WiseOldMan_Objective1,Speak to the Wise Old Man to learn about Lifewards.,Fale com o velho sábio para aprender sobre a vida.
 ST_FTUE/Doric_RTftJ_Intro_AlreadyGotWater2,"Still, it's going to be tough surviving this place with a dragon about.","Ainda assim, será difícil sobreviver a este lugar com um dragão."
 ST_FTUE/Doric_SkippedTutorial_WhoAreYou_3,"Still, no point lollygagging around. I'll catch my breath and then explore these new lands. Who knows? Might find something.","Ainda assim, não há ponto a pirulando por perto. Vou recuperar o fôlego e depois explorar essas novas terras. Quem sabe? Pode encontrar algo."
@@ -6051,7 +6051,7 @@ Atua muito como saúde extra, causando danos no lugar dos sinais vitais de seus 
 
 Quando se foi, acabou. A regeneração da saúde não afeta isso. Em vez disso, deve ser recarregado com Wardstones.
 
-Wardstones são pequenos dispositivos criados em um altar de runa. Eles são feitos de essência de Rune, pedra e apenas uma gota do sangue do artesão. Neste último, macabro, ingrediente, é o que permite que Wardstones forje uma conexão com seu criador, permitindo que eles recarreguem seu vitalício ao custo a uma pequena quantidade de dano à sua alma, criando o acúmulo de almas.
+Wardstones são pequenos dispositivos criados em um Altar de Runa. Eles são feitos de essência de Rune, pedra e apenas uma gota do sangue do artesão. Neste último, macabro, ingrediente, é o que permite que Wardstones forje uma conexão com seu criador, permitindo que eles recarreguem seu vitalício ao custo a uma pequena quantidade de dano à sua alma, criando o acúmulo de almas.
 
 Os danos à alma se curam ao longo do tempo, por isso parece muito mais assustador do que é.
 
@@ -8904,10 +8904,10 @@ ST_Skills_Perks/Construction.CreatureComforts.Desc,Unlocks an assortment of furn
 ST_Skills_Perks/Cooking.FancyCookware.Desc,Unlocks furniture piece Pan Rack in the building menu.,Desbloqueia o rack de mobiliário no menu de construção.
 ST_Skills_Perks/Construction.MiddleGround.Desc,Unlocks medium-sized building pieces.,Desbloqueia peças de construção de tamanho Médio.
 ST_Skills_Perks/Cooking.YesChef.Desc,"Unlocks recipe for Chef's Hat, craftable at the Crafting Station.","Desbloqueia a receita do chapéu do chef, criável na bancada de artesanato."
-ST_Skills_Perks/Runecrafting.EarthRunes.Desc,"Unlocks recipe for Earth Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da terra, criável no altar da runa."
-ST_Skills_Perks/Runecrafting.FireRunes.Desc,"Unlocks recipe for Fire Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas de fogo, criável no altar da runa."
+ST_Skills_Perks/Runecrafting.EarthRunes.Desc,"Unlocks recipe for Earth Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da terra, criável no Altar de Runa."
+ST_Skills_Perks/Runecrafting.FireRunes.Desc,"Unlocks recipe for Fire Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas de fogo, criável no Altar de Runa."
 ST_Skills_Perks/Runecrafting.LawRunes.Desc,"Unlocks recipe for Law Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da lei, criável no altar da Rune."
-ST_Skills_Perks/Runecrafting.NatureRunes.Desc,"Unlocks recipe for Nature Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da natureza, criável no altar da runa."
+ST_Skills_Perks/Runecrafting.NatureRunes.Desc,"Unlocks recipe for Nature Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da natureza, criável no Altar de Runa."
 ST_Skills_Perks/Construction.FineDetails.Desc,Unlocks small building pieces.,Desbloqueia pequenas peças de construção.
 ST_Skills_Perks/Artisan.DecoratedAdventurer.Desc,"Unlocks the Armour Mannequin, you can mount a full set of armour on it.","Desbloqueia o manequim da armadura, você pode montar um conjunto completo de armadura nela."
 ST_Skills_Perks/Attack.TrainingDummy.Desc,Unlocks the ability to build a Training Dummy to test your melee weapons on.,Desbloqueia a capacidade de construir um boneco de treinamento para testar suas armas corpo a corpo.
