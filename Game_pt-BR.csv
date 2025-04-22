@@ -204,7 +204,7 @@ Pellentesque ut suscipit sapien, egestas dapibus quam. Vestibulum nec purus leo.
 /6AD5B1B1447341CC91CAF69EF5878755,"A formed clay pot, ready to be fired in a kiln.","Uma panela de barro formada, pronta para ser disparada em um forno."
 /4E6E280A4D359E1B7975F4A475F2F232,"A formed clay slab, ready to be fired in a kiln.","Uma laje de barro formada, pronta para ser disparada em um forno."
 /CF06EE724A24E174D6342F90FDFB60E9,"A furnace improvement. Building this near a furnace will grant an additional slot, very useful for smelting alloys, such as bronze.","Uma melhoria do forno. Construir isso perto de um forno concederá um slot adicional, muito útil para ligas de fundição, como o bronze."
-/ABAC817F41D69188A944E48EAA908350,A goblin amulet bearing the sigil of Bandos.,Um amuleto de duendes com o sigilo dos bandos.
+/ABAC817F41D69188A944E48EAA908350,A goblin amulet bearing the sigil of Bandos.,Um amuleto de goblins com o sigilo dos bandos.
 /496BB26C429D95BF4E12F1942BE2AD3E,"A goblin artefact, found on a druid.","Um artefato de goblin, encontrado em um druida."
 /786166A0431AB98D07F27EBBF4D085CC,A hardy plant found in swamps and caves.,Uma planta resistente encontrada em pântanos e cavernas.
 /0B61879245E41F0F2C163C8F16DF39C9,A held melee weapon,Uma arma corpo a corpo segurada
@@ -1330,7 +1330,7 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /13262D5F4F761CA87F5FC29B5CDE862D,HORIZONTAL THIN BEAM,Viga fina horizontal
 /436918A94BA0AC69D1A4ADAB3B3D40C8,HORIZONTAL THIN BEAM,Viga fina horizontal
 /245BC6E542AE8DBF0864CC87F9391069,"Handy for building structures, crafted from bronze bars.","Útil para construir estruturas, criado a partir de barras de bronze."
-/C041973544DAF50AEE3A3AB121C457AF,Hard Leather Chaps,Calças de couro duro
+/C041973544DAF50AEE3A3AB121C457AF,Hard Leather Chaps,Perneiras de Couro Resistente
 /2F5EA26047D3A30877D4029BEE255F83,Hard Rock Life,Vida de Pedra Dura
 /AABB7118439447EB7EFAD39246F8E6B9,Hard Rock Life,Vida de Pedra Dura
 /1EA2CA8D470BF8B40022BA9C1F5132D2,"Harvested from bloodwood trees, found in the toxic swamp in Ghornfell.","Coletado de árvores de madeira sangrenta, encontradas no pântano tóxico de Ghornfell."
@@ -1471,7 +1471,7 @@ The Contents of this Chest-The Design Team",IOU: O conteúdo deste baú-A equipe
 /F7B7A1BA45FC300DB4218FB5D67B99C6,Inverted Triangle Roof 63° (small),Telhado de triângulo invertido 63° (pequeno)
 /56331DFE43580FA53DC900A2320E579F,Investigate,Investigar
 /6469080B4D956A402A7E7F9C12613D1A,Investigate,Investigar
-/82DCD4C9420A24B35B3B91854E969AD6,Investigate Velgar's tower in search of Cathan,Investigue a torre de Velgar em busca de Cathan
+/82DCD4C9420A24B35B3B91854E969AD6,Investigate Velgar's tower in search of Cathan,Procure por Cathan na torre de Velgar.
 /C3347E7F49F4D8EC26EA6E99F463BF08,Investigate the blue-flame door in the swamp. Find out what Cathan is up to,Investigue a porta de chama azul no pântano. Descubra o que Cathan está fazendo
 /39645A0A48DE1D6A8485BDBC58228571,Invulnerable,Invulnerável
 /1D908A084AA7B035CFF41C82EF8A1E48,Iron Bar,Barra de ferro
@@ -1491,7 +1491,7 @@ The Contents of this Chest-The Design Team",IOU: O conteúdo deste baú-A equipe
 /ED36947641F367AA5D5BFFBD76399E0F,Iron Ore Node,Veios de minério de ferro
 /F2A8AF794282B954547B1B8B138240EA,Iron Ore Node,Veios de minério de ferro
 /F86871224AEFF5BFE27CF69F5FEF3987,Iron Ore Node,Veios de minério de ferro
-/D351871F400BC1980992C3AE5E920C11,Iron Platelegs,Planadores de ferro
+/D351871F400BC1980992C3AE5E920C11,Iron Platelegs,Perneiras de Ferro
 /0CF68DEC470D2250D4736CA0A9B39A4B,Iron Shield,Escudo de ferro
 /98CF53304022DDD97BDA59BA132F58C8,Is often uncomfortable with ambiguity,Muitas vezes é desconfortável com a ambiguidade
 /D810D54F4F5551E6DA5571AE185B875A,Is often uncomfortable with ambiguity,Muitas vezes é desconfortável com a ambiguidade
@@ -1507,20 +1507,20 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /5E429BF6476F3B56E2DDDDAF58E1090C,Item name placed here second line if needed,"Nome do item colocado aqui segunda linha, se necessário"
 /77B586434DC0C8E31C0260AEC117C590,Item name placed here second line if needed,"Nome do item colocado aqui segunda linha, se necessário"
 /BBF16CF841AEC75E7B2C46B03E235B24,J,J
-/35BB95704D2827D1F2D29B96238C8D09,JAGEX-{0},Jagex-{0}
+/35BB95704D2827D1F2D29B96238C8D09,JAGEX-{0},JAGEX-{0}
 /2A82CF2E47A4EF3E96B10BA655934CF3,Jeweller's Tools,Ferramentas de joalheiro
 /52368AEB48F3396C776E3E937EA6571D,Jewellery,Jóias
 /6B98C64442A147816AC74486B54C0603,Jewelry,Joia
-/583F49AB4E87859C466594893AF9D772,Journal,Jornal
-/794C1D7C46C3EDCD2FB8FBB9A460E8A3,Jump Height,Altura de salto
-/44243BD74F091B22E407CAB8053DB5B6,Jump Stamina Cost,Salto de resistência
+/583F49AB4E87859C466594893AF9D772,Journal,Diário
+/794C1D7C46C3EDCD2FB8FBB9A460E8A3,Jump Height,Altura de pular
+/44243BD74F091B22E407CAB8053DB5B6,Jump Stamina Cost,Custo de Stamina para pular
 /F7E4970049F3F23D4196FA8BE04B1A75,K,K
 /652C744B4339E2AD67BC57A1D15CC6F5,Kebbit,Kebbit
 /8718BFFA46B514A3459B5F8B134C4F1A,Kebbit,Kebbit
 /7DD735B74B5A8FB00D2F61AD93AFCCF1,Keg Barrel,Barril de Chope
-/39A23E8D4471EF6E7F29B684B8D1D698,Kick,Chute
+/39A23E8D4471EF6E7F29B684B8D1D698,Kick,Kick
 /FC48363345D9AF69F73B2991B1118523,Kick Player,Kick jogador
-/BA51E93944B65C3407D7E2AB6B6D019F,Kicked Users,Usuários chutados
+/BA51E93944B65C3407D7E2AB6B6D019F,Kicked Users,Usuários expulsados
 /C736F3B54AA27EAE8CFC5093620E9BD9,Kill four rats and cook two rat roasts from their meat,Mate quatro ratos e cozinhe dois assados de ratos da carne
 /7238765B41D3604E5BAE37BDFD45486F,Kiln,Forno
 /82AF5C914BFAAFB308611EB6AC60D996,Kiln,Forno
@@ -1529,13 +1529,13 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /422E9462411B3BAD32A092A6F3778D22,L1,L1
 /F6D298C347BB49E3C37DCEB0B89C2C9D,L2,L2
 /D4D462274144345C572D778A10CF531C,L3,L3
-/F333C05F4FF8C6114CA76EA9A60F7D59,LAN PLAY,Lan Play
-/DF5E9BC74DAEAB2B5D2FDAB30730627E,LB,LIBRA
-/5081B35C447A3B1CB3828AA6A218E92A,LEGEND,LENDA
-/6BD26A1347EA47ACD37D039F5EBAF52E,LIVE,AO VIVO
-/452F139E41E5FB026F5C8BB4599DCD53,LS,Ls
-/6157B7C94A85EACBE2FC8EB540DC8E63,LT,Lt
-/5F6306174054E1BD32C47E81BB6F4C9A,Label,Rótulo
+/F333C05F4FF8C6114CA76EA9A60F7D59,LAN PLAY,LAN PLAY
+/DF5E9BC74DAEAB2B5D2FDAB30730627E,LB,LB
+/5081B35C447A3B1CB3828AA6A218E92A,LEGEND,LEGEND
+/6BD26A1347EA47ACD37D039F5EBAF52E,LIVE,LIVE
+/452F139E41E5FB026F5C8BB4599DCD53,LS,LS
+/6157B7C94A85EACBE2FC8EB540DC8E63,LT,LT
+/5F6306174054E1BD32C47E81BB6F4C9A,Label,Label
 /EE532ECF4DB6286415293E9548702980,Large,Grande
 /7E198D6F4EEF04A0FA1C5E9221A660C4,Large Bronze Bar Pile,Grande pilha de barra de bronze
 /6F9CC458429D7358D42249882ED29685,Large Chest,Báu grande
@@ -1552,7 +1552,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /AFD2188348D946A4076C57AB5186E50B,Learn,Aprender
 /CDB5320742A1A00967FE05AF524C5936,Learn,Aprender
 /DC8A0BDF44CC30CC40FE3D80CDFA218B,Learn,Aprender
-/40F727B0475E78648696DA8B38CD3680,Leather Chaps,Capas de couro
+/40F727B0475E78648696DA8B38CD3680,Leather Chaps,Perneiras de Couro
 /E051BE4542426209AC71A183D530A79E,Leather From Hide,Couro de Hide
 /EE3B2BEE4280488486970BB440FEE030,Leather From Scraps,Couro de restos
 /38E9DC6043EDF5FD0C1804AD155B528F,Leather Shield,Escudo de couro
@@ -1640,7 +1640,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /419EA3C243B74CEC500316B978528554,Magic Attack Max Conjuring Time Multiplier,Multiplicador do Tempo Máximo de Conjuração de Ataques Mágicos
 /806203D94001402A62CCCAAC1202F851,Magic Attack Rune Refund Chance,Chance de reembolso de runas em ataques mágicos
 /EFDC5DFA466D2D0108C754A28EACC34D,Magic Attack Speed,Velocidade de ataque mágico
-/3D785DE04FE19C67560740851F81FE78,Magic Attack Stamina Cost,Custo de stamina para ataques mágicos
+/3D785DE04FE19C67560740851F81FE78,Magic Attack Stamina Cost,Custo de Stamina para ataques mágicos
 /16FD7F4D4A646281532D95910E2A82C1,Magic Conjuring Time,Tempo de conjuração mágica
 /B29D3F40439E757D2ECA9A853C42F9DA,Magic Defense,Defesa mágica
 /3012CC014AEC76DD1DB8059730EE49C5,Magic Weapon,Arma mágica
@@ -2051,7 +2051,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /2738E19B4751B3C98A24F0B16FA60E2D,PLAN: Skill Tome-Magic,Plano: Tomo de Habilidade - Magia
 /909956804D0CC982FF9346BBB0F37FDF,PLAN: Skill Tome-Mining,Plano: Tomo de Habilidade - Mineração
 /039DD5A345F0BDF6A881579DE6AD2193,PLAN: Skill Tome-Ranged,Plano: Tomo de Habilidade - Combate à distância
-/0F0856D24D0317ED589D6C95F8B70FC3,PLAN: Skill Tome-Runecrafting,Plano: Tomo de Habilidade - Criação de Runas
+/0F0856D24D0317ED589D6C95F8B70FC3,PLAN: Skill Tome-Runecrafting,Plano: Tomo de Habilidade - Criação de Runa
 /3E263DA8496F423A9CCCD591EAB87D11,PLAN: Skill Tome-Woodcutting,Plano: Tomo de Habilidade - Corte de Lenha
 /779A2223458EDB162816A08386F4E494,PLAN: Small Bronze Bar Pile,Plano: Pilha pequena de barras de bronze
 /D68DDDC0467D92E56732E4972BCB1FEF,PLAN: Small Clay Bin,Plano: Caixa pequena de argila
@@ -2494,7 +2494,7 @@ Runas são retidas se você morrer."
 /00139EB4427C00BA80A673A8BDB15C00,Shows you additional information about this sound instance in 3D space,Mostra informações adicionais sobre esta instância de som no espaço 3D
 /3946C433488BA21FF446DC848BC890CF,Shows you additional information about this sound instance in 3D space,Mostra informações adicionais sobre esta instância de som no espaço 3D
 /D39C55F24D13925E522BDDBB80F29BFD,Side Table,Mesa lateral
-/4F9DDF02499F6B2DB0877D959616C0CE,Siege the goblin castle and look for Cathan,Cerco o castelo dos duendes e procure Cathan
+/4F9DDF02499F6B2DB0877D959616C0CE,Siege the goblin castle and look for Cathan,Cerco o castelo dos goblins e procure Cathan
 /178C7C3C4C2F46295A863CBDF22796EB,Sign,Sinal
 /2BD831044164CE22557BF19A9D9A33A8,Sign,Sinal
 /3B08A37943BFAC780C3E959815F18763,Sign,Sinal
@@ -2559,18 +2559,18 @@ Runas são retidas se você morrer."
 /E428EFB14E6B7547073ED9B5D2EA2F83,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
 /F5E4A6EE4939E4AA3FB7259B10A529E6,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
 /FCD6DB47479C323D5D3BD996472DE707,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
-/2D6A58AE4438F517914C1EA520662854,Skill Tome-Arrtisan,Skill Tome-Arrtisan
-/8482CE2C43286325C1609CB61A8DC120,Skill Tome-Attack,Tomador de habilidade-ataque
-/B2454C1D41395191135BFABBB86A6E8A,Skill Tome-Construction,Tomado de habilidade-Construção
-/64B57C2C47765F2374F9D7A11685A597,Skill Tome-Cooking,Tomado de habilidade-cozinhar
-/5A3C77B64C439A1DE00D97A3D25887A9,Skill Tome-Magic,Skill Tome-Magic
-/74CD4B7749D00F40583869A666CED8F2,Skill Tome-Mining,Tomador de habilidade-mineração
-/3454337A4B4DEC0F4CC9A587081F0510,Skill Tome-Ranged,Skill Tome-à distância
-/AE2508814A942D1DD404D5839B51DEFA,Skill Tome-Runecrafting,Skill Tome-Runecrafting
-/43F2792F40B9350373BC4DBB7D1394DC,Skill Tome-Woodcutting,Tomado de habilidade-Corpo de madeira
+/2D6A58AE4438F517914C1EA520662854,Skill Tome-Arrtisan,Skill Tomo-Artesanato
+/8482CE2C43286325C1609CB61A8DC120,Skill Tome-Attack,Skill Tomo-Ataque
+/B2454C1D41395191135BFABBB86A6E8A,Skill Tome-Construction,Skill Tomo-Construção
+/64B57C2C47765F2374F9D7A11685A597,Skill Tome-Cooking,Skill Tomo-Culinária
+/5A3C77B64C439A1DE00D97A3D25887A9,Skill Tome-Magic,Skill Tomo-Magia
+/74CD4B7749D00F40583869A666CED8F2,Skill Tome-Mining,Skill Tomo-Mineração
+/3454337A4B4DEC0F4CC9A587081F0510,Skill Tome-Ranged,Skill Tomo-Combate à Distância
+/AE2508814A942D1DD404D5839B51DEFA,Skill Tome-Runecrafting,Skill Tomo-Criação de Runa
+/43F2792F40B9350373BC4DBB7D1394DC,Skill Tome-Woodcutting,Skill Tomo-Corte de Lenha
 /3BC4159F492B4202FB8ABE92E52161A0,Skills,Habilidades
 /830B623A468D47CFAFC90B957A56A396,Skills Menu,Menu de habilidades
-/723C2D6A4E5573D8E0F2AF9C9D668B09,Skullsplitter,Skullsplitter
+/723C2D6A4E5573D8E0F2AF9C9D668B09,Skullsplitter,Quebra-crânios
 /6A912CA945BA767B768DE3BF6432E69D,Slanted Wall 26°,Parede inclinada 26°
 /D5A60F8243017064AD42CEA361CB6251,Slanted Wall 26° (small),Parede inclinada 26° (pequena)
 /3A9B55814F52217C2B10C7BDA1DC7CFD,Slanted Wall 45°,Parede inclinada 45°
@@ -2582,8 +2582,8 @@ Runas são retidas se você morrer."
 /B567340C4680564BC5AFB6B9B9465092,Sleep,Dormir
 /CFB5ED7941639B63682C08B8567AA481,Sleep,Dormir
 /0DA1708E42D0800EFB05B690A50920C2,Slider,Slider
-/7080C8554C1BAA6F72F06E9A3CDB1593,Slider Display,Exibição deslizante
-/74D821F54A4760DA50656A9213661538,Slider Display,Exibição deslizante
+/7080C8554C1BAA6F72F06E9A3CDB1593,Slider Display,Slider Display
+/74D821F54A4760DA50656A9213661538,Slider Display,Slider Display
 /35D72A4541182CF5B24F638643DF105F,Slow,Lento
 /85A8ACFC413829FBDF20ABA30EB8ECFD,Slow,Lento
 /65479FB14BE9154905E60D8DC1EAC507,Small 30° Hip Roof,Teto pequeno de 30°
@@ -2602,29 +2602,29 @@ Runas são retidas se você morrer."
 /6536C31E4DAC2F8368EE499AB3C90DC7,Small 60° Roof,Pequeno teto de 60°
 /2BD560D347EFDA2ED45ADABF53F62E45,Small 60° Valley Roof,Telhado pequeno de 60°
 /50711A474CA171586234EF8ED18CD713,Small Bronze Bar Pile,Pequena pilha de barra de bronze
-/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Báu pequeno
-/1084BCF540E0A4F42408EBBABE29F33F,Small Clay Bin,Estanho de argila pequena
+/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Baú pequeno
+/1084BCF540E0A4F42408EBBABE29F33F,Small Clay Bin,Caixote de argila pequeno
 /3BCDC1DE4D06F1BB2982D2A05306653F,Small Clay Pile,Pequena pilha de argila
-/C130BD644E03AB41CD2F73BF0C1A974C,Small Coarse Thread Bin,Bin lã grossa pequena
-/D52799F749334D92312A6992D7B0F458,Small Copper Bin,Estanho pequena de cobre
+/C130BD644E03AB41CD2F73BF0C1A974C,Small Coarse Thread Bin,Caixote de fio grosso pequeno
+/D52799F749334D92312A6992D7B0F458,Small Copper Bin,Caixote de cobre pequeno
 /22A1265D436667F6DB2ABABC901030E8,Small Copper Nugget,Pequena pepita de cobre
 /54581C72426147C4EF84649807047EC7,Small Gold Bar Pile,Pequena pilha de barra de ouro
-/2FD40A7643D70EE0AC1AD185B25AE454,Small Gold Bin,Pequena lixeira de ouro
+/2FD40A7643D70EE0AC1AD185B25AE454,Small Gold Bin,Caixote de ouro pequeno
 /D4FFC61049AEAF9734043AAD69F04FDC,Small Gold Nugget,Pequena pepita de ouro
 /0992CE9B43D144EAF5609BAE0A450593,Small Iron Bar Pile,Pequena pilha de barra de ferro
-/4C2AA7E549FD4878E06F1EB6B2AF212A,Small Iron Bin,Estanho pequena de ferro
+/4C2AA7E549FD4878E06F1EB6B2AF212A,Small Iron Bin,Caixote de ferro pequeno
 /0617839342F42B9CEA09ADAA1582C79E,Small Iron Nugget,Pequena pepita de ferro
-/F2DAAA624760EA089F59DCA33E3F43D0,Small Linen Cloth Bin,Estanho de pano de linho pequeno
-/39DDD3F0456593345EBABE9174C68ACE,Small Padded Cloth Bin,Estanho de pano acolchoado pequeno
+/F2DAAA624760EA089F59DCA33E3F43D0,Small Linen Cloth Bin,Caixote de pano de linho pequeno
+/39DDD3F0456593345EBABE9174C68ACE,Small Padded Cloth Bin,Caixote de pano acolchoado pequeno
 /66287A3B4AE01318DC16CE842C212BD5,Small Silver Bar Pile,Pequena pilha de barra de prata
-/4EF7C3404B99DB8D427E62B5CDBDDF17,Small Silver Bin,Pequena lixeira de prata
+/4EF7C3404B99DB8D427E62B5CDBDDF17,Small Silver Bin,Caixote de prata pequeno
 /DA35F08D44E8F1F45F31E68587748305,Small Silver Nugget,Pequena pepita de prata
 /9FFB6B1E4F815751B7DD4482EB46D866,Small Square Tile,Pequeno ladrilho quadrado
 /FA9569564EDDF4FE389D619624A55B79,Small Square Tile,Pequeno ladrilho quadrado
-/2F9221974929FA33EA21F995F2422FBD,Small Tin Bin,Pequena Estanho de Estanho
-/F1FD12DB4CB06FB792AF3E9C1D2188B4,Small Tin Nugget,Pequena pepita de Estanho
-/0E0FC8954A89BC10699C69817A52E8D8,Small Wool Cloth Bin,Caixote de pano de lã pequena
-/D2BB0F3245CD0ADC7375C39666ECB13A,Small Wool Thread Bin,Lixo de lã de lã
+/2F9221974929FA33EA21F995F2422FBD,Small Tin Bin,Caixote de estanho pequeno
+/F1FD12DB4CB06FB792AF3E9C1D2188B4,Small Tin Nugget,Pequena pepita de estanho
+/0E0FC8954A89BC10699C69817A52E8D8,Small Wool Cloth Bin,Caixote de pano de lã pequeno
+/D2BB0F3245CD0ADC7375C39666ECB13A,Small Wool Thread Bin,Caixote de fio de lã pequeno
 /D3B4EE6144E7E74AAF7A8D9EE8976514,"Smelted from Copper Ore, this metal can be mixed with Tin to create Bronze if you have a Crucible.","Fundado a partir de minério de cobre, esse metal pode ser misturado com estanho para criar bronze se você tiver um cadinho."
 /8B646DCD4B10CFC88C054A9C5A6852C6,"Smelted from Tin Ore, this metal can be mixed with Copper to create Bronze if you have a Crucible.","Fundado do minério de Estanho, esse metal pode ser misturado com cobre para criar bronze se você tiver um cadinho."
 /0ED563AB4EC15C5FB45B86A617F38CE0,Smithing Anvil,Smithing Anvil
@@ -2639,8 +2639,8 @@ Runas são retidas se você morrer."
 /50FBC4874FA208F4B4A5FA91900C2178,"Sorry, it’s morning. You have to get up!","Desculpe, é de manhã. Você tem que se levantar!"
 /2A4A5AE0419BA811938C4AA116EA24B4,Sort,Organizar
 /7DF1ED3F4FB8DE6B195C7688D665C393,Sort,Organizar
-/53AFB4714704A9B3D43131BEE3AAC9E3,SoundClass,SOLTCLASS
-/7B6117734C46AE59346897B72529EB9E,SoundClass,SOLTCLASS
+/53AFB4714704A9B3D43131BEE3AAC9E3,SoundClass,SoundClass
+/7B6117734C46AE59346897B72529EB9E,SoundClass,SoundClass
 /6DB5A9F94005EECC6CCEA48FD69B7E3E,Sous-chef,Sous-chef
 /A5F21A85431032B804631DA2848B0CC5,South,Sul
 /F98A4B664325CAB15CE2A2B17477271D,Space,Espaço
@@ -2726,13 +2726,13 @@ Runas são retidas se você morrer."
 /BD9DFBB640C273D29DEE769C2B13FE4E,Stone Boulder,Boulder de pedra
 /BCE0FBB44FD40DD1314E3C9F85A90C67,Stone Fireplace,Lareira de pedra
 /111797D44A1D87FC9FB87F8695A69D1D,Stone Prayer Altar,Altar de oração de pedra
-/D9EE805440325FD5762CAEB193722C2C,Stool,Banco
+/D9EE805440325FD5762CAEB193722C2C,Stool,Banquinho
 /B66422E94F3C454565E18986481BA9A2,Storage,Armazenar
-/A1E392564E215E64311ED3942D33907F,Strips of imbued dire wolf leather for the granite maul grips. Infused with primal savagery.,Tiras de couro de lobo imbuído para as garras maul de granito. Infundido com selvageria primordial.
-/9C5CEA034180E45E35B204901FC5AE00,Strong threads of spidersilk that can be spun into cloth.,Fortes fios de Spidersilk que podem ser girados no pano.
+/A1E392564E215E64311ED3942D33907F,Strips of imbued dire wolf leather for the granite maul grips. Infused with primal savagery.,Fragmentos de couro de lobo terrível imbuídos para as empunhaduras das garras maul de granito. Infundidos com selvageria primal.
+/9C5CEA034180E45E35B204901FC5AE00,Strong threads of spidersilk that can be spun into cloth.,Fios fortes de teia de aranha que podem ser fiados em tecido.
 /CBFEAA844EB0016C89CC4381BB010CBD,Stronger Logging Axe needed,Machado de log mais forte necessário
 /88D3F4E3480E530EB782A49AF9E9610D,Stronger Pickaxe needed,Picareta mais forte necessária
-/436D3EA948A0869E873AE0A0F61956F2,Studded Leather Chaps,Capinhas de couro cravejado
+/436D3EA948A0869E873AE0A0F61956F2,Studded Leather Chaps,Perneiras de Couro Reforçado
 /1BAABFAC4BB4662FA8E61C802F5BE98A,Study,Estudar
 /1E335DDC4275D0FAB6D3A191317ECCC0,Study,Estudar
 /24D57C024035DD506BAC2D9DC5AA6E20,Study,Estudar
@@ -2791,7 +2791,7 @@ Runas são retidas se você morrer."
 /609CA2BC461E9695A411C298DB32556E,Switch Panel Right,Painel de interruptor à direita
 /20D4129743DD3E4E9E1A9092847BD63C,T,T
 /DC48301A426F372CEC2C20AEF0E495D1,T,T
-/77B7A27242281654E2D2FFB77D56AAEF,TEST_Cake,Test_cake
+/77B7A27242281654E2D2FFB77D56AAEF,TEST_Cake,TEST_Cake
 /1E897631455EB0FF80FE8F829ABFD446,TUTORIAL TITLE,Título do tutorial
 /23CB81AE4BAE0D6DE98141B01898D2E0,Tab,Guia
 /946151D34413A8BC7E18DC9C8ACE3DAE,Tab Left,Guia esquerda
@@ -2806,7 +2806,7 @@ Runas são retidas se você morrer."
 /C47370244B49C6BC85426388DD471E07,Tab Sub Left,Guia Sub esquerda
 /AC96A8984619E8D41D4DDFAC5D91BE0B,Table,Mesa
 /A800F1B342E20B26563D1AA596A15D63,Tables & Chairs,Mesas e cadeiras
-/B17AC2BD4DEBE166E03F60A29FA3D527,Take All,Pegue tudo
+/B17AC2BD4DEBE166E03F60A29FA3D527,Take All,Pegar tudo
 /7B059ED94DDB4A2538FD41AD0F2C54CE,Taking fire damage over time.,Sofrendo danos causados pelo fogo ao longo do tempo.
 /5570B6674D5003B0B12A40875DBD063B,Taking physical damage over time.,Sofrendo danos físicos ao longo do tempo.
 /A0D54AE5414469E0443279BFC2708C2B,Talk,Falar
@@ -3168,11 +3168,11 @@ ou não há masmorra"
 /D5E6FBA44285CA1D4E0645893A42944C,Whetstone,Pedra de amolar
 /6C9E41004149D57DC7CD028C897B9953,WideDoor,WindoDoor
 /DA119C6C49BBE9BA920BA0B73E96054F,WideDoors,Widedoors
-/4E4B3BA74BBFB1B0C1F32790A65A4708,Wild Archer Body,Corpo arqueiro selvagem
-/3FD23AF0464498066336D294607991FF,Wild Archer Chaps,Arqueiro selvagem manchas
-/61CA1FAA4281E9361333E5B01A36B6A5,Wild Archer Cowl,Wild Archer Cowl
-/57C929514A5F8C04F717229D8E59B30B,Wild Jade Vine,Wild Jade Vine
-/62CCFA3A40DD203A4ABBFAB1A1EC081D,Wild Scout's Shortbow,Scout de Scout Scout
+/4E4B3BA74BBFB1B0C1F32790A65A4708,Wild Archer Body,Corpo de Arqueiro Selvagem
+/3FD23AF0464498066336D294607991FF,Wild Archer Chaps,Perneiras de Arqueiro Selvagem
+/61CA1FAA4281E9361333E5B01A36B6A5,Wild Archer Cowl,Capuz de Arqueiro Selvagem
+/57C929514A5F8C04F717229D8E59B30B,Wild Jade Vine,Planta de jade selvagem
+/62CCFA3A40DD203A4ABBFAB1A1EC081D,Wild Scout's Shortbow,Arco curto do batedor selvagem
 /E40FC3864D96E9CAF688F382B5F415A8,Wild Spices,Especiarias selvagens
 /5D692985459A777B04333C953227FDB6,Wind Step,Passo do vento
 /45E2103B41B792EEAC995C90141198B9,Window,Janela
@@ -3412,7 +3412,7 @@ CraftingResultBase/NotUnlockedText,Not Unlocked,Não desbloqueado
 Dominion/FailedToLoadPlayerState,Failed to load player state,Falhou em carregar o estado do jogador
 Dominion/FailedToLoadWorldState,Failed to load world state,Falhou em carregar o estado mundial
 Dominion/FailedToSpawnPawn,Failed to spawn pawn,Falha ao gerar a entidade
-Dominion/Gravestone_Name,Gravestone ({0}),Gravestone ({0})
+Dominion/Gravestone_Name,Gravestone ({0}),Lápide ({0})
 Dominion/DuplicatePlayerId,You are already connected to this server,Você já está conectado a este servidor
 Dominion/OreNode_Name,"{0}
 Depleted","{0}
@@ -3453,7 +3453,7 @@ Goblins podem ser rude, indisciplinados e fedorentos, mas comemoram bem. Nós ri
 
 Ele está certo. Eu gostei de uma causa justa.
 
-Talvez os duendes não sejam tão ruins."
+Talvez os goblins não sejam tão ruins."
 JOURNAL_Lore_Drops/DragonAttack_A1,"17 Novtumber 4207
 
 I miss the monastery, with its moss-covered walls and the chill breeze that spreads to your bones. They don't have that here. The Ashenfall breeze is strong and cold, but it seeps into your bones and causes shakes, not shivers. It's the sort of cold that acts as a warning.
@@ -3491,7 +3491,7 @@ I never met Guthix, I’m far too young, but I hear stories of how he towered ab
 
 Good, let him focus on them.","23 Raktuber 4163
 
-Guthix me perdoa, mas eu odeio duendes. Recentemente, eles chegaram a Ashenfall e imediatamente começaram a causar problemas. Eles são pequenas criaturas estranhas. Pele verde, braços poderosos e um odor mais que qualquer coisa que eu já encontrei. Eles parecem se deliciar com nada mais do que brigar com qualquer coisa que se mova. Ou, às vezes, não se move, eu os vi lutar com uma pedra.
+Guthix me perdoa, mas eu odeio goblins. Recentemente, eles chegaram a Ashenfall e imediatamente começaram a causar problemas. Eles são pequenas criaturas estranhas. Pele verde, braços poderosos e um odor mais que qualquer coisa que eu já encontrei. Eles parecem se deliciar com nada mais do que brigar com qualquer coisa que se mova. Ou, às vezes, não se move, eu os vi lutar com uma pedra.
 
 Principalmente eu os ignoro. Eles tentaram invadir minha cabana algumas vezes, mas nunca em grande número. Dou a eles um som que se debate com minha vassoura e isso normalmente é suficiente para enviá-los para as malas. Eles são uma dor mais do que qualquer coisa, dificilmente uma ameaça.
 
@@ -3536,7 +3536,7 @@ There can be no peace with animals.","4 Bennath 4210
 
 Isso está em casa. Guerra. Uma guerra que se agita por milhares de anos. Uma guerra entre os próprios deuses, uma escala de destruição que deve ter sido impensável antes. No entanto, esta é a única vida que conheci.
 
-Trouxemos parte dessa guerra conosco, é claro. O sumo sacerdote e o Senhor local intermediaram uma aliança de espadas com os duendes dos bandos. Pequenas criaturas horríveis, que não querem nada além da emoção do massacre. Há um inimigo compartilhado entre nós e concordamos em acabar com eles. Os garou e sua deusa blasfêmica, eles ficaram de boas-vindas.
+Trouxemos parte dessa guerra conosco, é claro. O sumo sacerdote e o Senhor local intermediaram uma aliança de espadas com os goblins dos bandos. Pequenas criaturas horríveis, que não querem nada além da emoção do massacre. Há um inimigo compartilhado entre nós e concordamos em acabar com eles. Os garou e sua deusa blasfêmica, eles ficaram de boas-vindas.
 
 Estávamos aqui primeiro e não desejamos compartilhar. Os bandos querem vingança, por um pouco ou outro a deusa criada. Queremos recuperar o que é nosso por direito. Então, trabalharemos juntos e limparemos esses monstros.
 
@@ -4098,14 +4098,14 @@ QF_FTUE_Dialogue/FTUE_WoM_WhoAreYou2,"My name is Dionysius, but most people just
 QF_FTUE_Dialogue/Zanik_SeekingShelter_SpokeToBefore_QuestNotComplete,"Not finished yet? Once you've made a shelter, make sure you've claimed a bed. Then come back and see me.","Ainda não terminou? Depois de fazer um abrigo, verifique se você reivindicou uma cama. Então volte e me veja."
 QF_FTUE_Dialogue/WoM_RuneMysteries_Started_NotComplete_1,"Not made any runes yet? It's quite simple really, you just need to find a source of rune essence.","Ainda não fez runas? Na verdade, é muito simples, você só precisa encontrar uma fonte de essência de Runas, minerar e utilizar a contrução do Altar de Runa."
 QF_FTUE_Dialogue/FTUE_Vannaka_WhoAreYou3,"Now I'm here. Because... because there's more evil. There's more danger. But there's... no, never mind. Not important.","Agora estou aqui. Porque... porque há mais mal. Há mais perigo. Mas há... não, não importa. Não é importante."
-QF_FTUE_Dialogue/FTUE_WoM_AboutExpedition5,"Now that we know the first lot were all murdered by dragons, goblins and some aggressively fuzzy locals, we can start to push forward and do a better job of exploring. And by we, I mean you. I'm going to have a nice cup of tea and wait until you report back. Have fun.","Agora que sabemos que o primeiro lote foi assassinado por dragões, duendes e alguns moradores agressivamente confusos, podemos começar a avançar e fazer um trabalho melhor em explorar. E por nós, quero dizer você. Vou tomar uma boa xícara de chá e esperar até você se reportar. Divirta-se."
+QF_FTUE_Dialogue/FTUE_WoM_AboutExpedition5,"Now that we know the first lot were all murdered by dragons, goblins and some aggressively fuzzy locals, we can start to push forward and do a better job of exploring. And by we, I mean you. I'm going to have a nice cup of tea and wait until you report back. Have fun.","Agora que sabemos que o primeiro lote foi assassinado por dragões, goblins e alguns moradores agressivamente confusos, podemos começar a avançar e fazer um trabalho melhor em explorar. E por nós, quero dizer você. Vou tomar uma boa xícara de chá e esperar até você se reportar. Divirta-se."
 QF_FTUE_Dialogue/Vannaka_Ratcatcher_Intro_NotGotFangs2,"Now then, let's see if you've got what it takes to survive in this gods forsaken land.","Agora, então, vamos ver se você tem o que é preciso para sobreviver nesses deuses que a terra abandonada."
 QF_FTUE_Dialogue/Vannaka_ButterKnife_CompleteQuest,"Now, all the fashionable people accessorise, so here's a couple of rings to choose from.","Agora, todas as pessoas da moda acessórios, então aqui estão alguns anéis para escolher."
 QF_FTUE_Dialogue/Doric_RightTool_SpokenTo_MadeAxe_3,"Now, go chat with Zanik next, the friendly little green lass on the other side of the path by that tent. She'll teach you how to build a shelter.","Agora, vá conversar com Zanik em seguida, a pequena moça verde amigável do outro lado do caminho por aquela barraca. Ela vai te ensinar a construir um abrigo."
 QF_FTUE_Dialogue/WoM_LinkToRatcatcher_1,"Now, onto the scary stuff. You'll want to talk to Vannaka next. He'll help you avoid a brutal and agonising death...maybe. Have fun!","Agora, sobre as coisas assustadoras. Você vai querer falar com Vannaka em seguida. Ele ajudará você a evitar uma morte brutal e agonizante... talvez. Divirta-se!"
 QF_FTUE_Dialogue/WoM_FirstSteps_Intro_SkipTutorial_2,"Now, tell me, how do you feel about slaying dragons?","Agora, diga-me, como você se sente sobre matar dragões?"
 QF_FTUE_Dialogue/Vannaka_Butterknife_LinkToWom,"Now, young pup, your real adventure begins. Go and speak to the Wise Old Man again, he'll get you up to speed.","Agora, jovem filhote, sua verdadeira aventura começa. Vá e fale com o velho sábio novamente, ele o levará a acelerar."
-QF_FTUE_Dialogue/FTUE_Zanik_QuestLink_Goblins,"Oh, hey. Look, if you want to talk about goblins, let's do it away from here. Some of the others can get a bit jumpy and I'd prefer to keep it between us. Meet me back near the castle and we can go over it.","Oh, ei. Olha, se você quiser falar sobre duendes, vamos fazer isso daqui. Alguns outros podem ficar um pouco saltados e eu prefiro mantê-lo entre nós. Encontre-me de volta perto do castelo e podemos passar por cima."
+QF_FTUE_Dialogue/FTUE_Zanik_QuestLink_Goblins,"Oh, hey. Look, if you want to talk about goblins, let's do it away from here. Some of the others can get a bit jumpy and I'd prefer to keep it between us. Meet me back near the castle and we can go over it.","Oh, ei. Olha, se você quiser falar sobre goblins, vamos fazer isso daqui. Alguns outros podem ficar um pouco saltados e eu prefiro mantê-lo entre nós. Encontre-me de volta perto do castelo e podemos passar por cima."
 QF_FTUE_Dialogue/FTUE_Doric_WhoAreYou1,"Oh, sorry, didn't introduce myself. Names Doric, dwarven master crafstman and retired warrior.","Oh, desculpe, não me apresentou. Nomes Doric, Dwarven Master Crafstman e guerreiro aposentado."
 QF_FTUE_Dialogue/FTUE_Vannaka_Parry1,"Parrying an attack is all about timing. Wait for the right moment, just as the enemy is about to land their strike, and then block the attack.","Aparar um ataque é tudo sobre o tempo. Espere o momento certo, assim como o inimigo está prestes a acertar seu ataque e depois bloquear o ataque."
 QF_FTUE_Dialogue/FTUE_Zanik_Cook2,"Put your raw food on the campfire and wait for it to cook. Then, voila, you'll have a tasty meal.","Coloque sua comida crua na fogueira e espere cozinhar. Então, pronto, você terá uma refeição saborosa."
@@ -4337,23 +4337,23 @@ ST_AI_Names/ColossalRat,Rat King,Rato Rei
 ST_AI_Names/Raven,Raven,Corvo
 ST_AI_Names/Sheep,Sheep,Ovelha
 ST_AI_Names/Terrorbird,Terrorbird,Terrorbird
-ST_AI_Names/ColossalVaultGuardianRanged,Vault Archon,Arconte de Vault
-ST_AI_Names/VaultGuardianMelee,Vault Guardian Hulk,Vault Guardian Hulk
-ST_AI_Names/VaultGuardianRanged,Vault Guardian Sentinel,Vault Guardian Sentinel
-ST_AI_Names/ColossalVaultGuardianMelee,Vault Overlord,Vault Overlord
-ST_AI_Names/JadeVine,Wild Jade Vine,Wild Jade Vine
-ST_AI_Names/LapulisVine,Wild Lapulis Vine,Vinha selvagem de Lapulis
+ST_AI_Names/ColossalVaultGuardianRanged,Vault Archon,Archon do Cofre
+ST_AI_Names/VaultGuardianMelee,Vault Guardian Hulk,Guardião Hulk do Cofre
+ST_AI_Names/VaultGuardianRanged,Vault Guardian Sentinel,Sentinela do Guardião do Cofre
+ST_AI_Names/ColossalVaultGuardianMelee,Vault Overlord,Lord do Cofre
+ST_AI_Names/JadeVine,Wild Jade Vine,Planta de jade selvagem
+ST_AI_Names/LapulisVine,Wild Lapulis Vine,Planta de Lapulis selvagem
 ST_AI_Names/Wolf,Wolf,Lobo
 ST_Building/Empty,,
 ST_Building/ValidationFloating,,
 ST_Building/ValidationFoundation,,
 ST_Building/ValidationStability,Unstable,Instável
-ST_Building/AdvancedSnapping,Advanced Snapping,Estanqueamento avançado
-ST_Building/CollectionBasicBuilding,Basic Building,Construção básica
-ST_Building/BasicSnapping,Basic Snapping,Estalo básico
-ST_Building/CollectionBasicSurvival,Basic Survival,Sobrevivência básica
+ST_Building/AdvancedSnapping,Advanced Snapping,Fixação Avançada
+ST_Building/CollectionBasicBuilding,Basic Building,Construção Básica
+ST_Building/BasicSnapping,Basic Snapping,Fixação Básica
+ST_Building/CollectionBasicSurvival,Basic Survival,Sobrevivência Básica
 ST_Building/CollectionBeams,Beams,Vigas
-ST_Building/TabBeamsPillars,Beams & Pillars,Vigas e pilares
+ST_Building/TabBeamsPillars,Beams & Pillars,Vigas e Pilares
 ST_Building/ValidationOverlap,Blocked,Bloqueado
 ST_Building/Build,Build,Construir
 ST_Building/BuildMenu,Build Menu,Menu de Construção
@@ -4361,13 +4361,13 @@ ST_Building/Building,Building,Construção
 ST_Building/OculusVerticalMovement,Camera Up/Down,Câmera para cima/para baixo
 ST_Building/CollectionCrafting,Crafting,Criação
 ST_Building/TabCrafting,Crafting,Criação
-ST_Building/CycleSnappingMode,Cycle Snapping Mode,Modo de estalo do ciclo
+ST_Building/CycleSnappingMode,Cycle Snapping Mode,Modo de Fixação de Ciclo
 ST_Building/CollectionDecoration,Decoration,Decoração
 ST_Building/Delete,Delete,Excluir
-ST_Building/CollectionDoorsWindows,Doors & Windows,Portas e janelas
+ST_Building/CollectionDoorsWindows,Doors & Windows,Portas e Janelas
 ST_Building/ExitBuildMode,Exit,Sair
 ST_Building/ExitOculus,Exit Eye of Oculus,Sair do Olho Místico
-ST_Building/CollectionFastTravel,Fast Travel,Viagem rápida
+ST_Building/CollectionFastTravel,Fast Travel,Viagem Rápida
 ST_Building/TabFlooring,Flooring,Piso
 ST_Building/CollectionFloors,Floors,Pisos
 ST_Building/ForwardBack,Forward/Back,Para frente/para trás
@@ -4375,8 +4375,8 @@ ST_Building/CollectionFoundations,Foundations,Fundações
 ST_Building/CollectionFurniture,Furniture,Mobília
 ST_Building/TabFurniture,Furniture,Mobília
 ST_Building/CollectionGeneral,General,Em geral
-ST_Building/GhostModeOff,Ghost Mode Off,Modo fantasma desligado
-ST_Building/GhostModeOn,Ghost Mode On,Modo fantasma ligado
+ST_Building/GhostModeOff,Ghost Mode Off,Modo Fantasma Desligado
+ST_Building/GhostModeOn,Ghost Mode On,Modo Fantasma Ligado
 ST_Building/TabHome,Home,Lar
 ST_Building/CollectionImprovements,Improvements,Melhorias
 ST_Building/ValidationMaterials,Insufficient Resources,Recursos insuficientes
@@ -4445,13 +4445,13 @@ ST_BuildingPieces/DA_T1_Foundation_Triangle_Name,Triangular Foundation,Fundaçã
 ST_BuildingPieces/DA_T2_Foundation_Large_Triangle_Name,Triangular Foundation,Fundação triangular
 ST_BuildingPieces/T2VerticalThickBeamDescription,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
 ST_BuildingPieces/T2VerticalThickBeamName,Vertical Thick Beam,Viga grossa vertical
-ST_Chat/EnemiesScalingUp,"As your numbers grow, so grows Ashenfall's bloodlust. Enemies grow more powerful.","À medida que seus números crescem, cresce a Bloodlust de Ashenfall. Os inimigos se tornam mais poderosos."
-ST_Chat/EnemiesScalingDown,Ashenfall's bloodlust diminishes as your allies depart.,O sangue de Ashenfall diminui à medida que seus aliados partem.
+ST_Chat/EnemiesScalingUp,"As your numbers grow, so grows Ashenfall's bloodlust. Enemies grow more powerful.","À medida que fica mais forte, também cresce a sede de sangue de Ashenfall. Os inimigos se tornam mais poderosos."
+ST_Chat/EnemiesScalingDown,Ashenfall's bloodlust diminishes as your allies depart.,A sede de sangue de Ashenfall diminui com a saída dos seus aliados.
 ST_Chat/SendMessagePlaceholder,Type message here,Digite a mensagem aqui
 ST_Chat/SpamWarning,You are spamming the chat. Please wait a moment.,"Você está enviando spam para o bate-papo. Por favor, espere um momento."
-ST_Chat/PlayerDied,{0} <b>has died</>,{0} <b> morreu </>
-ST_Chat/PlayerJoined,{0} <b>has joined</>,{0} <b> entrou </>
-ST_Chat/PlayerLeft,{0} <b>has left</>,{0} <b> saiu </>
+ST_Chat/PlayerDied,{0} <b>has died</>,{0} <b>morreu.</>
+ST_Chat/PlayerJoined,{0} <b>has joined</>,{0} <b> esta conectado.</>
+ST_Chat/PlayerLeft,{0} <b>has left</>,{0} <b>saiu do servidor.</>
 ST_Controls/Accept,Accept,Aceitar
 ST_Controls/Back,Back,Voltar
 ST_Controls/CombatBlock,Block,Bloquear
@@ -4459,7 +4459,7 @@ ST_Controls/CombatBlockAndParry,Block/Parry,Bloquear/Aparar
 ST_Controls/MenusBuilding,Building,Construção
 ST_Controls/BuildingTabLeft,Building Tab Left,Guia de construção à esquerda
 ST_Controls/BuildingTabRight,Building Tab Right,Guia de construção à direita
-ST_Controls/BuildingCancel,Cancel Building,Cancelar edifício
+ST_Controls/BuildingCancel,Cancel Building,Cancelar Construção
 ST_Controls/DialogCancel,Cancel Conversation,Cancelar conversa
 ST_Controls/FrontendCreateCharacter,Character Create,Criar personagem
 ST_Controls/FrontendCharacterRotateLeft,Character Rotate Left,Personagem Gire para a esquerda
@@ -4471,8 +4471,8 @@ ST_Controls/CraftingCraft,Craft,Criar
 ST_Controls/MenusCrafting,Crafting,Criação
 ST_Controls/CraftingTabLeft,Crafting Tab Left,Guia de criação esquerda
 ST_Controls/CraftingTabRight,Crafting Tab Right,Guia de criação à direita
-ST_Controls/FrontendCreateCharacterReset,Create Character Reset,Crie redefinição de caracteres
-ST_Controls/FrontendCharacterSkip,Create Character Skip,Crie o Skip de personagens
+ST_Controls/FrontendCreateCharacterReset,Create Character Reset,Redefinir Criação de Personagem
+ST_Controls/FrontendCharacterSkip,Create Character Skip,Pular Criação de Personagem
 ST_Controls/FrontendCreateWorld,Create World,Criar mundo
 ST_Controls/MovementCrouch,Crouch,Agachar
 ST_Controls/Debug,Debug,Depurar
@@ -4484,11 +4484,11 @@ ST_Controls/BuildingDestroyObject,Destroy Object,Destruir objeto
 ST_Controls/MenusEmotes,Emote Menu,Menu emote
 ST_Controls/FrontendEnterWorld,Enter World,Entre no mundo
 ST_Controls/CombatEvade,Evade,Desviar
-ST_Controls/BuildingExitMode,Exit Build Mode,Sair de modo de construção
+ST_Controls/BuildingExitMode,Exit Build Mode,Sair do modo de construção
 ST_Controls/BuildingFreePlacement,Free Placement,Posicionamento livre
 ST_Controls/BuildingGhostModifier,Ghost Piece Modifier,Modificador de peça fantasma
 ST_Controls/InventoryQuickTransferGrant,Grant Quick Transfer,Conceder transferência rápida
-ST_Controls/InventorySplitGrant,Grant Split Stack,Grant Split Stack
+ST_Controls/InventorySplitGrant,Grant Split Stack,Conceder Divisão de Pilha
 ST_Controls/InputModifier,Input Modifier,Modificador de entrada
 ST_Controls/InputModifierAlt,Input Modifier Alt,Modificador de entrada alt
 ST_Controls/Interact,Interact,Interagir
@@ -4655,9 +4655,9 @@ Its walls are crumbling, there’s no way to get inside. It’s surrounded by go
 The goblins were all dancing around praising the dragon. They were chanting “Velgar, Velgar, Velgar”, as if his name were a prayer. Like they are calling to him, trying to summon him down.
 Their leaders all had these strange wooden horns that they blew as part of this chant. It’s clear that they’re emulating something. It’s obvious that this is a clue. I stole one of the pieces, so I can get a sense of the shape and I think I have an idea about where else to look. There were symbols on the horns that matches the writing by that door in the swamp. I’ll take a look there next. The best secrets lay buried, after all.","Eu sempre quis ser um explorador. Para viajar para longe de casa, veja vistas que ninguém nunca viu antes. Então, imagine minha surpresa quando chego aqui e vejo Lumbridge, Bloody, Castle. Ou é gêmeo, de qualquer maneira.
 
-Suas paredes estão em ruínas, não há como entrar. É cercado por duendes e, por algum motivo, os incêndios queimam azul. No entanto, a forma, o estilo, inesquecível. Aposto que Zanik tem uma teoria sobre isso. Ela sempre faz.
+Suas paredes estão em ruínas, não há como entrar. É cercado por goblins e, por algum motivo, os incêndios queimam azul. No entanto, a forma, o estilo, inesquecível. Aposto que Zanik tem uma teoria sobre isso. Ela sempre faz.
 
-Todos os duendes estavam dançando elogiando o dragão. Eles estavam cantando ""Velgar, Velgar, Velgar"", como se o nome dele fosse uma oração. Como eles estão chamando para ele, tentando convocá-lo.
+Todos os goblins estavam dançando elogiando o dragão. Eles estavam cantando ""Velgar, Velgar, Velgar"", como se o nome dele fosse uma oração. Como eles estão chamando para ele, tentando convocá-lo.
 
 Todos os líderes tinham esses estranhos chifres de madeira que eles sopraram como parte desse canto. É claro que eles estão emulando algo. É óbvio que isso é uma pista. Eu roubei uma das peças, para que eu possa ter uma noção da forma e acho que tenho uma idéia de onde mais procurar. Havia símbolos nos chifres que combinam com a escrita por aquela porta no pântano.
 
@@ -4746,8 +4746,8 @@ ST_DragonSlayer_v2/PlayerChoice_DenyWoMHead,<Refuse to hand over Velgar's head>,
 ST_DragonSlayer_v2/PlayerChoice_DenyWoMHeads,<Refuse to hand over your Velgar heads>,<Recuse-se a entregar suas cabeças Velgar>
 ST_DragonSlayer_v2/PlayerChoice_DontSummonVelgar,<Step away from the altar>,<Afaste-se do altar>
 ST_DragonSlayer_v2/WoM_DS_GotHorn1,"Ah excellent, you've got one, we can begin. This ritual is a bit old school, proper druidic guff, but it's handy in a pinch.","Ah, excelente, você tem um, podemos começar. Esse ritual é um pouco antigo, uma garra drúida adequada, mas é útil em uma pitada."
-ST_DragonSlayer_v2/WoM_DS_GotHorn5,"Ah... the castle, not ideal. That place is a veritable goblin stronghold. Go see if you can find him, but make sure you're geared up for a fight.","Ah... o castelo, não é o ideal. Esse lugar é uma verdadeira fortaleza de duendes. Vá ver se consegue encontrá-lo, mas verifique se está preparado para uma briga."
-ST_DragonSlayer_v2/WoM_DS_FoundCathanJournal1,"Any sign of young Cathan? What--he escaped, even managed to turn a few goblins to his cause? Interesting lad that, going to go places.","Algum sinal do jovem Cathan? O que-ele escapou, até conseguiu virar alguns duendes para sua causa? Rapaz interessante que, indo a lugares."
+ST_DragonSlayer_v2/WoM_DS_GotHorn5,"Ah... the castle, not ideal. That place is a veritable goblin stronghold. Go see if you can find him, but make sure you're geared up for a fight.","Ah... o castelo, não é o ideal. Esse lugar é uma verdadeira fortaleza de goblins. Vá ver se consegue encontrá-lo, mas verifique se está preparado para uma briga."
+ST_DragonSlayer_v2/WoM_DS_FoundCathanJournal1,"Any sign of young Cathan? What--he escaped, even managed to turn a few goblins to his cause? Interesting lad that, going to go places.","Algum sinal do jovem Cathan? O que-ele escapou, até conseguiu virar alguns goblins para sua causa? Rapaz interessante que, indo a lugares."
 ST_DragonSlayer_v2/WoM_DS_MadeBed3,"Anyway, look, we're set up here, but there's one of our number missing. Young Cathan, an adventurer in training that came along with us.","De qualquer forma, olhe, estamos configurados aqui, mas está faltando um dos nossos números. O jovem Cathan, um aventureiro em treinamento que veio junto conosco."
 ST_DragonSlayer_v2/Goblin_DS_TooEarly,"Argh, leave me alone human.","Argh, deixe-me em paz humano."
 ST_DragonSlayer_v2/Cathan_DS_DoesNotHaveHorn3,"As death's go it could have been more heroic. Not exactly what I wanted on my epitaph. But, hey, silver cloud, you can avenge me now!","À medida que a morte foi, poderia ter sido mais heróico. Não é exatamente o que eu queria no meu epitáfio. Mas, ei, prata, você pode me vingar agora!"
@@ -4809,7 +4809,7 @@ ST_DragonSlayer_v2/CathanJournal_Castle_Content,"Just waiting for Spitfoot to br
 
 Gosto de ser prisioneiro de um goblin, há uma espécie de dança para tudo. Eles ameaçam, gritam, exclamam todas as coisas horríveis que pretendem fazer com você, e então eles nunca o prosseguem.
 
-A cultura de duendes é assim. O forte poder de espera, mas é principalmente performativo-porque se você se tornar uma ameaça demais, alguém o desafiará a fazer você provar que merece.
+A cultura de goblins é assim. O forte poder de espera, mas é principalmente performativo-porque se você se tornar uma ameaça demais, alguém o desafiará a fazer você provar que merece.
 
 O dragão não aprendeu essa lição sobre a fé de Goblin.
 
@@ -4822,7 +4822,7 @@ ST_DragonSlayer_v2/WoM_DS_SpokenToGoblin3,"Look, I hate to ask this, but I need 
 ST_DragonSlayer_v2/Cathan_DS_DoesNotHaveHorn5,"Make the horn, summon the dragon and then kick his ass for me. I'm counting on you, hero, we all are.","Faça a chifre, convoce o dragão e depois chute sua bunda para mim. Estou contando com você, herói, todos nós somos."
 ST_DragonSlayer_v2/WoM_DS_MadeBed2,"Maybe some better lighting? Curtains? A single potted plant? *Sigh* no, no, you're right. It's not important. Why live it up when there's so much squalor to enjoy?","Talvez uma iluminação melhor? Cortinas? Uma única planta em vasos? * Suspiro* Não, não, você está certo. Não é importante. Por que viver quando há tanta miséria para desfrutar?"
 ST_DragonSlayer_v2/WoM_DS_NotClaimedABed1,"Not finished yet? The longer you leave things, the more likely you are to become a dragon's dinner.","Ainda não terminou? Quanto mais você deixa as coisas, maior a probabilidade de se tornar um jantar de dragão."
-ST_DragonSlayer_v2/WoM_DS_NotFoundCathanJournal_Castle,Not found young Cathan yet? Last we heard he'd been captured by the goblins up at the Brynmoor Castle. I'll need you to storm in there and rescue him.,"Ainda não encontrou o jovem Cathan? Por último, ouvimos que ele foi capturado pelos duendes no castelo de Brynmoor. Vou precisar que você invadiu lá e resgatá-lo."
+ST_DragonSlayer_v2/WoM_DS_NotFoundCathanJournal_Castle,Not found young Cathan yet? Last we heard he'd been captured by the goblins up at the Brynmoor Castle. I'll need you to storm in there and rescue him.,"Ainda não encontrou o jovem Cathan? Por último, ouvimos que ele foi capturado pelos goblins no castelo de Brynmoor. Vou precisar que você invadiu lá e resgatá-lo."
 ST_DragonSlayer_v2/WoM_DS_NotGotDeerHorn1,"Not got the ingredients yet? I need you to hunt a deer and bring me one of their antlers. Deers are flighty creatures, and easily spooked.",Ainda não tem os ingredientes? Eu preciso que você caça um cervo e me traga um de seus chifres. Os veados são criaturas de fuga e facilmente assustadas.
 ST_DragonSlayer_v2/WoM_DS_GotHorn4,"Now then, we just need to spread the rune essence like so. Add a dash of this weird unguent stuff Zanik made from snails, and then...","Agora, então, precisamos apenas espalhar a essência da runa. Adicione uma pitada dessa coisa estranha que Zanik, feita de caracóis, e então..."
 ST_DragonSlayer_v2/WoM_DS_RefuseToHandOverHead,"OK... not sure why you want to keep a decomposing dragon's head around, but you do you I guess.","Ok... não sei por que você quer manter a cabeça de um dragão em decomposição, mas você acho que eu acho."
@@ -5019,8 +5019,8 @@ ST_FTUE/Doric_SkippedTutorial_Intro_1,"Strange place this. Ashenfall, I mean. Co
 ST_FTUE/WS_QuestDesc,The Wise Old Man wants to teach you about Lifewards and how to recharge them.,O velho sábio quer ensinar você sobre a vida e como recarregá-los.
 ST_FTUE/Zanik_RM_Intro2,"The interesting thing about Ashenfall is that it's laced with magic. Anima everywhere, pouring out of the ground. Which we can use to our advantage.","O interessante sobre Ashenfall é que está atado com magia. Anima por toda parte, saindo do chão. Que podemos usar para nossa vantagem."
 ST_FTUE/WoM_SkippedTutorial_CanYouTellMeAboutAshenfall_2,The whole continent feels like its infused with anima. Literally pouring out of the ground in some places. That's just not normal.,Todo o continente parece ser infundido com anima. Literalmente saindo do chão em alguns lugares. Isso simplesmente não é normal.
-ST_FTUE/Vannaka_SkippedTutorial_CanYouTellMeAboutAshenfall_2,There are goblins everywhere in Bramblemead and deadlier things beyond.,Há duendes em todos os lugares em coisas de bramblema e coisas mais mortais além.
-ST_FTUE/Zanik_SkippedTutorial_CanYouTellMeAboutAshenfall_1,"There are goblins here, that's unexpected. I thought I knew about all the tribes, but there's a whole load of them here.","Existem duendes aqui, isso é inesperado. Eu pensei que sabia sobre todas as tribos, mas há toda a carga delas aqui."
+ST_FTUE/Vannaka_SkippedTutorial_CanYouTellMeAboutAshenfall_2,There are goblins everywhere in Bramblemead and deadlier things beyond.,Há goblins em todos os lugares em coisas de bramblema e coisas mais mortais além.
+ST_FTUE/Zanik_SkippedTutorial_CanYouTellMeAboutAshenfall_1,"There are goblins here, that's unexpected. I thought I knew about all the tribes, but there's a whole load of them here.","Existem goblins aqui, isso é inesperado. Eu pensei que sabia sobre todas as tribos, mas há toda a carga delas aqui."
 ST_FTUE/Zanik_Generic,"There are secrets hidden all over Ashenfall, I'm sure of it. Look around, explore, and see what you can find.","Há segredos escondidos por toda a Ashenfall, tenho certeza disso. Olhe em volta, explore e veja o que você pode encontrar."
 ST_FTUE/WS_WiseOldMan_Intro4,"To recharge them, you'll need to craft yourself wardstones. These impressive little doohickies will recharge your the Lifeward enchantments on your armour... at a small cost.","Para recarregá-los, você precisará criar as pedras de Wards. Esses impressionantes pequenos doohickies recarregarão seus encantamentos vanguarinos em sua armadura... a um pequeno custo."
 ST_FTUE/RC_Description,"Vannaka wants to teach you the basics of hunting, fighting and cooking.","Vannaka quer ensinar o básico de caçar, lutar e cozinhar."
@@ -5122,7 +5122,7 @@ ST_FTUENotifications/UI.FTUE.AccessMap,You can open/close the map at any time by
 ST_FTUENotifications/UI.FTUE.Repair.Text,"You can repair weapons, tools and armor at a workbench, using resources you've gathered.","Você pode reparar armas, ferramentas e armaduras em uma bancada, usando os recursos que você reuniu."
 ST_FTUENotifications/UI.FTUE.Building.Placement.Text,You can rotate and adjust the distance and height of a building piece before you place it.,Você pode girar e ajustar a distância e a altura de uma peça de construção antes de colocá-la.
 ST_FTUENotifications/UI.FTUE.Building.Stability.Text,You can't build just anywhere. Make sure your structure is stable enough to support itself. Structures are more stable if build near the ground.,Você não pode construir em nenhum lugar. Verifique se sua estrutura é estável o suficiente para se sustentar. As estruturas são mais estáveis se forem construídas perto do solo.
-ST_FTUENotifications/UI.FTUE.Building.Unlocked.2.Text,You need a workbench to craft tools.,Você precisa de uma bancada para criar ferramentas.
+ST_FTUENotifications/UI.FTUE.Building.Unlocked.2.Text,You need a workbench to craft tools.,Você precisa de uma Mesa de criação para criar ferramentas.
 ST_FTUENotifications/UI.FTUE.RespawningText,"You'll be whisked to safety on death, but your items will be left behind. {DescribeRespawningLocation}","Você será levado à segurança da morte, mas seus itens serão deixados para trás. {DescribeRespawningLocation}"
 ST_FTUENotifications/UI.FTUE.AccessJournal,You've discovered a new recipe. Press {JournalButton} to see it in the journal.,Você descobriu uma nova receita. Pressione {JournalButton} para vê-lo na revista.
 ST_FTUENotifications/UI.FTUE.FirstArmorEquipText,"Your power level can be viewed in your inventory next to your equipped armour. The higher your power level, the better your chance of survival.","Seu nível de poder pode ser visto em seu inventário ao lado de sua armadura equipada. Quanto maior o seu nível de poder, melhor sua chance de sobrevivência."
@@ -5157,7 +5157,7 @@ ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Bandos_5,"Armadyl slew Bandos, leaving 
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Bandos_1,"Bandos was a war god. The Big High War God, in the parlance of my people. He delighted in conflict, battle and bloodshed.","Bandos era um deus da guerra. O grande Deus da Guerra High, na linguagem do meu povo. Ele se deliciou com conflito, batalha e derramamento de sangue."
 ST_GoblinDiplomacy/Objective4,Bring both amulets to Zanik.,Traga os dois amuletos para Zanik.
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Puppet_4,"But... Bandos' mark still dug deep into my being and when he died... well, so did I.","Mas... Mark dos bandos ainda cavou profundamente meu ser e quando ele morreu... bem, eu também."
-ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_Default1,"Careful, this whole area is full of goblins and not the nice kind like me. What brings you all the way out here?","Cuidado, toda essa área está cheia de duendes e não do tipo agradável como eu. O que te traz até aqui?"
+ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_Default1,"Careful, this whole area is full of goblins and not the nice kind like me. What brings you all the way out here?","Cuidado, toda essa área está cheia de goblins e não do tipo agradável como eu. O que te traz até aqui?"
 ST_GoblinDiplomacy/PlayerChoice_DarkerThings,Darker powers?,Poderes mais sombrios?
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_Default2,"Do you feel it too? Prophecy. A god's backup plan, waiting for a host to sink its tendrils into.","Você também sente? Profecia. O plano de backup de um deus, esperando que um anfitrião afunde seus gavinhas."
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_QuestComplete_4,"Do you think they'd object to me taking notes of their rituals? They probably would, right? Dagnammit.","Você acha que eles se oporiam a mim anotando seus rituais? Eles provavelmente o fariam, certo? Dagnammit."
@@ -5185,7 +5185,7 @@ ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_NoProgress1,"I feel it up there b
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_OneAmuletFoundNotInvestigatedOther_FoundRuinAmulet,I felt the other presence further south around the guild.,Senti a outra presença mais ao sul ao redor da guilda.
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_OneAmuletFoundNotInvestigatedOther_FoundGuildAmulet,I felt the other presence near the ruin to the northeast.,Senti a outra presença perto da ruína ao nordeste.
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Puppet_1,"I hate the romantic notion of destiny. Mine was to be the puppet of the goblin god of war, Bandos.","Eu odeio a noção romântica de destino. O meu seria o fantoche do deus da guerra, bandos."
-ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Goblins_4,I look at goblins and see what we were and sometimes I'd like them to see who they *could* be.,Eu olho para os duendes e vejo o que éramos e às vezes gostaria que eles vissem quem eles poderiam * ser *.
+ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Goblins_4,I look at goblins and see what we were and sometimes I'd like them to see who they *could* be.,Eu olho para os goblins e vejo o que éramos e às vezes gostaria que eles vissem quem eles poderiam * ser *.
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Puppet_5,"I mean, I got better, but still, these things haunt you.","Quero dizer, fiquei melhor, mas ainda assim, essas coisas o assombram."
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Puppet_3,"I nearly became something awful, but a friend helped me resist Bandos and put a stop to his scheme.","Eu quase me tornei algo horrível, mas um amigo me ajudou a resistir a bandos e parar em seu esquema."
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_FoundSwampAmuletOnly_4,"I sensed something up there by the ruin over there, beneath this outlook, and south toward the guild.","Senti algo lá em cima pela ruína ali, abaixo dessa perspectiva e ao sul em direção à guilda."
@@ -5238,7 +5238,7 @@ ST_GoblinDiplomacy/Goblin_GoblinDiplomacy_FoundOneAmulet_NotInvestigated_RuinGob
 ST_GoblinDiplomacy/Goblin_GoblinDiplomacy_FoundOneAmulet_NotInvestigated_GuildGoblin,You can take a look behind them vines near the old fireplace . But won't be nothing there.,"Você pode dar uma olhada atrás deles, perto da antiga lareira. Mas não será nada lá."
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_BothAmuletsFound_1,You did it! I knew you could!,Você fez isso! Eu sabia que você poderia!
 ST_GoblinDiplomacy/Reliquery_NotEnoughSpace,"You discover a strange amulet in the reliquary, but your inventory is too full to pick it up right now.","Você descobre um amuleto estranho no relicário, mas seu inventário está cheio demais para buscá-lo agora."
-ST_GoblinDiplomacy/Reliquery_FirstOneFound,"You find an amulet marked with the symbol of Bandos, the goblin war god.","Você encontra um amuleto marcado com o símbolo dos bandos, o deus da guerra dos duendes."
+ST_GoblinDiplomacy/Reliquery_FirstOneFound,"You find an amulet marked with the symbol of Bandos, the goblin war god.","Você encontra um amuleto marcado com o símbolo dos bandos, o deus da guerra dos goblins."
 ST_GoblinDiplomacy/Goblin_GoblinDiplomacy_FoundOneAmulet_NotInvestigated_1,You lookin to steal stuff? Well's your a bit too late.,"Você está olhando para roubar coisas? Bem, você é um pouco tarde demais."
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_BothAmuletsFound_1,"You've got the stink of divine manipulation on you, what have you discovered. May I look?","Você tem o fedor da manipulação divina em você, o que você descobriu. Posso olhar?"
 ST_GoblinDiplomacy/Description,Zanik needs you to stop a prophecy before it's too late.,Zanik precisa que você pare uma profecia antes que seja tarde demais.
@@ -5570,10 +5570,10 @@ ST_ItemNames/AdventurersLongbow,Adventurer's Longbow,Arco do aventureiro
 ST_ItemNames/AdventurersTunic,Adventurer's Tunic,Túnica do aventureiro
 ST_ItemNames/AdventurersCape,Adventurers Cape,Aventureiros Cabo
 ST_ItemNames/AnimaInfusedBark,Anima-Infused Bark,Estanho com infusão de anima
-ST_ItemNames/AnimalBone,Animal Bone,Osso de animais
-ST_ItemNames/AnimalHide,Animal Hide,Esconde de animal
-ST_ItemNames/AnimalHideScraps,Animal Hide Scraps,Esconde de animais
-ST_ItemNames/AntiDragonShield,Anti-dragon Shield,Escudo anticragon
+ST_ItemNames/AnimalBone,Animal Bone,Osso de animal
+ST_ItemNames/AnimalHide,Animal Hide,Pele de animal
+ST_ItemNames/AnimalHideScraps,Animal Hide Scraps,Fragmentos de Pele de Animal
+ST_ItemNames/AntiDragonShield,Anti-dragon Shield,Escudo Anti-dragão
 ST_ItemNames/LesserAntiPoisonPotion,Antipoison Potion,Poção de antipoison
 ST_ItemNames/AnimalHorn,Antler,Antler
 ST_ItemNames/ApprenticeHat,Apprentice Hat,Aprendiz de chapéu
@@ -5650,8 +5650,8 @@ ST_ItemNames/CrystalBow,Crystal Bow,Arco de cristal
 ST_ItemNames/DarkMageHat,Dark Mage Hood,Hood de mago escuro
 ST_ItemNames/DarkMageRobeLegs,Dark Mage Robe Legs,Dark Mage Robe Legs
 ST_ItemNames/DarkMageRobes,Dark Mage Robes,Restas de mago escuro
-ST_ItemNames/DireWolfHide,Dire Wolf Hide,Esconde de lobo terrível
-ST_ItemNames/DireWolfLeather,Dire Wolf Leather,Couro de lobo terrível
+ST_ItemNames/DireWolfHide,Dire Wolf Hide,Pele de Lobo Terrível
+ST_ItemNames/DireWolfLeather,Dire Wolf Leather,Couro de Lobo Terrível
 ST_ItemNames/DirtyWater,Dirty Water,Água suja
 ST_ItemNames/DivineCabbage,Divine Cabbage,Repolho divino
 ST_ItemNames/DraconicStaff,Draconic Staff,Cajado Dracônico
@@ -5717,45 +5717,45 @@ ST_ItemNames/GroundGranite,Ground Granite,Granito moído
 ST_ItemNames/GroundSandstone,Ground Sandstone,Arenito moído
 ST_ItemNames/GroundStone,Ground Stone,Pedra moída
 ST_ItemNames/HardLeather,Hard Leather,Couro duro
-ST_ItemNames/HardLeatherBody,Hard Leather Body,Corpo de couro duro
-ST_ItemNames/HardLeatherChaps,Hard Leather Chaps,Capas de couro duro
-ST_ItemNames/HardLeatherCowl,Hard Leather Cowl,Cuzinho de couro duro
-ST_ItemNames/Harralander,Harralander,Harrander
-ST_ItemNames/Haunch,Haunch,Traseiro
+ST_ItemNames/HardLeatherBody,Hard Leather Body,Corpo de Couro Reforçado
+ST_ItemNames/HardLeatherChaps,Hard Leather Chaps,Perneiras de Couro Reforçado
+ST_ItemNames/HardLeatherCowl,Hard Leather Cowl,Capuz de Couro Reforçado
+ST_ItemNames/Harralander,Harralander,Erva Harrander
+ST_ItemNames/Haunch,Haunch,Coxa
 ST_ItemNames/LesserHealingPotion,Healing Potion,Poção de cura
-ST_ItemNames/HeartyCrunchies,Hearty Crunchies,Crunchies saudáveis
+ST_ItemNames/HeartyCrunchies,Hearty Crunchies,Salgadinhos saudáveis
 ST_ItemNames/HeartyFortifyingSoup,Hearty Fortifying Soup,Sopa fortificante saudável
 ST_ItemNames/HeartySoup,Hearty Soup,Sopa saudável
 ST_ItemNames/HeartyStew,Hearty Stew,Ensopado saudável
-ST_ItemNames/HighWarGodBanner,High War God Banner,Banner de Deus da Guerra High
-ST_ItemNames/GarouBowPlayer,Hunter Stagbow,Hunter Stagbow
+ST_ItemNames/HighWarGodBanner,High War God Banner,Estandarte do Deus da Guerra Supremo
+ST_ItemNames/GarouBowPlayer,Hunter Stagbow,Arco de Caçador de Cervo
 ST_ItemNames/GraniteMaulHead,Imbued Granite Block,Bloco de granito imbuído
-ST_ItemNames/GraniteMaulWrap,Imbued Leather Wrappings,Embalagens de couro imbuídas
-ST_ItemNames/IronBodkinArrow,Iron Arrow,Arrow de ferro
+ST_ItemNames/GraniteMaulWrap,Imbued Leather Wrappings,Fragmentos de couro imbuído
+ST_ItemNames/IronBodkinArrow,Iron Arrow,Flecha de ferro
 ST_ItemNames/IronBar,Iron Bar,Barra de ferro
-ST_ItemNames/IronBroadheadArrow,Iron Broadhead Arrow,Freta de Iron Broadhead
-ST_ItemNames/IronBrutalArrow,Iron Brutal Arrow,Arrow brutal de ferro
+ST_ItemNames/IronBroadheadArrow,Iron Broadhead Arrow,Flecha de ponta larga de ferro
+ST_ItemNames/IronBrutalArrow,Iron Brutal Arrow,Flecha brutal de ferro
 ST_ItemNames/IronDagger,Iron Dagger,Adaga de ferro
 ST_ItemNames/IronDeposit,Iron Deposit,Depósito de ferro
-ST_ItemNames/IronGreataxe,Iron Greataxe,Iron Greataxe
-ST_ItemNames/IronGreatsword,Iron Greatsword,Iron Greatsword
+ST_ItemNames/IronGreataxe,Iron Greataxe,Grande machado de ferro
+ST_ItemNames/IronGreatsword,Iron Greatsword,Espadão de ferro
 ST_ItemNames/IronHelmet,Iron Helmet,Capacete de ferro
-ST_ItemNames/IronLoggingAxe,Iron Logging Axe,Machado de registro de ferro
+ST_ItemNames/IronLoggingAxe,Iron Logging Axe,Machado de corte de ferro
 ST_ItemNames/IronMace,Iron Mace,Mace de ferro
 ST_ItemNames/IronOre,Iron Ore,Minério de ferro
 ST_ItemNames/IronPickaxe,Iron Pickaxe,Picareta de ferro
-ST_ItemNames/IronPlatebody,Iron Platebody,Placa de ferro
-ST_ItemNames/IronPlatelegs,Iron Platelegs,Planadores de ferro
+ST_ItemNames/IronPlatebody,Iron Platebody,Peitoral de ferro
+ST_ItemNames/IronPlatelegs,Iron Platelegs,Perneira de ferro
 ST_ItemNames/IronShield,Iron Shield,Escudo de ferro
 ST_ItemNames/IronSword,Iron Sword,Espada de Ferro
-ST_ItemNames/IronWarhammer,Iron Warhammer,Iron Warhammer
+ST_ItemNames/IronWarhammer,Iron Warhammer,Martelo de guerra de ferro
 ST_ItemNames/Jade,Jade,Jade
 ST_ItemNames/JuicyBrisket,Juicy Brisket,Peito bovino suculento
 ST_ItemNames/Kebab,Kebab,Churrasquinho
 ST_ItemNames/LargeWardstone,Large Wardstone,Grande Pedra de Proteção
 ST_ItemNames/Leather,Leather,Couro
-ST_ItemNames/LeatherBody,Leather Body,Corpo de couro
-ST_ItemNames/LeatherChaps,Leather Chaps,Capas de couro
+ST_ItemNames/LeatherBody,Leather Body,Peitoral de couro
+ST_ItemNames/LeatherChaps,Leather Chaps,Perneiras de Couro
 ST_ItemNames/LeatherCowl,Leather Cowl,Couz de couro
 ST_ItemNames/LeatherShield,Leather Shield,Escudo de couro
 ST_ItemNames/LegsOfLightness,Leggings Of Lightness,Perneiras de leveza
@@ -5800,7 +5800,7 @@ ST_ItemNames/RedberryCrunchies,Redberry Crunchies,Redberry Crunchies
 ST_ItemNames/RedberryGlazedRoastFlank,Redberry Glazed Roast Flank,Flanco assado envidraçado Redberry
 ST_ItemNames/RedberryGlazedRoastMeat,Redberry Glazed Roast Meat,Carne assada com vidro vermelho
 ST_ItemNames/RedberryInfusion,Redberry Infusion,Infusão de Redberry
-ST_ItemNames/ReinfocedBody,Reinforced Body,Corpo reforçado
+ST_ItemNames/ReinfocedBody,Reinforced Body,Peitoral reforçado
 ST_ItemNames/ReinfocedHelmet,Reinforced Helmet,Capacete reforçado
 ST_ItemNames/ReinfocedLegs,Reinforced Legs,Pernas reforçadas
 ST_ItemNames/RingOfPursuit,Ring of Pursuit,Anel de perseguição
@@ -5835,9 +5835,9 @@ ST_ItemNames/StoneDagger,Stone Dagger,Adaga de pedra
 ST_ItemNames/StoneLoggingAxe,Stone Logging Axe,Machado de registro de pedra
 ST_ItemNames/StonePickaxe,Stone Pickaxe,Picareta de pedra
 ST_ItemNames/StormtouchedCape,Stormtouched Cape,Cape Touched Touchd
-ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Corpo de couro cravejado
-ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Capinhas de couro cravejado
-ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Couz de couro cravejado
+ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Peitoral de couro cravejado
+ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Perneira de couro cravejado
+ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Capuz de couro cravejado
 ST_ItemNames/SwampTar,Swamp Tar,Alcatrão de pântanos
 ST_ItemNames/SwampThread,Swamp Thread,Fio do Pântano
 ST_ItemNames/Swampweed,Swamp Weed,Erva de Pântano
@@ -5853,15 +5853,15 @@ ST_ItemNames/VaultCore,Vault Core,Núcleo de Cofre
 ST_ItemNames/VaultShard,Vault Shard,SACHO DE VAULT
 ST_ItemNames/VegetableSoup,Vegetable Soup,Sopa de vegetais
 ST_ItemNames/VelgarsHead,Velgar's Head,A cabeça de Velgar
-ST_ItemNames/WeakAntiPoisonPotion,Weak Antipoison Potion,Poção antipoison fraca
-ST_ItemNames/WeakAntiShockPotion,Weak Antishock Potion,Poção fraca de antishock
-ST_ItemNames/WeakEnergyPotion,Weak Energy Potion,Poção de energia fraca
-ST_ItemNames/WeakHealingPotion,Weak Healing Potion,Poção de cura fraca
-ST_ItemNames/WeakWarmingPotion,Weak Warming Potion,Poção de aquecimento fraco
-ST_ItemNames/WhisperingCape,Whispering Cape,Capa sussurrando
+ST_ItemNames/WeakAntiPoisonPotion,Weak Antipoison Potion,Poção fraca de Antipoison 
+ST_ItemNames/WeakAntiShockPotion,Weak Antishock Potion,Poção fraca de Antishock
+ST_ItemNames/WeakEnergyPotion,Weak Energy Potion,Poção fraca de energia
+ST_ItemNames/WeakHealingPotion,Weak Healing Potion,Poção fraca de cura
+ST_ItemNames/WeakWarmingPotion,Weak Warming Potion,Poção fraca de warming
+ST_ItemNames/WhisperingCape,Whispering Cape,Capa do Sussurro
 ST_ItemNames/WildAnima,Wild Anima,Anima selvagem
-ST_ItemNames/WildArcherBody,Wild Archer Body,Corpo arqueiro selvagem
-ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Arqueiro selvagem manchas
+ST_ItemNames/WildArcherBody,Wild Archer Body,Peitoral arqueiro selvagem
+ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Perneiras de Arqueiro Selvagem.
 ST_ItemNames/WildArcherCowl,Wild Archer Cowl,Wild Archer Cowl
 ST_ItemNames/WildPie,Wild Pie,Torta selvagem
 ST_ItemNames/WildScoutShortbow,Wild Scout's Shortbow,Scout de Scout Scout
@@ -5877,7 +5877,7 @@ ST_ItemNames/WoolCloth,Wool Cloth,Pano de lã
 ST_ItemNames/WoolThread,Wool Thread,Tópico de lã
 ST_JournalEntries/StoneClub,"A big stone attached to a stick; not terribly durable, but surprisingly handy. This simple weapon has saved the lives of many warriors. When caught between a rock and a hard place, why not take advantage of the rock? Goblin children play a game called bonk-bonk-bash, a rather unpleasant little pastime that acts as a form of population control. Each of the goblins takes a rock, attaches it to a stick and then takes it in turns to thwack their friends with it. This is a traditional household game that keeps the costs of feeding the family low.","Uma grande pedra presa a um graveto; Não é terrivelmente durável, mas surpreendentemente útil. Esta arma simples salvou a vida de muitos guerreiros. Quando pego entre uma rocha e um lugar difícil, por que não tirar vantagem da rocha?
 
-As crianças goblin jogam um jogo chamado Bonk-Bonk-Bash, um pequeno passatempo bastante desagradável que atua como uma forma de controle da população. Cada um dos duendes pega uma pedra, a prende a um graveto e depois a revezam para frustrar seus amigos. Este é um jogo doméstico tradicional que mantém os custos de alimentar a família baixa."
+As crianças goblin jogam um jogo chamado Bonk-Bonk-Bash, um pequeno passatempo bastante desagradável que atua como uma forma de controle da população. Cada um dos goblins pega uma pedra, a prende a um graveto e depois a revezam para frustrar seus amigos. Este é um jogo doméstico tradicional que mantém os custos de alimentar a família baixa."
 ST_JournalEntries/Harralander,"A bitter tasting herb that makes for a poor tea, yet is often used as a morning pick-me-up by people with no tastebuds. It’s useful in crafting certain potions.","Uma erva de sabor amargo que cria um chá pobre, mas é frequentemente usado como uma colheita matinal por pessoas sem paladar. É útil na elaboração de certas poções."
 ST_JournalEntries/PaddedCloth,A bolt of cloth that has been reinforced. Makes for sturdier armour than normal cloth.,Um raio de pano que foi reforçado. Cria uma armadura mais robusta do que o pano normal.
 ST_JournalEntries/CapeOfVelgar,A cape depicting a powerful dragon.,Uma capa representando um dragão poderoso.
@@ -6284,7 +6284,7 @@ ST_JournalEntries/Swingslash,"Contrary to popular belief, a goblin is as smart a
 
 Hence “swingslash”, the name given to this axe because of how it swings through the air, slashing anything it hits. It’s so reductive and silly, it can only be an overcorrection, a desperate attempt by the creator to seem dumber than they are.
 
-You can ignore, therefore the curve of the blade and the sharpness of the edge, created by carefully thought-out techniques that make the weapon deadlier than those before them. The name, chosen by the blacksmith, so none might accuse them of the crime of being smart.","Ao contrário da crença popular, um duende é tão inteligente quanto qualquer outra espécie. Foram bandos que instilaram dentro deles a noção de que a inteligência era um pecado, e demonstrar que sua educação era algo a ser desencorajado. Como resultado, os duendes geralmente se esforçam para se tornar menos inteligentes do que realmente são.
+You can ignore, therefore the curve of the blade and the sharpness of the edge, created by carefully thought-out techniques that make the weapon deadlier than those before them. The name, chosen by the blacksmith, so none might accuse them of the crime of being smart.","Ao contrário da crença popular, um duende é tão inteligente quanto qualquer outra espécie. Foram bandos que instilaram dentro deles a noção de que a inteligência era um pecado, e demonstrar que sua educação era algo a ser desencorajado. Como resultado, os goblins geralmente se esforçam para se tornar menos inteligentes do que realmente são.
 
 Daí ""Swingslash"", o nome dado a esse machado por causa de como ele balança pelo ar, cortando qualquer coisa que atinge. É tão redutivo e bobo que só pode ser uma sobrecorreção, uma tentativa desesperada do criador de parecer mais burra do que eles.
 
@@ -6392,7 +6392,7 @@ ST_JournalEntries/DivineCabbage,"Few gods offer their bounty as freely as Brassi
 
 Os repolhos aqui são perfeitos. Suas folhas são nítidas. A quantidade certa de umidade está contida em cada mordida. Nutrição abundante em todos os pedaços. Um verdadeiro presente dos deuses."
 ST_JournalEntries/Zanik,"Few have lived a life as rich with adventure as the cave goblin Zanik. She was the first of her people to brave the sunlight, the first cave goblin to meet humans and the surface goblins, the first to learn about the gods and their influence on the world, and the first cave goblin to stand side by side with the World Guardian in defence of creation.
-It cost her her life. Twice. She was once the Chosen Commander of the war god Bandos, who tried to use prophecy to put her under his thrall. She died; he resurrected her and then used magic to seize control. She resisted, fighting off his influence. Bandos’s lingering affliction on her soul would claim her life after the War God’s demise, but even death wouldn’t stop her. She became the emissary of the Underworld, resurrected once more by the god Icthlarin, and brought back to the surface to join the fight against the Elder Gods. Now, she comes to Ashenfall in search of a lost and forgotten tribe. Hoping to stop history from repeating itself.","Poucos viveram uma vida tão rica em aventura quanto o Goblin Zanik da caverna. Ela foi a primeira de seu povo a enfrentar a luz do sol, a primeira caverna Goblin a conhecer seres humanos e os duendes da superfície, o primeiro a aprender sobre os deuses e sua influência no mundo, e o primeiro goblin da caverna a ficar lado a lado com o guardião mundial em defesa da criação.
+It cost her her life. Twice. She was once the Chosen Commander of the war god Bandos, who tried to use prophecy to put her under his thrall. She died; he resurrected her and then used magic to seize control. She resisted, fighting off his influence. Bandos’s lingering affliction on her soul would claim her life after the War God’s demise, but even death wouldn’t stop her. She became the emissary of the Underworld, resurrected once more by the god Icthlarin, and brought back to the surface to join the fight against the Elder Gods. Now, she comes to Ashenfall in search of a lost and forgotten tribe. Hoping to stop history from repeating itself.","Poucos viveram uma vida tão rica em aventura quanto o Goblin Zanik da caverna. Ela foi a primeira de seu povo a enfrentar a luz do sol, a primeira caverna Goblin a conhecer seres humanos e os goblins da superfície, o primeiro a aprender sobre os deuses e sua influência no mundo, e o primeiro goblin da caverna a ficar lado a lado com o guardião mundial em defesa da criação.
 Custou-lhe sua vida. Duas vezes. Ela já foi o comandante escolhido da guerra, os bandos, que tentaram usar a profecia para colocá-la sob o escravo dele. Ela morreu; Ele a ressuscitou e depois usou magia para apreender o controle. Ela resistiu, lutando contra a influência dele. A aflição persistente de Bandos em sua alma reivindicaria sua vida após a morte de Deus, mas mesmo a morte não a impediria. Ela se tornou o emissário do submundo, ressuscitou mais uma vez pelo deus icthlarin e trazido de volta à superfície para se juntar à luta contra os deuses mais velhos. Agora, ela chega a Ashenfall em busca de uma tribo perdida e esquecida. Na esperança de impedir a história de se repetir."
 ST_JournalEntries/IronMace,"Few instruments are as good at shattering bones as the iron mace. It was a favourite weapon of White Knight paladins, who dreamed of shattering the bones of the risen dead. Necromancy was rare on Ashenfall, though not unheard of. Two necromancers had been reported to the order, one a girl with a knack for bones and another who whispered with the dead. Neither summoned skeletal hordes for the knights to shatter. But garou and goblin bones broke just as well. In the war against the garou, Sir Lear, a white knight paladin, used the mace to great effect. He crushed warriors, battered druids, and shattered the shields of powerful thanes. He was a symbol of the might of Saradomin’s faithful when faced with overwhelming odds. He joined the Wild Knight commander, Vemmeck, in their siege against a northern garou stronghold. With countless goblins at their side, their victory was almost assured. Yet a single druid’s magic held the forces at bay until Sir Lear learned how ineffective his mace was against the scales of a dragon.","Poucos instrumentos são tão bons em quebrar ossos quanto a maça de ferro. Era uma arma favorita de Paladins White Knight, que sonhava em quebrar os ossos dos mortos. A necromancia era rara em Ashenfall, embora não seja inédita. Dois necromantes haviam sido reEstanhodos à Ordem, uma garota com um talento especial para ossos e outro que sussurrou com os mortos. Nenhum dos nenhum hordas esqueléticas convocadas para os Cavaleiros se quebrarem.
 
@@ -6461,9 +6461,9 @@ In time she would claim a king’s seat. Defeating the prior monarch with reason
 
 Her people thrived, making her father proud.
 
-Until Velgar brought her reign to an end.","Gahl era um druido Garou que perdeu todo mundo que conhecia. Nas guerras infligidas ao seu povo pelas outras raças de Ashenfall, ele ficou cansado com a crueldade que viu ao seu redor. Isso atingiu seu pico quando ele encontrou uma vila de Garou em ruínas e duendes dançando e rindo enquanto ameaçavam um filhote recém-nascido, em seu berço.
+Until Velgar brought her reign to an end.","Gahl era um druido Garou que perdeu todo mundo que conhecia. Nas guerras infligidas ao seu povo pelas outras raças de Ashenfall, ele ficou cansado com a crueldade que viu ao seu redor. Isso atingiu seu pico quando ele encontrou uma vila de Garou em ruínas e goblins dançando e rindo enquanto ameaçavam um filhote recém-nascido, em seu berço.
 
-A vila já se foi agora, arrastada sob o solo. A vingança de Gahl soltou os duendes, apagando-os da existência. Ele tomou a criança como sua e a criou de uma maneira alienígena para o seu povo-ele a criou com amor.
+A vila já se foi agora, arrastada sob o solo. A vingança de Gahl soltou os goblins, apagando-os da existência. Ele tomou a criança como sua e a criou de uma maneira alienígena para o seu povo-ele a criou com amor.
 
 Ela não tinha talento para magia e não conseguiu aprender seus feitiços druidas, então ele a ensinou a caçar com um arco, e ela era natural. Dahnu, como ele a nomeou, fez uma reverência do primeiro cervo que ela e seu pai haviam caçado e esse arco se tornou um símbolo de tudo o que encontrou.
 
@@ -6574,9 +6574,9 @@ Garou fazia louça regularmente como essa. Montanhas de carne, criadas a partir 
 ST_JournalEntries/EarthRune,"Imbued with the harmony of soil and dirt, the earth rune stands firm in a world of mercurial change. Predominantly used to manipulate or control natural elements associated with, soil and rock, it can also be used to reference the permanence of things.","Imbued da harmonia do solo e da sujeira, a runa da terra permanece firme em um mundo de mudança mercurial. Predominantemente usado para manipular ou controlar elementos naturais associados ao solo e à rocha, ele também pode ser usado para referir a permanência das coisas."
 ST_JournalEntries/IronWarhammer,"Imcando dwarves preferred the forge to the battlefield but were not afraid to join the frontlines if their aid was needed. They waded into conflict with warhammers held high, ready to smash their enemies out of existence. Only one Imcando dwarf made her way to Ashenfall, and she came here for vengeance. Her foes were not the garou or the dragon army, but the green-skinned goblins who had earned her ire. She was given a wide berth in Bramblemead, partially because of the enormous hammer hefted across her shoulder but mostly because of the fury that radiated out of her as if her hate were flames and she was perpetually burning. In the rare times the dwarf spoke, she simply mentioned that they were looking for someone the goblins had taken, and she would never rest until she got them back.","Os anões de Imcando preferiram a forja ao campo de batalha, mas não tinham medo de se juntar à linha de frente se fosse necessário. Eles entraram em conflito com Warhammers mantidos altos, prontos para esmagar seus inimigos fora da existência.
 
-Apenas um imcando anão foi para Ashenfall, e ela veio aqui para vingança. Seus inimigos não eram o Garou ou o exército do dragão, mas os duendes de pele verde que haviam ganhado sua ira.
+Apenas um imcando anão foi para Ashenfall, e ela veio aqui para vingança. Seus inimigos não eram o Garou ou o exército do dragão, mas os goblins de pele verde que haviam ganhado sua ira.
 
-Ela recebeu um amplo lugar em Bramblemaad, em parte por causa do enorme martelo levantado em seu ombro, mas principalmente por causa da fúria que irradiava dela como se seu ódio fosse chamas e que estava perpetuamente queimando. Nos raros momentos em que o anão falou, ela simplesmente mencionou que eles estavam procurando alguém que os duendes haviam tomado, e ela nunca descansaria até que os recuperasse."
+Ela recebeu um amplo lugar em Bramblemaad, em parte por causa do enorme martelo levantado em seu ombro, mas principalmente por causa da fúria que irradiava dela como se seu ódio fosse chamas e que estava perpetuamente queimando. Nos raros momentos em que o anão falou, ela simplesmente mencionou que eles estavam procurando alguém que os goblins haviam tomado, e ela nunca descansaria até que os recuperasse."
 ST_JournalEntries/RingOfTheHermit,"In a world of extroverts it’s for introverts to get by, so when the magic of this ring was discovered it made many lives easier. Plenty of people preferred to work by themselves, without needing to keep an eye out for anyone near them.
 
 Wild Knights, who often hunted alone, were particularly fond of these rings and would often wear them on their long missions in the forests","Em um mundo de extrovertidos, é para os introvertidos sobreviver, então, quando a magia desse anel foi descoberta, facilitou muitas vidas. Muitas pessoas preferiram trabalhar sozinhas, sem precisar ficar de olho em ninguém perto delas.
@@ -7286,15 +7286,15 @@ The sail no longer turns. But, perhaps, in the fullness of time, this village he
 
 Comida, torna-se um banner em torno do qual todos podem se reunir. Quebrar o pão com o inimigo era uma maneira de liquidar pontuações antigas e forjar novas conexões. Mais bem foi feito sobre a mesa de jantar do que em qualquer trono. A farinha, transformou-se de um lado para o outro, em uma vila próspera.
 
-Agora, o moinho de vento está adormecido e parado. As fundações distorcidas aos séculos, apesar da magia manter a podridão na madeira da antiga madeira e a pedra rachando do tempo. Quando a humanidade caiu, eram ratos e duendes que reivindicaram o coração da vila, embora eles não tivessem utilidade para as velas rodopiantes.
+Agora, o moinho de vento está adormecido e parado. As fundações distorcidas aos séculos, apesar da magia manter a podridão na madeira da antiga madeira e a pedra rachando do tempo. Quando a humanidade caiu, eram ratos e goblins que reivindicaram o coração da vila, embora eles não tivessem utilidade para as velas rodopiantes.
 
-Para os goblins, era um lugar onde os alimentos poderiam estar escondidos. Suprimentos selados a partir de tribos rivais. Para os ratos, era um restaurante cheio de suprimentos de duendes que nunca foram bem selados.
+Para os goblins, era um lugar onde os alimentos poderiam estar escondidos. Suprimentos selados a partir de tribos rivais. Para os ratos, era um restaurante cheio de suprimentos de goblins que nunca foram bem selados.
 
 A vela não gira mais. Mas, talvez, na plenitude do tempo, este coração da aldeia possa bater novamente."
 ST_JournalEntries/IronGreatsword,"The iron greatsword is a devastating weapon favoured by the most powerful warriors. The strongest garou warriors wielded them in battle against goblin invaders, turning armies of green-skinned soldiers into nothing but viscera.
 When the dragons turned on their allies, these blades would be turned against armoured scales. Several dragons underestimated the power of these weapons in the hands of a skilled wielder. Garou thanes tore young dragons to pieces, wearing their bones as symbols of their success.
 It made them an excellent target for the older dragons. Velgar, a mighty general, marked those wearing dragon bone adornments for death. He crushed them first, brutally and swiftly. Their strength shattered beneath his claws or swallowed in an instant.
-The practice quickly fell out of favour.","O Iron Greatsword é uma arma devastadora favorecida pelos guerreiros mais poderosos. Os guerreiros Garou mais fortes os empunharam em batalha contra invasores de duendes, transformando exércitos de soldados de pele verde em nada além de vísceras.
+The practice quickly fell out of favour.","O Iron Greatsword é uma arma devastadora favorecida pelos guerreiros mais poderosos. Os guerreiros Garou mais fortes os empunharam em batalha contra invasores de goblins, transformando exércitos de soldados de pele verde em nada além de vísceras.
 
 Quando os dragões se voltaram para seus aliados, essas lâminas seriam giradas contra escamas blindadas. Vários dragões subestimaram o poder dessas armas nas mãos de um portador qualificado. Garou Thanes rasgou jovens dragões em pedaços, usando seus ossos como símbolos de seu sucesso.
 
@@ -7730,7 +7730,7 @@ ST_JournalEntries/GoblinWarrior,"Weakness: Magic, Air
 Resistance: Ranged
 Goblins were once the minions of the war god, Bandos, until his death at the hands of Armadyl, the god of justice. Raised on the brutal world of Yu’Biusk, goblins have known no other existence than one of constant battle and bloodshed. Their religion and society decries education and self-improvement in favour of conflict for conflict’s sake. To run from battle is the greatest sin to goblinkind. Goblins reproduce quickly and grow up fast. Many of their wars have been won by sheer attrition, as there are always more goblins to hurl at the enemy. The goblins of Ashenfall have turned away from Bandos, putting their faith in the dragon that circles Ghornfell. Velgar is a cruel and uncaring master, yet the goblins live longer lifespans under his watch than they ever did under Bandos.","Fraqueza: magia, ar
 Resistência: variou
-Goblins já foram os lacaios do deus da guerra, os bandos, até sua morte nas mãos de Armadyl, o deus da justiça. Criados no mundo brutal de Yu'biusk, Goblins não conheceu outra existência além de uma batalha constante e derramamento de sangue. Sua religião e sociedade descrevem a educação e o auto-aperfeiçoamento em favor do conflito por causa do conflito. Correr da batalha é o maior pecado para Goblinkind. Goblins se reproduzem rapidamente e crescem rapidamente. Muitas de suas guerras foram vencidas por pura atrito, pois sempre há mais duendes para arremessar o inimigo. Os Goblins de Ashenfall se afastaram dos bandos, colocando sua fé no dragão que circula Ghornfell. Velgar é um mestre cruel e indiferente, mas os Goblins vivem uma vida útil mais longa sob seu relógio do que jamais fizeram com os bandos."
+Goblins já foram os lacaios do deus da guerra, os bandos, até sua morte nas mãos de Armadyl, o deus da justiça. Criados no mundo brutal de Yu'biusk, Goblins não conheceu outra existência além de uma batalha constante e derramamento de sangue. Sua religião e sociedade descrevem a educação e o auto-aperfeiçoamento em favor do conflito por causa do conflito. Correr da batalha é o maior pecado para Goblinkind. Goblins se reproduzem rapidamente e crescem rapidamente. Muitas de suas guerras foram vencidas por pura atrito, pois sempre há mais goblins para arremessar o inimigo. Os Goblins de Ashenfall se afastaram dos bandos, colocando sua fé no dragão que circula Ghornfell. Velgar é um mestre cruel e indiferente, mas os Goblins vivem uma vida útil mais longa sob seu relógio do que jamais fizeram com os bandos."
 ST_JournalEntries/Chicken,"Weakness: Magic, Crush
 Resistance: Ranged
 
@@ -7912,7 +7912,7 @@ Resistência: Magia
 
 Um arqueiro goblin é rápido e impiedoso. Eles não têm senso de honra para segurá-los, nem moralidade para manter a mão. Para um duende, a batalha pelo bem de Battle é o empreendimento mais puro, e uma matança limpa é o ato mais nobre.
 
-Os arqueiros possuem uma característica raramente encontrada em Goblinkind, paciência. Eles esperam suas presas, alinhando-se a foto perfeita para enviar seu alvo para a vida após a morte. Apesar disso, eles são frequentemente menosprezados por outros duendes por sua covardia. Os guerreiros zombam deles por se esconder nas linhas traseiras e atacar a segurança da distância.
+Os arqueiros possuem uma característica raramente encontrada em Goblinkind, paciência. Eles esperam suas presas, alinhando-se a foto perfeita para enviar seu alvo para a vida após a morte. Apesar disso, eles são frequentemente menosprezados por outros goblins por sua covardia. Os guerreiros zombam deles por se esconder nas linhas traseiras e atacar a segurança da distância.
 
 É um insulto que os arqueiros de Goblin ouvem com frequência, embora raramente do mesmo duez duas vezes. Isso ocorre principalmente porque os guerreiros não tendem a viver o suficiente para repeti-lo."
 ST_JournalEntries/GarouHunter,"Weakness: Melee, Air, Stab
@@ -8174,7 +8174,7 @@ ST_Localization/AnimaCrystal,Anima Crystal,Anima Crystal
 ST_Localization/AnimaFlow,Anima Flow,Anima Flow
 ST_Localization/AnimaInfusedBark,Anima-infused Bark,Estanho com infusão de anima
 ST_Localization/LargeBone,Animal Bone,Osso de animais
-ST_Localization/AnimalHide,Animal Hide,Esconde de animal
+ST_Localization/AnimalHide,Animal Hide,Pele de animal
 ST_Localization/AnotherIngredientWillFinishPotionCreatePowerfulTincture,Another ingredient will finish this potion and create a powerful tincture.,Outro ingrediente terminará esta poção e criará uma tintura poderosa.
 ST_Localization/Apply,Apply,Aplicar
 ST_Localization/Armadyl,Armadyl,Armadil
@@ -8263,11 +8263,11 @@ ST_Localization/Lever,Lever,Alavanca
 ST_Localization/LightTorch,Light torch,Tocha leve
 ST_Localization/Loom,Loom,Tear
 ST_Localization/ArmourType_Magic,Magic,Magia
-ST_Localization/MagicResist,Magic Resist,Magic Resist
-ST_Localization/MaxHealth,Max Health,Max Health
-ST_Localization/MaxStamina,Max Stamina,Max resistência
+ST_Localization/MagicResist,Magic Resist,Resistência Mágica
+ST_Localization/MaxHealth,Max Health,Max Vida
+ST_Localization/MaxStamina,Max Stamina,Max Stamina
 ST_Localization/ArmourType_Melee,Melee,Corpo a corpo
-ST_Localization/MeleeResist,Melee Resist,Resistência à confusão
+ST_Localization/MeleeResist,Melee Resist,Resistência à Corpo a corpo
 ST_Localization/No,No,Não
 ST_Localization/NoEntryUnlockedOnThisCatgeory,No entry unlocked on this category,Nenhuma entrada desbloqueada nesta categoria
 ST_Localization/OK,OK,OK
