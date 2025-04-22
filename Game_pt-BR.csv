@@ -11,7 +11,7 @@ Nulla pulvinar ex eget eros sodales laoreet. Donec sagittis non metus vel dapibu
 Pellentesque ut suscipit sapien, egestas dapibus quam. Vestibulum nec purus leo. Phasellus scelerisque lacus eu justo auctor, vel elementum arcu bibendum. Donec magna ex, lacinia a orci at, imperdiet scelerisque leo. Integer non lectus sit amet libero aliquam tempor. Vivamus consectetur mattis turpis eleifend eleifend. Sed dictum nunc nibh, vel placerat felis congue nec. Duis pellentesque eros blandit ipsum ullamcorper finibus. Proin fermentum, purus at venenatis pharetra, dolor arcu sodales nisi, eget dictum ante justo nec eros. Nulla rhoncus orci metus, vitae feugiat ex fermentum varius. Sed eu sapien lorem. Pellentesque pulvinar diam et euismod suscipit.",[TOO LONG]
 /9F2DD4D94ECBA40D471FE5A547AE5FA8,/,/
 /033A192F4A41EE108C6F2F99FA28EF3C,Damage Type Earth,Dano Tipo Terra
-/A0686CF14224436E24959395BD8DEF16,"You can see spaces where something might be placed, perhaps a horn of some kind?","Você pode ver espaços onde algo pode ser colocado, talvez um chifre de algum tipo?"
+/A0686CF14224436E24959395BD8DEF16,"You can see spaces where something might be placed, perhaps a horn of some kind?","Você pode ver espaços onde algo pode ser colocado, talvez um tipo de chifre?"
 /A05BBE3E4500B64ED267E795137EA9BD,is too sheltered.,está muito protegido.
 /F39FD01C47A008CF8FD4799E0986DF64,is too sheltered.,está muito protegido.
 /306A4C024CAB2BC85012F58C6647DCBC,must not be covered by a roof.,não pode estar coberto por um teto.
@@ -272,7 +272,7 @@ Concede RESISTÊNCIA aos efeitos de VENENO"
 /B9E1919242B2AF94190560BC693470A0,A simple bedroll that you can sleep in and skip the night.,Um coletor simples em que você pode dormir e pular a noite.
 /EF1BE05D482FDB3C895CB2B195BBD45A,A simple book case to fill with knowledge.,Uma caixa de livro simples para preencher de conhecimento.
 /C27875EC4339C57E7628AD9566CA442C,A simple chair.,Uma cadeira simples.
-/D34C221440088429A8AE88A8375B2902,A simple crafting station equipped with an array of primitive tools. It is used to craft equipment and other important resources.,Uma estação de artesanato simples equipada com uma variedade de ferramentas primitivas. É usado para criar equipamentos e outros recursos importantes.
+/D34C221440088429A8AE88A8375B2902,A simple crafting station equipped with an array of primitive tools. It is used to craft equipment and other important resources.,Uma bancada de artesanato simples equipada com uma variedade de ferramentas primitivas. É usado para criar equipamentos e outros recursos importantes.
 /F8F196D2438F1FB99C82D98E9ADE0512,A simple crate.,Uma caixa simples.
 /9F79D94A4D1D8F3EF02130B23735CC58,A simple door.,Uma porta simples.
 /E6079ED94F50099905033688B205BE4A,A simple old barrel.,Um cano simples e antigo.
@@ -353,7 +353,7 @@ Reduz a quantidade de dano de choque recebido"
 /C62FD01543C6D5D9B542638956605054,A well-crafted iron blade for skilled combatants.,Uma lâmina de ferro bem trabalhada para combatentes qualificados.
 /6720A6324D40F376000E9A926E2300B6,A window box with some fancy plants.,Uma caixa de janela com algumas plantas sofisticadas.
 /9057A66C4C34940463600B8DA9F1A48C,A window box with some nice plants.,Uma caixa de janela com algumas plantas agradáveis.
-/CBB7D16247A2605343C8238DCA259A77,A workstation dedicated to cooking food. A cooking range can be used to cook hearty meals as well as individual raw foods.,"Uma estação de trabalho dedicada a cozinhar alimentos. Uma gama de cozimento pode ser usada para cozinhar refeições saudáveis, bem como alimentos crus individuais."
+/CBB7D16247A2605343C8238DCA259A77,A workstation dedicated to cooking food. A cooking range can be used to cook hearty meals as well as individual raw foods.,"Uma bancada de trabalho dedicada a cozinhar alimentos. Uma gama de cozimento pode ser usada para cozinhar refeições saudáveis, bem como alimentos crus individuais."
 /85DEBB464997B0DD9CD1048DA76BBAD3,AI,Ai
 /BAF4E5F445172248D0B529A2C305AC55,AI Regen 4,Ai regen 4
 /BE24CE26449D1EE74612A9A6F5876DD2,ASSET GYM,Ginásio de ativo
@@ -615,9 +615,9 @@ Um novo desafio aguarda ..."
 /8D1F553D4049F8FD3F49C0B82AAE62BF,Burning Duration,Duração da queima
 /9766A9A94966345B51FF078F81BC49B6,Burning Duration Max,Duração da queima máx
 /0DD618F94823A8084845228BBA1BB926,Burning Tick Damage,Dano a carrapato ardente
-/4AF06B63423536439F8C58972C316F88,"But before all that, how about we take you through th ebasics of suriving here in Ashenfall?","Mas antes de tudo isso, que tal levá -lo através do Ebasics de surgir aqui em Ashenfall?"
+/4AF06B63423536439F8C58972C316F88,"But before all that, how about we take you through th ebasics of suriving here in Ashenfall?","Mas antes de tudo isso, que tal a gente te mostrar o básico para sobreviver aqui em Ashenfall?"
 /C46941994E71210D47FC1F9D715EF4A5,Butterfly,Borboleta
-/EBA93A31424FF48DFA0DCCB6C4D035C1,Button Label,Etiqueta do botão
+/EBA93A31424FF48DFA0DCCB6C4D035C1,Button Label,Button Label
 /7D7D82A6409436E19CD4DE8C8444AF28,"By burning charcoal to create a blazing hot flame, the furnace is able to fire clay, and smelt ores into metal bars.","Ao queimar carvão para criar uma chama quente em chamas, o forno é capaz de disparar argila e cheirar minérios em barras de metal."
 /7D39F69641CCFA523DC4D68A45FCF766,"By proceeding, you agree to our Privacy Policy and Terms of Service","Ao proceder, você concorda com nossa política de privacidade e termos de serviço"
 /1BCFBA554AA0BDC891DEFAA88766D3D7,C,C
@@ -1369,7 +1369,7 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /FFCA6E764F4FA621B56A669BD00205FF,Hello Speech Bubble Tutorial!,Olá tutorial da bolha de fala!
 /9A1D418948453BF951BF29935CF58C0E,Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial! Hello Speech Bubble Tutorial!,Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala! Olá tutorial da bolha de fala!
 /7C0DFD5648D2B90C3FED7F959A0B61D0,Hello Video Tutorial! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom,Olá tutorial em vídeo! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom! Yadda yadda yadda boom yadda boom yadda boom yadda yadda yadda boom yadda yadda boom
-/3D74BA6746F49A8263C118B7A8333B5B,Hello {Button} Basic Tutorial!,Olá {botão} tutorial básico!
+/3D74BA6746F49A8263C118B7A8333B5B,Hello {Button} Basic Tutorial!,Olá {Button} tutorial básico!
 /0152B56E454A135D720B8287A143F757,Herblore,Herblore
 /7D74363948AF1AF2B057439675961B0E,Herblore Lab,Herblore Lab
 /FFEEEA8D44AAD7569B8F2FA0826282CB,Herblore Lab,Herblore Lab
@@ -2374,15 +2374,15 @@ Reduz o custo de resistência da mineração"
 /E2B094494A5A75CE7E7B45838DC3CC14,R2,R2
 /98FF5684467C28FC539E009ACD230603,R3,R3
 /F8A180074F3E44F91E47E78765EE4024,RB,Rb.
-/71C24FAA4D56AE9A6454B68C7731D430,REDUCES the STAMINA cost of ATTACKS,Reduz o custo dos ataques de resistência
-/6E1013344C4F6D1D98D5CB91C85FABC2,REDUCES the STAMINA cost of DODGING,Reduz o custo de resistência de esquivar -se
-/F05D1FDC4ED7914CB46EE197061B29B3,REDUCES the STAMINA cost of MINING,Reduz o custo de resistência da mineração
-/FDA347F4475364E18A35ADB1BDCC0BE3,REDUCES the STAMINA cost of SPRINTING,Reduz o custo de resistência da corrida
-/C1A67BBD47A106EE1D1E9180013E42BE,REDUCES the STAMINA cost of WOODCUTTING,Reduz o custo de resistência da corcunda
-/E93C656D4E9DA9451520ECBA013CA8F9,REDUCES the amount of SHOCK damage taken,Reduz a quantidade de dano de choque recebido
+/71C24FAA4D56AE9A6454B68C7731D430,REDUCES the STAMINA cost of ATTACKS,REDUZ o custo de STAMINA dos ATAQUES
+/6E1013344C4F6D1D98D5CB91C85FABC2,REDUCES the STAMINA cost of DODGING,REDUZ o custo de STAMINA ao DESVIAR
+/F05D1FDC4ED7914CB46EE197061B29B3,REDUCES the STAMINA cost of MINING,REDUZ o custo de STAMINA ao MINERAR
+/FDA347F4475364E18A35ADB1BDCC0BE3,REDUCES the STAMINA cost of SPRINTING,REDUZ o custo de STAMINA ao CORRER
+/C1A67BBD47A106EE1D1E9180013E42BE,REDUCES the STAMINA cost of WOODCUTTING,REDUZ o custo de STAMINA ao CORTAR ÁRVORES
+/E93C656D4E9DA9451520ECBA013CA8F9,REDUCES the amount of SHOCK damage taken,REDUZ a quantidade de dano de CHOQUE recebido
 /E173CBDE4C01D4D9B3CF9F9B682BA1AE,REQUIRED MATERIALS,Materiais necessários
 /32BA895B414068FEEAF08B8FFE5A7211,REQUIREMENTS,Requisitos
-/2209650C4F2016AB134783A1895EF447,RESUME,RETOMAR
+/2209650C4F2016AB134783A1895EF447,RESUME,Continuar
 /FDC2FF294D3DBA30F91C4290782B3CC6,RS,Rs
 /97AE0DC2464C0712079FC18267BFF48C,RT,Rt
 /3922EE2949F74289CA62BBA7D65D0F31,Radio Label,Etiqueta de rádio
@@ -3052,54 +3052,54 @@ ou não há masmorra"
 /CAED825B47F11E71204F1E841D441B01,Use this to hone your equipped melee weapon.,Use isso para aprimorar sua arma corpo a corpo equipada.
 /705EE38044859B43378854A77B59B9AC,Use your map if you need to.,"Use seu mapa, se necessário."
 /1FF748A1406EDF27A7E5118EB61797FE,"Used for crafting Runes, the magical stones that represent the different elements used to cast magic.","Usado para criar runas, as pedras mágicas que representam os diferentes elementos usados ​​para lançar magia."
-/1F6BA4BF44C2A2A0D072C68DF40D189D,"Used for fashioning clay items. Bowls, pots, and jewellery moulds can be crafted at this station and then fired in a furnace.","Usado para modelar itens de barro. Tigelas, panelas e moldes de jóias podem ser criados nesta estação e depois disparados em um forno."
+/1F6BA4BF44C2A2A0D072C68DF40D189D,"Used for fashioning clay items. Bowls, pots, and jewellery moulds can be crafted at this station and then fired in a furnace.","Usado para moldar itens de argila. Tigelas, potes e moldes de joias podem ser criados nessa bancada e depois o processo de queima no forno."
 /0C3DC8E0438A2F916ED2F49A3D052494,Used for fashioning metal items.,Usado para modelar itens de metal.
-/0B2C434743A8408AF42E408AC38DA88D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/0BCD9A804DC3435FF4EDC1BB1F0600E9,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/0C8F01B2497F026158589FABC0A44647,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/1340266C48B77300158EE3B520364DC1,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/13E545FD4AE413EFD74E32AB89276D39,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/165F63DC4C63603F11E82787C512DC23,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/19ED10864084FA48C200F48A768E8DE6,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/1BAA89304ECE4D7B3DAD71B5930C1F2B,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/205DE6444A611D1B3755DB97B3E8232D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/34C0918B488E84473EE225898FF08127,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/378765264A11BA2852C627A4CD788CA4,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/3FAA26074C64470735BCF489B778A79F,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/44E612D24AFFB73D3AE36C8F5C13393E,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/49C21C50413B7718C47BD6B16804C2CF,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/538AEFC94C809FC7470D1198487674FD,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/5635784B436BB42B8473E19C8FB4065D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/6C0D84A940EEF7D6A9E8BC876365563F,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/6F35BA5A4E887F3F6AE48C9F749D4873,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/7190E5A34BFDB1CCEE0D20A3C842039F,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/73F1AD9348C1007438D130BF19CAD48A,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/7829BC434A81B4A48BAD4DB60B9E40C4,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/78C426B84C2BEF097226F488329DB2A7,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/8A12980C438662EC03F148A8B0CCCB16,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/8F26C90C4DB500D082468A9EC0082C2D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/9B763D0F49EEA4F6A24C999AD1232EBE,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/9FD4C6E746DB9ABE80150E90EACF63FF,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/AB9B90A543793CD75DCAAB9654AA6C28,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/B857166641AD62C0B9636E8C01B88168,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/BCEC75204406568FC85D759FA7B9F8DE,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/C786AAF94B46A5B0CA4AA48E01805BCC,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/D49D58584776B03D815EF7942B35C9EA,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/D5163FAE4490C963ABEE639A3343969D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/D9A8C3664EB9468496ED9DB22E15A70D,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/EC465A4242B7957266C89496FEE1940F,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/EE85A95842F56915434E7FAF37E4580F,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/EE8CD24A4B3616862526FBBF6F8835B1,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/F4A626904010B25B88ADFBB5C847F025,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/F5BFF04F429380BD2B7BB1BB90BE94C5,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
-/F81D70094C02807CB94F1197CB938DED,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
+/0B2C434743A8408AF42E408AC38DA88D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/0BCD9A804DC3435FF4EDC1BB1F0600E9,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/0C8F01B2497F026158589FABC0A44647,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/1340266C48B77300158EE3B520364DC1,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/13E545FD4AE413EFD74E32AB89276D39,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/165F63DC4C63603F11E82787C512DC23,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/19ED10864084FA48C200F48A768E8DE6,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/1BAA89304ECE4D7B3DAD71B5930C1F2B,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/205DE6444A611D1B3755DB97B3E8232D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/34C0918B488E84473EE225898FF08127,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/378765264A11BA2852C627A4CD788CA4,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/3FAA26074C64470735BCF489B778A79F,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/44E612D24AFFB73D3AE36C8F5C13393E,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/49C21C50413B7718C47BD6B16804C2CF,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/538AEFC94C809FC7470D1198487674FD,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/5635784B436BB42B8473E19C8FB4065D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/6C0D84A940EEF7D6A9E8BC876365563F,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/6F35BA5A4E887F3F6AE48C9F749D4873,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/7190E5A34BFDB1CCEE0D20A3C842039F,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/73F1AD9348C1007438D130BF19CAD48A,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/7829BC434A81B4A48BAD4DB60B9E40C4,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/78C426B84C2BEF097226F488329DB2A7,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/8A12980C438662EC03F148A8B0CCCB16,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/8F26C90C4DB500D082468A9EC0082C2D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/9B763D0F49EEA4F6A24C999AD1232EBE,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/9FD4C6E746DB9ABE80150E90EACF63FF,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/AB9B90A543793CD75DCAAB9654AA6C28,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/B857166641AD62C0B9636E8C01B88168,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/BCEC75204406568FC85D759FA7B9F8DE,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/C786AAF94B46A5B0CA4AA48E01805BCC,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/D49D58584776B03D815EF7942B35C9EA,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/D5163FAE4490C963ABEE639A3343969D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/D9A8C3664EB9468496ED9DB22E15A70D,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/EC465A4242B7957266C89496FEE1940F,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/EE85A95842F56915434E7FAF37E4580F,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/EE8CD24A4B3616862526FBBF6F8835B1,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/F4A626904010B25B88ADFBB5C847F025,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/F5BFF04F429380BD2B7BB1BB90BE94C5,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
+/F81D70094C02807CB94F1197CB938DED,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
 /7C6612024798DAA2916CFEB1D277B75E,User Name,Nome de usuário
 /A2C2480B4E15EBE0F98F819A9C3D3ED2,Users in Game,Usuários no jogo
 /639388C24B4D350AFFDCDCBBF78797A4,Using Item,Usando o item
 /105A0D9C4CCFFEB46ACD8C931071A54B,V,V
-/AC265FE84484EE48E62557A77B12BF5E,VERTICAL THICK BEAM,Feixe grosso vertical
-/EF21AEE3425C1410BFA62993E2BB2AC4,VERTICAL THIN BEAM,Feixe fino vertical
-/4AD797C64257FC6FD275C3B82E969DC0,VERTICAL THIN BEAM,Feixe fino vertical
+/AC265FE84484EE48E62557A77B12BF5E,VERTICAL THICK BEAM,Viga Vertical Grossa
+/EF21AEE3425C1410BFA62993E2BB2AC4,VERTICAL THIN BEAM,Viga Vertical Fina
+/4AD797C64257FC6FD275C3B82E969DC0,VERTICAL THIN BEAM,Viga Vertical Fina
 /55BFCF5444DDB875FBFC19904D1238C8,VESTIGE: A Brutal Bladehead,Vestígio: uma lâmina brutal
 /CF9B4C0B4C2346A8F86132B4676FE6C0,VESTIGE: A Corroded Serrated Blade,Vestígio: uma lâmina serrilhada corroída
 /FD83ECDA4BC3F4F6E9BD3D809DB76462,VESTIGE: A Cruel Goblin Blade,Vestígio: uma lâmina de goblin cruel
@@ -4057,7 +4057,7 @@ QF_Doric_Dialogue/VaultStatue_GraniteMaul_GotBlueprint,The statue has no further
 QF_Doric_Dialogue/Doric_GraniteMaul_Started_GotBlueprint_HasSpace,These sorts of weapons are what an artisan lives for. Enjoy crafting it and then hitting your enemies with it.,Esses tipos de armas são para que uma vida artesanal vive. Desfrute de elaborá -lo e depois atingir seus inimigos com ele.
 QF_Doric_Dialogue/Description,Uncover the secrets of Ashien's Watch.,Descubra os segredos do relógio de Ashien.
 QF_Doric_Dialogue/Doric_GraniteMaul_Started_GotBlueprint2,"Well now, that explains this great hunk o' stone, it's the head to a great ruddy weapon. Here, I think I know how to make it now.","Bem, agora, isso explica esse grande pedaço de pedra, é a cabeça para uma grande arma avermelhada. Aqui, acho que sei como fazer isso agora."
-QF_Doric_Dialogue/VaultStatue_GraniteMaul_QuestStarted_NotGotBlueprint,You find a weapon blueprint written in dwarvish. Perhaps Doric can help translate it.,Você encontra um plano de arma escrito em Dwarvish. Talvez Doric possa ajudar a traduzi -lo.
+QF_Doric_Dialogue/VaultStatue_GraniteMaul_QuestStarted_NotGotBlueprint,You find a weapon blueprint written in dwarvish. Perhaps Doric can help translate it.,Você encontra um plano de arma escrito em Dwarvish. Talvez o Doric possa ajudar a traduzi -lo.
 QF_Doric_Dialogue/VaultStatue_GraniteMaul_QuestNotStarted_NotGotBlueprint,You find a weapon blueprint written in dwarvish. Perhaps someone nearby can help translate it.,Você encontra um plano de arma escrito em Dwarvish. Talvez alguém por perto possa ajudar a traduzi -lo.
 QF_Doric_Dialogue/Doric_GraniteMaul_NotStarted_GotBlueprint_Intro1,You see that place over there? Ashien's Watch they calls it. Used to be a site of some battle or other.,Você vê aquele lugar ali? O relógio de Ashien eles chamam. Costumava ser um local de uma batalha ou outra.
 QF_Doric_Dialogue/Doric_GraniteMaul_NotStarted_NoBlueprint_Intro1,You see that place over there? Ashien's Watch they calls it. Used to be a site of some battle or other.,Você vê aquele lugar ali? O relógio de Ashien eles chamam. Costumava ser um local de uma batalha ou outra.
@@ -4065,22 +4065,22 @@ QF_FTUE_Dialogue/FTUE_Zanik_Spells3,"Ashenfall is rife with magic, and spells wi
 QF_FTUE_Dialogue/FTUE_Vannaka_Dodge1,"Dodging away from an enemy will stop them landing that killing blow. Time it right, then roll out of the way just before the enemy strikes.","Esquilando -se de um inimigo os impedirá de pousar aquele golpe de matar. Tempo certo, depois saia do caminho antes de o inimigo atingir."
 QF_FTUE_Dialogue/FTUE_Vannaka_Dodge2,and you'll find yourself able to overcome almost any foe.,E você se encontrará capaz de superar quase qualquer inimigo.
 QF_FTUE_Dialogue/FTUE_Doric_Intro3,"A new continent, hidden for centuries by Guthix's magic. I mean, would could turn down a chance to explore that?","Um novo continente, escondido por séculos pela magia de Guthix. Quero dizer, poderia recusar a chance de explorar isso?"
-QF_FTUE_Dialogue/Doric_RightTool_Intro_1,"Ah, the new recuit, pleasure to meet you. I'm Doric, smith and general handydwarf of this humble expedition.","Ah, o novo Recuit, prazer em conhecê -lo. Sou Doric, Smith e General Handydwarf desta humilde expedição."
-QF_FTUE_Dialogue/FTUE_Doric_Intro1,"Aha, the new recruit, great to see you. Heard the call of adventure and just couldn't resist?","Aha, o novo recruta, ótimo para vê -lo. Ouviu o chamado da aventura e simplesmente não conseguiu resistir?"
+QF_FTUE_Dialogue/Doric_RightTool_Intro_1,"Ah, the new recuit, pleasure to meet you. I'm Doric, smith and general handydwarf of this humble expedition.","Ah, o novo recruta. Prazer em conhecê-lo. Sou Doric, Smith e General Handydwarf desta humilde expedição."
+QF_FTUE_Dialogue/FTUE_Doric_Intro1,"Aha, the new recruit, great to see you. Heard the call of adventure and just couldn't resist?","Aha, o novo recruta, ótimo te ver. Ouviu o chamado da aventura e não conseguiu resistir, né?"
 QF_FTUE_Dialogue/FTUE_VannakaCombatLink,"Alright, what do you need help with?","Tudo bem, com o que você precisa de ajuda?"
 QF_FTUE_Dialogue/Vannaka_ButterKnife_SpokenTo_NotGotGear2,"Any piece will do, but consider a full set. You need to keep yourself properly protected.","Qualquer peça serve, mas considere um conjunto completo. Você precisa se manter adequadamente protegido."
-QF_FTUE_Dialogue/FTUE_Zanik_hub,Anything I can help with?,Algo que eu possa ajudar?
-QF_FTUE_Dialogue/WoM_Tutorial_GenericNotFinishedText,Aren't you helping the others out? What are you talking to me for? Check your map if you're not sure what you're meant to be doing.,Você não está ajudando os outros a sair? Por que você está falando comigo? Verifique seu mapa se você não tiver certeza do que você deve fazer.
-QF_FTUE_Dialogue/FTUE_Zanik_CraftThings1,"As you collect materials, you'll think up new ways to use them. These recipes can then be created using the right workstations.","Ao coletar materiais, você pensará novas maneiras de usá -los. Essas receitas podem ser criadas usando as estações de trabalho certas."
+QF_FTUE_Dialogue/FTUE_Zanik_hub,Anything I can help with?,O que eu posso te ajudar?
+QF_FTUE_Dialogue/WoM_Tutorial_GenericNotFinishedText,Aren't you helping the others out? What are you talking to me for? Check your map if you're not sure what you're meant to be doing.,Você não está ajudando os outros? Por que está falando comigo? Veja no seu mapa se não souber o que precisa fazer.
+QF_FTUE_Dialogue/FTUE_Zanik_CraftThings1,"As you collect materials, you'll think up new ways to use them. These recipes can then be created using the right workstations.","Conforme você coleta materiais, vai pensar em novas maneiras de usá-los. Essas receitas podem ser criadas utilizando as mesas de trabalho específicas."
 QF_FTUE_Dialogue/FTUE_Zanik_Spells1,As you improve your abilities you'll discover spells that will prove themselves quite useful.,"Ao melhorar suas habilidades, você descobrirá feitiços que serão bastante úteis."
-QF_FTUE_Dialogue/Doric_Generic_TutorialInProgress_Text,"Ashenfall is a dangerous place, but one full of opportunity. Make sure you take the time to explore it properly.","Ashenfall é um lugar perigoso, mas cheio de oportunidades. Certifique -se de reservar um tempo para explorá -lo corretamente."
+QF_FTUE_Dialogue/Doric_Generic_TutorialInProgress_Text,"Ashenfall is a dangerous place, but one full of opportunity. Make sure you take the time to explore it properly.","Ashenfall é um lugar perigoso, mas cheio de oportunidades. Certifique-se de dedicar tempo para explorá-lo adequadamente"
 QF_FTUE_Dialogue/FTUE_Doric_Intro5,"Ashenfall is full of secrets, if you find any interesting blueprints or anything, come find me.","Ashenfall está cheia de segredos, se você encontrar projetos interessantes ou qualquer coisa, venha me encontrar."
 QF_FTUE_Dialogue/Zanik_SeekingShelter_Intro_NotBuiltBed2,"Ashenfall's a harsh place to live in, you're gonna need a shelter and somewhere to rest.","Ashenfall é um lugar dura para se morar, você precisará de um abrigo e algum lugar para descansar."
-QF_FTUE_Dialogue/PlayerChoice_AbyssalWhipped,Ask about Abyssal Whipped.,Pergunte sobre o abismo chicoteado.
-QF_FTUE_Dialogue/PlayerChoice_AboutDogDogs,Ask about Dog Days.,Pergunte sobre dias de cachorro.
-QF_FTUE_Dialogue/PlayerChoice_GoblinDiplomacy,Ask about Goblin Diplomacy,Pergunte sobre diplomacia de duendes
-QF_FTUE_Dialogue/PlayerChoice_GraniteMauled,Ask about Granite Mauled.,Pergunte sobre o granito Mauled.
-QF_FTUE_Dialogue/Doric_RightTool_SpokenTo_MadeAxe_1,"Aye, that's a fine axe you got there, but even the best tools break over time. When that happens use a crafting bench to repair your gear.","Sim, esse é um belo machado que você chegou lá, mas mesmo as melhores ferramentas quebram ao longo do tempo. Quando isso acontecer, use um banco de criação para reparar seu equipamento."
+QF_FTUE_Dialogue/PlayerChoice_AbyssalWhipped,Ask about Abyssal Whipped.,Pergunte sobre o Abyssal Whipped.
+QF_FTUE_Dialogue/PlayerChoice_AboutDogDogs,Ask about Dog Days.,Pergunte sobre os Dias de Cão.
+QF_FTUE_Dialogue/PlayerChoice_GoblinDiplomacy,Ask about Goblin Diplomacy,Pergunte sobre a Diplomacia Goblin.
+QF_FTUE_Dialogue/PlayerChoice_GraniteMauled,Ask about Granite Mauled.,Pergunte sobre o Granito Dilacerado.
+QF_FTUE_Dialogue/Doric_RightTool_SpokenTo_MadeAxe_1,"Aye, that's a fine axe you got there, but even the best tools break over time. When that happens use a crafting bench to repair your gear.","Ah, essa é uma boa machadinha que você tem aí, mas até as melhores ferramentas quebram com o tempo. Quando isso acontecer, use uma bancada de trabalho para reparar seu equipamento."
 QF_FTUE_Dialogue/Vannaka_PostQuest,Be sure to keep your armour and weapons in a good state of repair. I've lost too many friends to lazy maintenance.,Certifique -se de manter sua armadura e armas em bom estado de reparo. Perdi muitos amigos para manutenção preguiçosa.
 QF_FTUE_Dialogue/FirstSteps_Desc,Begin your adventure.,Comece sua aventura.
 QF_FTUE_Dialogue/Butterknife_Title,Better than a butterknife,Melhor do que um canivete de manteiga
@@ -4239,7 +4239,7 @@ QF_FTUE_Dialogue/WoM_RuneMysteries_Intro_4,"When you've done that, craft yoursel
 QF_FTUE_Dialogue/PlayerChoice_Whoareyou,Who are you?,Quem é você?
 QF_FTUE_Dialogue/Zanik_FTUE_SeekingShelter_Postquest,"Why not expand your shelter and turn it into a proper home? You could add rooms, floors, really make something of it.","Por que não expandir seu abrigo e transformá -lo em uma casa adequada? Você pode adicionar quartos, pisos, realmente fazer algo."
 QF_FTUE_Dialogue/FTUE_Zanik_WhoAreYou1,"Yeah, right, hi! I'm Zanik. I'm a cave goblin explorer... well probably the cave goblin explorer... we don't get out much.","Sim, certo, oi! Eu sou Zanik. Eu sou um explorador de goblin de caverna ... bem, provavelmente o explorador de goblin da caverna ... não saímos muito."
-QF_FTUE_Dialogue/PlayerChoice_FirstSteps_AcceptTutorial,Yes please [Begin Tutorial],"Sim, por favor [Begin Tutorial]"
+QF_FTUE_Dialogue/PlayerChoice_FirstSteps_AcceptTutorial,Yes please [Begin Tutorial],"Sim, por favor [Tutorial para iniciantes]"
 QF_FTUE_Dialogue/FTUE_Zanik_Night2,You can pass the night with a good sleep in bed. Wrap yourself up warm and dream away the danger until morning.,Você pode passar a noite com um bom sono na cama. Envolva -se quente e sonhe o perigo até a manhã.
 QF_FTUE_Dialogue/Doric_Prequest_generic,"You just walked right past the Wise Old Man there. Best go back and say hi, eh?","Você acabou de passar pelo sábio velho lá. Melhor voltar e dizer oi, hein?"
 QF_FTUE_Dialogue/Zanik_SeekingShelter_Intro_NotBuiltBed1,"You must be the newbie. I'm Zanik, it's a pleasure to meet you.","Você deve ser o novato. Sou Zanik, é um prazer conhecê -lo."
@@ -4508,7 +4508,7 @@ ST_BuildingPieces/DA_T1_Foundation_Large_Name,Square Foundation,Fundação Squar
 ST_BuildingPieces/DA_T2_Foundation_Large_Name,Square Foundation,Fundação Square
 ST_BuildingPieces/DA_T1_Foundation_Triangle_Name,Triangular Foundation,Fundação triangular
 ST_BuildingPieces/DA_T2_Foundation_Large_Triangle_Name,Triangular Foundation,Fundação triangular
-ST_BuildingPieces/T2VerticalThickBeamDescription,Used to create a frame for structures and improve their stability.,Usado para criar um quadro para estruturas e melhorar sua estabilidade.
+ST_BuildingPieces/T2VerticalThickBeamDescription,Used to create a frame for structures and improve their stability.,Usado para criar uma estrutura para construções e melhorar sua estabilidade.
 ST_BuildingPieces/T2VerticalThickBeamName,Vertical Thick Beam,Feixe grosso vertical
 ST_Chat/EnemiesScalingUp,"As your numbers grow, so grows Ashenfall's bloodlust. Enemies grow more powerful.","À medida que seus números crescem, cresce a Bloodlust de Ashenfall. Os inimigos se tornam mais poderosos."
 ST_Chat/EnemiesScalingDown,Ashenfall's bloodlust diminishes as your allies depart.,O sangue de Ashenfall diminui à medida que seus aliados partem.
@@ -5037,7 +5037,7 @@ ST_FTUE/WoM_FS_AcceptedTutorial3,"He's the only dwarf on the continent, that we 
 ST_FTUE/Zanik_RM_Intro3,"Here, I'll show you. First, let's look at things without magic to help you. I need you to cut down a couple of trees and bring me some ash logs. Simple, right?","Aqui, eu vou te mostrar. Primeiro, vamos olhar as coisas sem magia para ajudá -lo. Eu preciso que você corte algumas árvores e me traga alguns troncos de cinzas. Simples, certo?"
 ST_FTUE/WS_WiseOldMan_NoInventorySpace,"Hrmm, I have something for you, but it appears you've overloaded yourself like a magpie gone mad. Clear some space, then come and see me.","HRMM, eu tenho algo para você, mas parece que você se sobrecarregou como um pega enlouquecida. Limpe um pouco de espaço, então venha me ver."
 ST_FTUE/Vannaka_NoRoomInInventory,"Hrmm, seems you're carrying the weight of the world right now. Come see me again when you've got some space free in your backpack.","HRMM, parece que você está carregando o peso do mundo agora. Venha me ver de novo quando você tiver algum espaço livre em sua mochila."
-ST_FTUE/Player_Choice_FS_SkipTutorial,I can work it out [Skip Tutorial],Eu posso resolver [Skip Tutorial]
+ST_FTUE/Player_Choice_FS_SkipTutorial,I can work it out [Skip Tutorial],Eu posso continuar [Pular o Tutorial]
 ST_FTUE/Playerchoice_IKnowYou,I recognise you from the wanted posters!,Eu reconheço você dos pôsteres de desejos!
 ST_FTUE/Zanik_NotDoneRTftJ,I think Doric is looking for you. Had a task he needed you to complete.,Eu acho que Doric está procurando por você. Tinha uma tarefa que ele precisava de você para concluir.
 ST_FTUE/Vannaka_SkippedTutorial_WhoAreYou_3,"I was finding things a little stale on the mainland. When I saw the posters for the expedition, I felt a pull... a call to adventure that I could not resist.","Eu estava achando as coisas um pouco obsoletas no continente. Quando vi os pôsteres da expedição, senti uma atração ... um chamado para a aventura que não pude resistir."
@@ -5176,8 +5176,8 @@ ST_FTUENotifications/UI.FTUE.SpellsAndRunesText,Spells require runes to cast the
 ST_FTUENotifications/UI.FTUE.Building.Stability.Title,Stability,Estabilidade
 ST_FTUENotifications/UI.FTUE.FirstNightText,"The cold will lower your stamina, and the temperature drops harshly at night. Build a campfire to keep yourself warm.",O frio abaixará sua resistência e a temperatura cai com severidade à noite. Construa uma fogueira para se aquecer.
 ST_FTUENotifications/UI.FTUE.UpgradingWorkstationsTitle,Upgrading Workstations,Atualizando estações de trabalho
-ST_FTUENotifications/UI.FTUE.UpgradingWorkstationsText,"Upgrading a workstation increases its functionality, allowing you to craft better equipment.","A atualização de uma estação de trabalho aumenta sua funcionalidade, permitindo que você crie melhores equipamentos."
-ST_FTUENotifications/UI.FTUE.RepairingItemsText,When an item breaks you can repair it at a crafting station.,"Quando um item quebra, você pode repará -lo em uma estação de artesanato."
+ST_FTUENotifications/UI.FTUE.UpgradingWorkstationsText,"Upgrading a workstation increases its functionality, allowing you to craft better equipment.","A atualização de uma bancada de trabalho aumenta sua funcionalidade, permitindo que você crie melhores equipamentos."
+ST_FTUENotifications/UI.FTUE.RepairingItemsText,When an item breaks you can repair it at a crafting station.,"Quando um item quebra, você pode repará -lo em uma bancada de artesanato."
 ST_FTUENotifications/UI.FTUE.HealthRegen,"When your health isn't as good as it could be, a good meal will help restore you and bolster you for the journey ahead.","Quando sua saúde não é tão boa quanto poderia ser, uma boa refeição ajudará a restaurá -lo e reforçar você para a jornada pela frente."
 ST_FTUENotifications/UI.FTUE.CraftingStationTitle,Workbenches,Bancadas de trabalho
 ST_FTUENotifications/UI.FTUE.NeedStrongerAxeText,"Yeah, your axe isn't going to cut it – pardon the pun – against a tree like that. You'll need a stronger axe. ","Sim, seu machado não vai cortá -lo - perdoe o trocadilho - contra uma árvore assim. Você precisará de um machado mais forte."
@@ -5188,7 +5188,7 @@ ST_FTUENotifications/UI.FTUE.Repair.Text,"You can repair weapons, tools and armo
 ST_FTUENotifications/UI.FTUE.Building.Placement.Text,You can rotate and adjust the distance and height of a building piece before you place it.,Você pode girar e ajustar a distância e a altura de uma peça de construção antes de colocá -la.
 ST_FTUENotifications/UI.FTUE.Building.Stability.Text,You can't build just anywhere. Make sure your structure is stable enough to support itself. Structures are more stable if build near the ground.,Você não pode construir em nenhum lugar. Verifique se sua estrutura é estável o suficiente para se sustentar. As estruturas são mais estáveis ​​se forem construídas perto do solo.
 ST_FTUENotifications/UI.FTUE.Building.Unlocked.2.Text,You need a workbench to craft tools.,Você precisa de uma bancada para criar ferramentas.
-ST_FTUENotifications/UI.FTUE.RespawningText,"You'll be whisked to safety on death, but your items will be left behind. {DescribeRespawningLocation}","Você será levado à segurança da morte, mas seus itens serão deixados para trás. {DescruiPerpawningLocation}"
+ST_FTUENotifications/UI.FTUE.RespawningText,"You'll be whisked to safety on death, but your items will be left behind. {DescribeRespawningLocation}","Você será levado à segurança da morte, mas seus itens serão deixados para trás. {DescribeRespawningLocation}"
 ST_FTUENotifications/UI.FTUE.AccessJournal,You've discovered a new recipe. Press {JournalButton} to see it in the journal.,Você descobriu uma nova receita. Pressione {Journalbutton} para vê -lo na revista.
 ST_FTUENotifications/UI.FTUE.FirstArmorEquipText,"Your power level can be viewed in your inventory next to your equipped armour. The higher your power level, the better your chance of survival.","Seu nível de potência pode ser visto em seu inventário ao lado de sua armadura equipada. Quanto maior o seu nível de poder, melhor sua chance de sobrevivência."
 ST_FTUENotifications/UI.FTUE.PowerLevels.Text,You’re entering an area with stronger creatures and enemies. Craft better weapons and armour to improve your chances of survival.,Você está entrando em uma área com criaturas e inimigos mais fortes. Crie melhores armas e armaduras para melhorar suas chances de sobrevivência.
@@ -5746,7 +5746,7 @@ ST_ItemNames/ClayVessel,Clay Vessel,Navio de argila
 ST_ItemNames/ClayVesselUnfired,Clay Vessel (Unfired),Navio de argila (sem ser considerado)
 ST_ItemNames/CleanWater,Clean Water,Água limpa
 ST_ItemNames/CoarseAnimalFur,Coarse Animal Fur,Peles de animais grossos
-ST_ItemNames/LinenThread,Coarse Thread,Tópico grosso
+ST_ItemNames/LinenThread,Coarse Thread,Fio Grosso
 ST_ItemNames/ConstructionCape,Construction Skillcape,Habilidade de construção
 ST_ItemNames/CookingCape,Cooking Skillcape,Habilidade de cozinha
 ST_ItemNames/CopperDeposit,Copper Deposit,Depósito de cobre
@@ -5944,9 +5944,9 @@ ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Corpo de couro cravejado
 ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Capinhas de couro cravejado
 ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Couz de couro cravejado
 ST_ItemNames/SwampTar,Swamp Tar,Alcatrão de pântanos
-ST_ItemNames/SwampThread,Swamp Thread,Tópico do pântano
-ST_ItemNames/Swampweed,Swamp Weed,Maconha do pântano
-ST_ItemNames/KingsToken,Tainted King's Token,Tainted King's Token
+ST_ItemNames/SwampThread,Swamp Thread,Fio do Pântano
+ST_ItemNames/Swampweed,Swamp Weed,Erva de Pântano
+ST_ItemNames/KingsToken,Tainted King's Token,Token do Rei Corrompido
 ST_ItemNames/TatteredCape,Tattered Cape,Cabo esfarrapado
 ST_ItemNames/ThaneAxePlayer,Thane's Authority,Autoridade de Thane
 ST_ItemNames/TinDeposit,Tin Deposit,Depósito de lata
@@ -6105,8 +6105,8 @@ ST_JournalEntries/ClaySlab,A thick slab of clay. Used in construction projects.,
 ST_JournalEntries/RedberryGlazedFlank,"A thick, delicious and juicy flank steak, glazed with subtle redberry tones. Delicious and nutritious.","Um bife de flanco grosso, delicioso e suculento, envidraçado com tons de Redberry sutis. Delicioso e nutritivo."
 ST_JournalEntries/DireWolfHide,"A tougher, more resilient hide, obtained after slaying a deadly dire wolf. It is said that if you wear the hide of a dire wolf, during the light of a full moon, then you’ll rapidly reduce the size of your circle of friends.","Uma pele mais resistente e mais resiliente, obtida após matar um lobo mortal. Dizem que, se você usar a pele de um lobo terrível, durante a luz de uma lua cheia, reduzirá rapidamente o tamanho do seu círculo de amigos."
 ST_JournalEntries/Opal,"A very shiny stone. Prized by magpies around the world, who are drawn to it’s magnificent luster.","Uma pedra muito brilhante. Apreciado por pegas em todo o mundo, que são atraídas por seu magnífico brilho."
-ST_JournalEntries/SwampWeed,"A weed found in desert regions – haha just kidding, swamps. It’s a weed found in swamps. I don’t know what else to tell you.","Uma erva encontrada nas regiões do deserto - haha ​​apenas brincando, pântanos. É uma erva encontrada em pântanos. Não sei mais o que dizer."
-ST_JournalEntries/AshSapling,"A young ash tree, easily torn down by just your bare hands. Doesn't provide much wood, but it's a good start. ","Uma árvore de cinzas jovem, facilmente rasgada apenas pelas suas próprias mãos. Não fornece muita madeira, mas é um bom começo."
+ST_JournalEntries/SwampWeed,"A weed found in desert regions – haha just kidding, swamps. It’s a weed found in swamps. I don’t know what else to tell you.","Uma erva encontrada em regiões desérticas – haha, estou brincando, é encontrada em pântanos. É uma erva encontrada em pântanos. Não sei o que mais te dizer."
+ST_JournalEntries/AshSapling,"A young ash tree, easily torn down by just your bare hands. Doesn't provide much wood, but it's a good start.","Uma árvore de cinzas jovem, facilmente derrubada apenas pelas suas próprias mãos. Não fornece muita madeira, mas é um bom começo."
 ST_JournalEntries/WeakHealingPotion,"Alchemists have long strived to create potions to rid mankind of all their ills. Normally these potions are regeneratives, that boost the body’s ability to repair itself by drawing in the ambient anima and infusing it into the blood and tissue of the drinker. On the mainland this changes healing from a matter of days, to a matter of hours. On Ashenfall the results are far more pronounced.
 
 The ambient anima of the region is so strong, that wounds heal in moments. Cuts vanish as if they never were, the wounds healing so quickly that even scars cannot form. The weaker potions burn themselves out before they can heal massive injuries, but the results are impressive none the less.","Os alquimistas há muito se esforçam para criar poções para livrar a humanidade de todos os seus males. Normalmente, essas poções são regenerativas, que aumentam a capacidade do corpo de se reparar atraindo a anima ambiente e infundindo -a no sangue e tecido do bebedor. No continente, isso muda a cura de uma questão de dias, para uma questão de horas. Em Ashenfall, os resultados são muito mais pronunciados.
@@ -6131,7 +6131,7 @@ Os magos sombrios mais infames se tornaram um conto de fadas para o povo de Bryn
 Eles apareceram na vila, na calada da noite, como versões distorcidas de si mesmas - criaturas sem sindicatos infundidas com uma essência sombria. Aqueles que se viram em seu caminho tiveram suas vidas arrancadas deles até nada, mas uma casca vazia permaneceu. 
 
 Demorou todos os Cavaleiros Visitantes para derrubá -los. Arrow após flecha, feitiço após feitiço, a tarefa parecia quase intransponível até a luz do sol tornar as criaturas vulneráveis. Em seus arremessos de morte, era como se um frio horrível caísse em todo o mundo como se uma porta em algum lugar tivesse sido aberta em algum lugar que não deveria."
-ST_JournalEntries/FriedOnions,"Although the preparation leaves you weeping, and the smell makes it worse, fried onions are a delicious meal to get you through a difficult day.","Embora a preparação o deixe chorar, e o cheiro piora, as cebolas fritas são uma refeição deliciosa para levá -lo a um dia difícil."
+ST_JournalEntries/FriedOnions,"Although the preparation leaves you weeping, and the smell makes it worse, fried onions are a delicious meal to get you through a difficult day.","Embora a preparação o deixe chorar, e o cheiro piora, as cebolas fritas são uma refeição deliciosa para levá-lo a um dia difícil."
 ST_JournalEntries/AshShortbow,"An ash shortbow is the first weapon most young archers train with. It’s easy to make and, therefore, not so problematic if it breaks during training. Human villagers would often craft their first bows together under the tutelage of a visiting Wild Knight. They would use branches that had naturally fallen from the trees and carefully whittle them into the bow’s limbs. Bowstrings would be created by gathering flax from the nearby fields and spinning them into thin but hardy threads. Most would break on first use. Some would break before the first arrow was fired. Still, village youngsters would laugh at their misfortunes and start the whole process again. Each time improving. Each new bow sturdier than the last.","Um arco curto de cinzas é a primeira arma que a maioria dos arqueiros jovens treina. É fácil de fazer e, portanto, não tão problemático se quebrar durante o treinamento. Os moradores humanos costumavam criar seus primeiros arcos juntos sob a tutela de um cavaleiro selvagem visitante. Eles usavam galhos que caíram naturalmente das árvores e os prendiam cuidadosamente nos membros do arco. As peças de arco seriam criadas reunindo linho dos campos próximos e girando -os em fios finos, mas resistentes. 
 
 A maioria iria quebrar no primeiro uso. Alguns quebraram antes que a primeira flecha fosse demitida. Ainda assim, os jovens da aldeia riam de seus infortúnios e iniciam todo o processo novamente. Cada vez melhorando. Cada novo arco mais resistente que o último."
@@ -9012,7 +9012,7 @@ ST_Skills_Perks/Attack.WeaponExpertise.Desc,Unlocks additional attacks for all M
 ST_Skills_Perks/Construction.CreatureComforts.Desc,Unlocks an assortment of furniture and decorations.,Desbloqueia uma variedade de móveis e decorações.
 ST_Skills_Perks/Cooking.FancyCookware.Desc,Unlocks furniture piece Pan Rack in the building menu.,Desbloqueia o rack de mobiliário no menu de construção.
 ST_Skills_Perks/Construction.MiddleGround.Desc,Unlocks medium-sized building pieces.,Desbloqueia peças de construção de tamanho médio.
-ST_Skills_Perks/Cooking.YesChef.Desc,"Unlocks recipe for Chef's Hat, craftable at the Crafting Station.","Desbloqueia a receita do chapéu do chef, criável na estação de artesanato."
+ST_Skills_Perks/Cooking.YesChef.Desc,"Unlocks recipe for Chef's Hat, craftable at the Crafting Station.","Desbloqueia a receita do chapéu do chef, criável na bancada de artesanato."
 ST_Skills_Perks/Runecrafting.EarthRunes.Desc,"Unlocks recipe for Earth Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da terra, criável no altar da runa."
 ST_Skills_Perks/Runecrafting.FireRunes.Desc,"Unlocks recipe for Fire Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas de fogo, criável no altar da runa."
 ST_Skills_Perks/Runecrafting.LawRunes.Desc,"Unlocks recipe for Law Runes, craftable at the Rune Altar.","Desbloqueia a receita de runas da lei, criável no altar da Rune."
