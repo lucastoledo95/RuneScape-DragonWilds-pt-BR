@@ -2627,8 +2627,8 @@ Runas são retidas se você morrer."
 /D2BB0F3245CD0ADC7375C39666ECB13A,Small Wool Thread Bin,Caixote de fio de lã pequeno
 /D3B4EE6144E7E74AAF7A8D9EE8976514,"Smelted from Copper Ore, this metal can be mixed with Tin to create Bronze if you have a Crucible.","Fundado a partir de minério de cobre, esse metal pode ser misturado com estanho para criar bronze se você tiver um cadinho."
 /8B646DCD4B10CFC88C054A9C5A6852C6,"Smelted from Tin Ore, this metal can be mixed with Copper to create Bronze if you have a Crucible.","Fundado do minério de Estanho, esse metal pode ser misturado com cobre para criar bronze se você tiver um cadinho."
-/0ED563AB4EC15C5FB45B86A617F38CE0,Smithing Anvil,Smithing Anvil
-/6D14625E458B5E6E03F34DBC9B0FDF8D,Smithing Forge,Smithing Forge
+/0ED563AB4EC15C5FB45B86A617F38CE0,Smithing Anvil,Bigorna de Forja
+/6D14625E458B5E6E03F34DBC9B0FDF8D,Smithing Forge,Forja de Metalurgia
 /C813A56F47CEE7CBA74ACBB67D8412CB,Sneak Movement Speed Bonus,Bônus de velocidade de movimento furtivo
 /B4C1EC094FFE6F69F9960AA62E7B8BEA,Sneakiness,Furtivo
 /0E2F1E4A4258DEDFCC0F649324AD47A2,Soft and absurdly strong. A useful textile to craft with.,Macio e absurdamente forte. Um têxtil útil para criar.
@@ -4560,7 +4560,7 @@ ST_Crafting/PotteryWheel,Pottery Wheel,Roda de cerâmica
 ST_Crafting/Repair,Repair,Reparar
 ST_Crafting/Requirements,Requirements,Requisitos
 ST_Crafting/RuneAltar,Rune Altar,Altar de Runa
-ST_Crafting/SmithingAnvil,Smithing Anvil,Smithing Anvil
+ST_Crafting/SmithingAnvil,Smithing Anvil,Bigorna de Forja
 ST_DialogMessages/UI.ErrorMessage.CharacterNameCantBeEmpty.Body,Character name cannot be empty.,O nome do personagem não pode estar vazio.
 ST_DialogMessages/UI.ErrorMessage.EOSRequiredToPlayOnline,Epic Online Services account required to play online. You can link your platform account with an Epic Online Services account in the settings.,Conta épica de serviços on-line necessária para jogar online. Você pode vincular sua conta de pEstanhoforma a uma conta EPIC Online Services nas configurações.
 ST_DialogMessages/UI.ErrorMessage.Title,Error,Erro
