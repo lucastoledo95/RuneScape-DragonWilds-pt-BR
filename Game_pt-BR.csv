@@ -248,7 +248,7 @@ PERK-Resistência a Fungos---------------------------Concede RESISTÊNCIA aos ef
 /86E76E0A4E8E2D95BB766B885427E729,A precious and rare metal used to craft enchanting jewellery.,Um metal precioso e raro usado para criar jóias encantadoras.
 /902E97AE481210BC72F69AA68F9372D5,"A precious metal found in the deepest parts of Ghornfell, used for crafting valuable items.","Um metal precioso encontrado nas partes mais profundas de Ghornfell, usado para criar itens valiosos."
 /D459B7FE426053684A39E99A2391898D,A primitive pickaxe capable of mining stone and rune essence.,Uma picareta primitiva capaz de minerar pedra e essência de runas.
-/D049BCE742A1D6FF35AE2AA258AC69F3,A rack that slowly processes animal hide into leather.,Um rack que lentamente processa se esconder em couro.
+/D049BCE742A1D6FF35AE2AA258AC69F3,A rack that slowly processes animal hide into leather.,Uma bancada que processa lentamente peles de animais em couro.
 /A5BF24074827BBB5D75BABB64825D0B2,A rack that stores and displays weapons.,Um rack que armazena e exibe armas.
 /FD98DEDE482889A39881F3AB961C0303,"A rare and precious gem, coveted by jewelers.","Uma jóia rara e preciosa, cobiçada por joalheiros."
 /E7822E5F41CFDF9BFF38B4A5AE750151,"A rare, precious ore. It can be smelted into silver bars at a furnace.",Um minério raro e precioso. Pode ser fundido em barras de prata em um forno.
@@ -277,7 +277,7 @@ PERK-Resistência a Fungos---------------------------Concede RESISTÊNCIA aos ef
 /9BA3122F41A030E4475E2DA5AC276A1E,A slightly more refined and durable shield made from wood and tanned animal hide.,Um escudo um pouco mais refinado e durável feito de madeira e uma pele de animal bronzeada.
 /F3C4B7344FA6F2E14B13E0A38ED75113,A small chest to store items in.,Um pequeno baú para armazenar itens.
 /B211B3784C44A79E150BCC9D16309F8D,A soft rug.,Um tapete macio.
-/C3F85BDE4B716E9BC85ED7917E0BA9AA,A spinning wheel can spin fibres such as flax or fleece into threads for crafting with.,Uma roda giratória pode girar fibras como linho ou lã em fios para criar.
+/C3F85BDE4B716E9BC85ED7917E0BA9AA,A spinning wheel can spin fibres such as flax or fleece into threads for crafting with.,A roda giratória desfia fibras como linho ou lã para fios.
 /B69E01874296D6D696530FB69D359454,A spinning wheel improvement.,Uma melhoria da roda giratória.
 /3A705215462D1D5E8F031D946D84BA31,A storage box that has a high capacity to store lumber.,Uma caixa de armazenamento com alta capacidade para armazenar madeira.
 /2FD4982C48290A14ADB9B98E860BC11E,A strong and lightweight crafting material.,Um material de artesanato forte e leve.
@@ -2453,7 +2453,7 @@ Runas são retidas se você morrer."
 /15FA557E4AE3076F07FE06825F0C5636,STORM,TEMPESTADE
 /FCE856FB4AA6B1A553226EA1710072BD,Sandstone Rock,Rocha de arenito
 /E8C3508E419650D463ACCCB96881C330,Saradomin Banner,Estandarte de Saradomin
-/AC4FB76C47D170C34829D2B40EBDE8A6,Satiating,Saciante
+/AC4FB76C47D170C34829D2B40EBDE8A6,Satiating,Saciedade
 /7A571C7C4F3FA32F54DB8C833F1A03F6,Sawmill,Serraria
 /916AA4DF404BFF81539F2E91F3C509DC,Sawmill,Serraria
 /F94F53314C9E692F4656529F3B098AE2,Scroll,Role
@@ -5524,7 +5524,7 @@ ST_ItemDescriptions/LeatherBody,Protective armour made from leather.,Armadura de
 ST_ItemDescriptions/LeatherCowl,Protective armour made from leather.,Armadura de proteção feita de couro.
 ST_ItemDescriptions/ApprenticeRobe,Provides basic protection for trainees in the magical arts.,Fornece proteção básica para estagiários nas artes mágicas.
 ST_ItemDescriptions/Fillet,Roasted bird meat. Tastes like everything.,Carne de pássaro assado. Gostos como tudo.
-ST_ItemDescriptions/Haunch,Roasted game meat. Tender and tasty.,Carne de jogo assada. Terno e saboroso.
+ST_ItemDescriptions/Haunch,Roasted game meat. Tender and tasty.,Carne de caça assada. Terno e saboroso.
 ST_ItemDescriptions/DragonkinMageRobes,Robes styled after the ancient overlords of Ashenfall.,Recedores denominados os antigos senhores de Ashenfall.
 ST_ItemDescriptions/Dwellberries,Some rather pretty blue berries.,Algumas bagas azuis bastante bonitas.
 ST_ItemDescriptions/DriedDwellberries,"Sweet and chewy, a great fruity snack.","Doce e mastigável, um ótimo lanche frutado."
@@ -5695,7 +5695,7 @@ ST_ItemNames/FortifyingStew,Fortifying Stew,Ensopado fortificante
 ST_ItemNames/FracturedCape,Fractured Cape,Cabo fraturado
 ST_ItemNames/FriedCabbage,Fried Cabbage,Repolho frito
 ST_ItemNames/FriedOnion,Fried Onions,Cebola frita
-ST_ItemNames/GamePie,Game Pie,Torta de jogo
+ST_ItemNames/GamePie,Game Pie,Torta de caça
 ST_ItemNames/GarouHangingOrnament1,Garou Hanging Ornament 01,Ornamento Garou pendurado 01
 ST_ItemNames/GarouHangingOrnament2,Garou Hanging Ornament 02,Ornamento Garou pendurado 02
 ST_ItemNames/GarouHangingOrnament3,Garou Hanging Ornament 03,Ornamento Garou pendurado 03
@@ -5792,7 +5792,7 @@ ST_ItemNames/KebbitKebab,Rat Steak,Bife de rato
 ST_ItemNames/BestialMeat,Raw Bestial Meat,Carne bestial crua
 ST_ItemNames/BirdMeat,Raw Bird Meat,Carne de pássaro cru
 ST_ItemNames/FarmMeat,Raw Farm Meat,Carne de fazenda crua
-ST_ItemNames/GameMeat,Raw Game Meat,Carne de jogo cru
+ST_ItemNames/GameMeat,Raw Game Meat,Carne de caça cru
 ST_ItemNames/StringyMeat,Raw Rat Meat,Carne de rato cru
 ST_ItemNames/RedTopaz,Red Topaz,TOPAZ RED
 ST_ItemNames/Redberries,Redberries,Redberries
@@ -5813,9 +5813,9 @@ ST_ItemNames/Sandstone,Sandstone,Arenito
 ST_ItemNames/SandstoneBoulder,Sandstone Boulder,Boulder de arenito
 ST_ItemNames/Sapphire,Sapphire,Safira
 ST_ItemNames/BirdFillet,Seared Bird Steak,Bife de pássaro grelhado
-ST_ItemNames/SearedFarmSteak,Seared Farm Steak,Bife de fazenda grelhado
-ST_ItemNames/SearedGameSteak,Seared Game Steak,Bife de jogo grelhado
-ST_ItemNames/ShockingPlantBulb,Shocking Plant Bulb,Bulbo de planta chocante
+ST_ItemNames/SearedFarmSteak,Seared Farm Steak,Bife comum grelhado
+ST_ItemNames/SearedGameSteak,Seared Game Steak,Bife de caça grelhado
+ST_ItemNames/ShockingPlantBulb,Shocking Plant Bulb,Bulbo de planta elétrica
 ST_ItemNames/SilverBar,Silver Bar,Barra de prata
 ST_ItemNames/SilverDeposit,Silver Deposit,Depósito de prata
 ST_ItemNames/SilverOre,Silver Ore,Minério de prata
@@ -5830,7 +5830,7 @@ ST_ItemNames/Steak,Steak,Bife
 ST_ItemNames/Stone,Stone,Pedra
 ST_ItemNames/StoneBodkinArrow,Stone Arrow,Arrow de pedra
 ST_ItemNames/StoneBoulder,Stone Boulder,Boulder de pedra
-ST_ItemNames/StoneClub,Stone Club,Stone Club
+ST_ItemNames/StoneClub,Stone Club,Porrete de Pedra
 ST_ItemNames/StoneDagger,Stone Dagger,Adaga de pedra
 ST_ItemNames/StoneLoggingAxe,Stone Logging Axe,Machado de registro de pedra
 ST_ItemNames/StonePickaxe,Stone Pickaxe,Picareta de pedra
@@ -6674,7 +6674,7 @@ A Aviansie que visitou Ashenfall só ficou em Brynmoor por um curto período de 
 O Escudo Anti-Dragonfire é uma defesa formidável, superando a força do ferro e capaz de suportar a respiração letal de um dragão. Seu proprietário anterior, esperançoso de que poderia ser uma arma contra Velgar, estava provado errado.
 
 Somente os indivíduos mais poderosos podem esperar exercer esse objeto. No entanto, mesmo assim, diz-se que o escudo pode ser melhorado combinando-o com a essência de um dragão, ganhando parte da fúria da lendária besta."
-ST_JournalEntries/ShockingPlantBulb,"It seems almost unfair that plants could become electrified – a secret guarded closely by eels until now. These bulbs still contain a residual trace of that lightning charge, making them much desired in herblore.","Parece quase injusto que as plantas possam ficar eletrificadas-um segredo guardado de perto pelas enguias até agora. Essas lâmpadas ainda contêm um traço residual dessa carga de raios, tornando-as muito desejadas em Herblore."
+ST_JournalEntries/ShockingPlantBulb,"It seems almost unfair that plants could become electrified – a secret guarded closely by eels until now. These bulbs still contain a residual trace of that lightning charge, making them much desired in herblore.","Parece quase injusto que plantas possam ser eletrificadas — um segredo guardado a sete chaves pelas enguias até agora. Esses bulbos ainda contêm vestígios residuais da carga elétrica, tornando-os muito desejados na Herbologia."
 ST_JournalEntries/GroundGranite,"It takes a lot of effort to crush granite into powder. Blood, sweat and tears go into the process of refining this solid stone into something more manageable. In doing so you prove yourself a master over the earth itself, though the earth rarely acknowledges your claim.","É preciso muito esforço para esmagar o granito em pó. Sangue, suor e lágrimas entram no processo de refinar essa pedra sólida em algo mais gerenciável. Ao fazer isso, você se prova um mestre sobre a própria Terra, embora a Terra raramente reconheça sua reivindicação."
 ST_JournalEntries/DetectOre,"It was a dwarf who asked Guthix for this spell. Ashenfall promised ores and metals that the dwarven smiths could only dream of, but they were often hidden away in the bowels of the earth. So it was that Guthix created this spell and taught it to the dwarven blacksmiths that had joined him on Ashenfall. The result was the creation of wonderous new weapons, armour and tools that pushed Bramblemead into a new era of prosperity.","Foi um anão que pediu a Guthix esse feitiço. Ashenfall prometeu minérios e metais com os quais os Smiths anões só podiam sonhar, mas eles eram frequentemente escondidos nas entranhas da terra. Foi que Guthix criou esse feitiço e o ensinou aos ferreiros anões que se juntaram a ele em Ashenfall.
 
