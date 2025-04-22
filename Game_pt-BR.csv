@@ -439,8 +439,8 @@ Um novo desafio aguarda..."
 /96FBD80E43A48A2B080803A1EF1DA97C,Axtral Projection,Projeção axtral
 /C654C7864BAA6AD1827F9096696B241A,B,B
 /F482F3CA4B56E660C79178989793DDDD,B Button,Botão B.
-/ED89EB0142BC609ABD24EA8AFD0DD08E,BLUEPRINT: Large Wardstone,Blueprint: grande Wardstone
-/87B415C54E276622F83868893D1DC1EF,BLUEPRINT: Medium Wardstone,Blueprint: Medium Wardstone
+/ED89EB0142BC609ABD24EA8AFD0DD08E,BLUEPRINT: Large Wardstone,Blueprint: Grande Pedra de Proteção
+/87B415C54E276622F83868893D1DC1EF,BLUEPRINT: Medium Wardstone,Blueprint: Média Pedra de Proteção
 /22B1CCDA4198B4AA294E14A607B7C93E,Back,Voltar
 /25FF9B0B491CD3AE9F9DC59AAEB38EE3,Back,Voltar
 /5377B15F46516E88C4B4CF951C585CDA,Back,Voltar
@@ -4939,7 +4939,7 @@ ST_FTUE/FS_Description,Begin your adventure.,Comece sua aventura.
 ST_FTUE/Vannaka_RC_Intro3,"Behind me, up that little hill, is a windmill infested with rats. I want you to kill some of them and cook their meat.","Atrás de mim, naquela pequena colina, há um moinho de vento infestado de ratos. Eu quero que você mate alguns deles e cozinhe sua carne."
 ST_FTUE/Zanik_RM_LinkToWoM2,"Better not keep him waiting too long, he gets real cranky.","Melhor não mantê-lo esperando muito tempo, ele fica muito irritadiço."
 ST_FTUE/Doric_RTftJ_NotMadeClub2,"Both require stone and ash logs, which you'll find scattered all over the ground around here.","Ambos exigem troncos de pedra e cinzas, que você encontrará espalhados por todo o chão por aqui."
-ST_FTUE/WS_WiseOldMan_Objective3,Bring your Wardstone to the Wise Old Man.,Traga sua Wardstone para o velho sábio.
+ST_FTUE/WS_WiseOldMan_Objective3,Bring your Wardstone to the Wise Old Man.,Traga sua Pedra de proteção para o velho sábio.
 ST_FTUE/WoM_FS_Intro3,"But before all that, how about we take you through some survival basics?","Mas antes de tudo isso, que tal levá-lo a alguns princípios básicos de sobrevivência?"
 ST_FTUE/Doric_RTftJ_Intro_WaterNeeded1,"But look at you, all skin and bones. Must be proper parched after a journey like that.","Mas olhe para você, toda a pele e ossos. Deve ser ressecado após uma jornada como essa."
 ST_FTUE/WoM_FS_SkippedTutorial2,"But not here. Come find me in Bramblemead Village, and we'll get you started.",Mas não aqui. Venha me encontrar na vila de Bramblead e vamos começar.
@@ -4949,7 +4949,7 @@ ST_FTUE/Doric_RTftJ_Intro1,"By Saradomin's big bushy beard! Just our luck, a gre
 ST_FTUE/WoM_Skipped_Tutorial_1,Can I help you?,Posso ajudar?
 ST_FTUE/Playerchoice_TellMeAboutAshenfall,Can you tell me about Ashenfall?,Você pode me falar sobre Ashenfall?
 ST_FTUE/Vannaka_RC_Intro5,Cook two rat roasts and bring them back to me. No one said survival would be pretty.,Cozinhe dois assados de ratos e leve-os de volta para mim. Ninguém disse que a sobrevivência seria bonita.
-ST_FTUE/WS_WiseOldMan_Objective2,Craft a Wardstone at a Rune Altar and bring it to the Wise Old Man.,Crie uma Wardstone em um altar de runa e leve-o para o velho sábio.
+ST_FTUE/WS_WiseOldMan_Objective2,Craft a Wardstone at a Rune Altar and bring it to the Wise Old Man.,Crie uma Pedra de proteção em um altar de runa e leve-o para o velho sábio.
 ST_FTUE/WS_WiseOldMan_Intro2,"Crafting certain equipment intrinsically involves the weaving of small threads of enchantment, granting you greater protection.","A criação de certos equipamentos envolve intrinsecamente a tecelagem de pequenos fios de encantamento, concedendo maior proteção."
 ST_FTUE/Vannaka_SkippedTutorial_WhoAreYou_2,"Cull the population of monsters, to make the world a better place.","Abate a população de monstros, para tornar o mundo um lugar melhor."
 ST_FTUE/Zanik_RM_SpokenTo_NoLogs,"Cut down trees and gather 50 ash logs, then bring them to me.","Corte as árvores e junte 50 troncos de cinzas, depois traga-os para mim."
@@ -4963,14 +4963,14 @@ ST_FTUE/Zanik_RM_HasLogs2,"Fortunately, we've got magic! As you improve in a ski
 ST_FTUE/Doric_Generic,"Gathering resources and crafting items, that's the basics of survival in this place. Seek out new resources to discover new recipes.","Reunindo recursos e elaboração de itens, esse é o básico da sobrevivência neste local. Procure novos recursos para descobrir novas receitas."
 ST_FTUE/RTftJ_Title,Getting Started,Começando
 ST_FTUE/Vannaka_RC_NotDoneRTftJ,"Getting ahead of yourself, aren't we, young pup? Check your map to see where you're meant to be headed.","Ficando à frente de si mesmo, não somos, jovens filhotes? Verifique seu mapa para ver para onde você deve estar indo."
-ST_FTUE/WS_WiseOldMan_NotMadeStone,"Go and craft a wardstone and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e crie um Wardstone e traga-o aqui para que eu possa verificar seu trabalho. Você só precisa reunir alguma essência e pedra runas e criá-los em um altar de runa. Bom e simples. Um Wardstone fará.
-ST_FTUE/WS_WiseOldMan_Intro6,"Go and craft me one of them and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e me crie um deles e traga-o aqui para que eu possa verificar o seu trabalho. Você só precisa reunir alguma essência e pedra runas e criá-los em um altar de runa. Bom e simples. Um Wardstone fará.
-ST_FTUE/Zanik_RM_HasRunes1,"Great work! Runes are the lifeblood of magic, you'll need them to cast spells and use magic staves. A well placed spell can make all the difference.","Ótimo trabalho! As runas são a força vital da magia, você precisará delas para lançar feitiços e usar pautas mágicas. Um feitiço bem colocado pode fazer toda a diferença."
+ST_FTUE/WS_WiseOldMan_NotMadeStone,"Go and craft a wardstone and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma pedra de proteção e traga-a aqui para que eu possa verificar o seu trabalho. Você só precisa reunir alguma essência de runa e pedra, e fazer a criação delas em um altar de runa. Bem simples. Uma pedra de proteção será o suficiente.
+ST_FTUE/WS_WiseOldMan_Intro6,"Go and craft me one of them and bring it here so I can check your working. You just need to gather some rune essence and stone, and craft them at a rune altar. Nice and simple. One wardstone will do.",Vá e faça uma para mim e traga aqui para que eu possa verificar o seu trabalho. Você só precisa reunir um pouco de essência de runa e pedra, e criá-las em um altar de runa. Bem simples. Uma pedra de proteção será suficiente.
+ST_FTUE/Zanik_RM_HasRunes1,"Great work! Runes are the lifeblood of magic, you'll need them to cast spells and use magic staves. A well placed spell can make all the difference.","Ótimo trabalho! As runas são a essência da magia, você precisará delas para lançar feitiços e cajados mágicos. Um feitiço bem colocado pode fazer toda a diferença."
 ST_FTUE/Zanik_RM_HasLogs1,"Great, you've got them. Now, between you and me, that was a bit repetitive right? I'd be exhausted having to do that all the time.","Ótimo, você os tem. Agora, entre você e eu, isso foi um pouco repetitivo, certo? Eu estaria exausto tendo que fazer isso o tempo todo."
 ST_FTUE/WS_WiseOldMan_Intro3,"Handy stuff, especially with dragons about. Now, you'll find that your Lifewards can get depleted by the brutality of the other creatures on Ashenfall.","Coisas úteis, especialmente com dragões. Agora, você descobrirá que seu em direção à vida pode ser esgotado pela brutalidade das outras criaturas em Ashenfall."
-ST_FTUE/WoM_FS_AcceptedTutorial3,"He's the only dwarf on the continent, that we know of anyway, can't miss him.","Ele é o único anão do continente, que sabemos de qualquer maneira, não pode sentir falta dele."
+ST_FTUE/WoM_FS_AcceptedTutorial3,"He's the only dwarf on the continent, that we know of anyway, can't miss him.","Ele é o único anão no continente, pelo menos que sabemos, não tem como errá-lo."
 ST_FTUE/Zanik_RM_Intro3,"Here, I'll show you. First, let's look at things without magic to help you. I need you to cut down a couple of trees and bring me some ash logs. Simple, right?","Aqui, eu vou te mostrar. Primeiro, vamos olhar as coisas sem magia para ajudá-lo. Eu preciso que você corte algumas árvores e me traga alguns troncos de cinzas. Simples, certo?"
-ST_FTUE/WS_WiseOldMan_NoInventorySpace,"Hrmm, I have something for you, but it appears you've overloaded yourself like a magpie gone mad. Clear some space, then come and see me.","HRMM, eu tenho algo para você, mas parece que você se sobrecarregou como um pega enlouquecida. Limpe um pouco de espaço, então venha me ver."
+ST_FTUE/WS_WiseOldMan_NoInventorySpace,"Hrmm, I have something for you, but it appears you've overloaded yourself like a magpie gone mad. Clear some space, then come and see me.","HRMM, eu tenho algo para você, mas parece que você se sobrecarregou como um Pássaro enlouquecido. Libere um pouco de espaço e venha me ver."
 ST_FTUE/Vannaka_NoRoomInInventory,"Hrmm, seems you're carrying the weight of the world right now. Come see me again when you've got some space free in your backpack.","HRMM, parece que você está carregando o peso do mundo agora. Venha me ver de novo quando você tiver algum espaço livre em sua mochila."
 ST_FTUE/Player_Choice_FS_SkipTutorial,I can work it out [Skip Tutorial],Eu posso continuar [Pular o Tutorial]
 ST_FTUE/Playerchoice_IKnowYou,I recognise you from the wanted posters!,Eu reconheço você dos pôsteres de desejos!
@@ -4985,7 +4985,7 @@ ST_FTUE/Vannaka_RC_HasKebabs2,"It may not exactly be gourmet cooking, but a meal
 ST_FTUE/Doric_RTftJ_Intro3,"It won't kill a dragon, but it's better than nothing and it'll help you live a bit longer, giving you time to make something better.","Não vai matar um dragão, mas é melhor do que nada e ajudará você a viver um pouco mais, dando-lhe tempo para fazer algo melhor."
 ST_FTUE/Doric_SkippedTutorial_CanYouTellMeAboutAshenfall_1,"It's a wild place this. Beasties everywhere, and no civilisation in sight. Just the remnants, ghosts of the past.","É um lugar selvagem isso. Beasties por toda parte, e nenhuma civilização à vista. Apenas os remanescentes, fantasmas do passado."
 ST_FTUE/WS_WiseOldMan_MadeStone3,"Just don't use too many at once, and you'll be fine. Right, go on, get out there and slay that dragon!","Só não use muitos de uma só vez e você ficará bem. Certo, continue, vá lá e mate aquele dragão!"
-ST_FTUE/WS_WiseOldMan_MadeStone2,"Just use a wardstone and BAM! Instant Lifeward recharge. Sure, it'll tear a bit out of your soul, but so will listening to Doric talk about hammers for three hours.","Basta usar um Wardstone e Bam! Recarga instantânea de vida vital. Claro, vai arrancar um pouco da sua alma, mas também ouvirá Doric falar sobre martelos por três horas."
+ST_FTUE/WS_WiseOldMan_MadeStone2,"Just use a wardstone and BAM! Instant Lifeward recharge. Sure, it'll tear a bit out of your soul, but so will listening to Doric talk about hammers for three hours.","Basta usar um Pedra de proteção e Bam! Recarga instantânea de vida vital. Claro, vai arrancar um pouco da sua alma, mas também ouvirá Doric falar sobre martelos por três horas."
 ST_FTUE/Vannaka_SkippedTutorial_Intro_1,"Keep your wits about you, young pup. Ashenfall is home to many a dangerous beast, and I've not yet tested my blade against each of them.","Mantenha seu juízo sobre você, filhote jovem. Ashenfall é o lar de muitos animais perigosos, e ainda não testei minha lâmina contra cada um deles."
 ST_FTUE/Doric_SkippedTutorial_WhoAreYou_2,"Left my son behind to watch the shop. Good lad, gonna do good things. Hope he's not too worried about his dad.","Deixei meu filho para trás para assistir à loja. Bom rapaz, vou fazer coisas boas. Espero que ele não esteja muito preocupado com o pai."
 ST_FTUE/Vannaka_Generic,Life on Ashenfall is rarely peaceful. Make sure you're well fed and always have a weapon to hand. Keep an eye on enemy weaknesses to dispatch them quickly.,A vida em Ashenfall raramente é pacífica. Certifique-se de que você está bem alimentado e sempre tenha uma arma para entregar. Fique de olho nas fraquezas inimigas para despachar-as rapidamente.
@@ -5243,10 +5243,10 @@ ST_GoblinDiplomacy/Goblin_GoblinDiplomacy_FoundOneAmulet_NotInvestigated_1,You l
 ST_GoblinDiplomacy/Zanik_GoblinDiplomacy_Intro_BothAmuletsFound_1,"You've got the stink of divine manipulation on you, what have you discovered. May I look?","Você tem o fedor da manipulação divina em você, o que você descobriu. Posso olhar?"
 ST_GoblinDiplomacy/Description,Zanik needs you to stop a prophecy before it's too late.,Zanik precisa que você pare uma profecia antes que seja tarde demais.
 ST_HeartStrings/SixthMemorial5,A shield against a shadowy emptiness. My void knight.,Um escudo contra um vazio sombrio. Meu cavaleiro vazio.
-ST_HeartStrings/FinalMemorial5,"As the last words leave your lips, the seed shivers and shudders to the song. It twists, stretches and transforms into a bow of glittering crystal.","Enquanto as últimas palavras deixam seus lábios, a semente se abre e estremece à música. Torna, se estende e se transforma em um arco de cristal brilhante."
+ST_HeartStrings/FinalMemorial5,"As the last words leave your lips, the seed shivers and shudders to the song. It twists, stretches and transforms into a bow of glittering crystal.","À medida que as últimas palavras saem de seus lábios, a semente estremece e se agita ao som. Ela se retorce, se estica e se transforma em um arco de cristal cintilante."
 ST_HeartStrings/SixthMemorial3,"Cleddyf guthix ydym ni Ni yw'r golau treiddgar Yr ydm yma
-I drechu pob cysgod. I Gielinor!","Cleddyf guthix ydym ni Ni Yw'r Golau Treiddgar Yr ydm yma
-I Drechu Pob Cysgod. Eu Gielinor!"
+I drechu pob cysgod. I Gielinor!","Espada de Guthix, somos nós Nós somos a luz penetrante
+Estamos aqui Para derrotar toda sombra. Para Gielinor!"
 ST_HeartStrings/SixthMemorial2,"Clwych curo’r drymiau rhyfel, A ffanffer Guthix yn canu I imagined your war-song as you lead your Wild Knights into battle.","Clwych Curo'r Drymiau Rhyfel, um ffanffer Guthix yn Canu Imaginei sua música de guerra enquanto você lidera seus cavaleiros selvagens à batalha."
 ST_HeartStrings/ThirdMemorial4,"Creaduriaid. Adfeilion. Monsters and desolation, everywhere we looked. Yet somehow we made a home, a ramshackle house of nonsense, that became my paradise.","Creaduriaid. Adfeilion. Monstros e desolação, em todos os lugares que olhamos. No entanto, de alguma forma, fizemos um lar, uma casa de bobagens em ruínas, que se tornou meu paraíso."
 ST_HeartStrings/FinalMemorial4,Dw i'n dy garu di'n fawr.,DW I'N DY GARU DI'N FAWR.
@@ -5752,7 +5752,7 @@ ST_ItemNames/IronWarhammer,Iron Warhammer,Iron Warhammer
 ST_ItemNames/Jade,Jade,Jade
 ST_ItemNames/JuicyBrisket,Juicy Brisket,Peito bovino suculento
 ST_ItemNames/Kebab,Kebab,Churrasquinho
-ST_ItemNames/LargeWardstone,Large Wardstone,Pedra Grande de proteção
+ST_ItemNames/LargeWardstone,Large Wardstone,Grande Pedra de Proteção
 ST_ItemNames/Leather,Leather,Couro
 ST_ItemNames/LeatherBody,Leather Body,Corpo de couro
 ST_ItemNames/LeatherChaps,Leather Chaps,Capas de couro
@@ -5762,12 +5762,12 @@ ST_ItemNames/LegsOfLightness,Leggings Of Lightness,Perneiras de leveza
 ST_ItemNames/Marrentill,Marrentill,Marrentill
 ST_ItemNames/MeatPizza,Meat Pizza,Pizza de carne
 ST_ItemNames/MeatStew,Meat Stew,Ensopado de carne
-ST_ItemNames/MediumWardstone,Medium Wardstone,Pedra Média de proteção
+ST_ItemNames/MediumWardstone,Medium Wardstone,Média Pedra de Proteção
 ST_ItemNames/MiningCape,Mining Skillcape,Habilidade de mineração
 ST_ItemNames/MixedGrill,Mixed Grill,Grelha mista
 ST_ItemNames/MixedPlatter,Mixed Platter,Travessa mista
 ST_ItemNames/MoltenGlass,Molten Glass,Vidro fundido
-ST_ItemNames/MonstrousFang,Monstrous Fang,Fang monstruoso
+ST_ItemNames/MonstrousFang,Monstrous Fang,Dente Monstruoso
 ST_ItemNames/OakStaff,Oak Battlestaff,Oak BattleStaff
 ST_ItemNames/OakLogs,Oak Logs,Troncos de carvalho
 ST_ItemNames/OakLongbow,Oak Longbow,Oak Longbow
@@ -5820,8 +5820,8 @@ ST_ItemNames/SilverBar,Silver Bar,Barra de prata
 ST_ItemNames/SilverDeposit,Silver Deposit,Depósito de prata
 ST_ItemNames/SilverOre,Silver Ore,Minério de prata
 ST_ItemNames/Skullsplitter,Skullsplitter,Skullsplitter
-ST_ItemNames/Fangs,Small Animal Fang,Fang de pequenos animais
-ST_ItemNames/SmallWardstone,Small Wardstone,Pedra Pequena de proteção
+ST_ItemNames/Fangs,Small Animal Fang,Dente de pequenos animais
+ST_ItemNames/SmallWardstone,Small Wardstone,Pequena Pedra de proteção
 ST_ItemNames/Snapdragon,Snapdragon,Snapdragon
 ST_ItemNames/SodaAsh,Soda Ash,Refrigerante
 ST_ItemNames/SoftAnimalFur,Soft Animal Fur,Peles de animais macios
@@ -5966,7 +5966,7 @@ Com o equipamento e a habilidade certos, a essência do Rune pode ser infundida 
 
 Essa descoberta é um dos maiores triunfos de Guthix e talvez o seu milagre mais duradouro."
 ST_JournalEntries/AshTree,"A mature ash tree, strong and sturdy and a great source of timber.","Uma árvore de cinzas madura, forte e resistente e uma grande fonte de madeira."
-ST_JournalEntries/LargeWardstone,"A more powerful and refined wardstone, this one allows you a much greater return on investment. When activated, it draws energy from the soul more cleanly and efficiently, reducing the impact of Soulscourge on the user.","Um Wardstone mais poderoso e refinado, este permite um retorno muito maior do investimento. Quando ativado, ele extrai energia da alma de maneira mais limpa e eficiente, reduzindo o impacto do esgotamento do soul no usuário."
+ST_JournalEntries/LargeWardstone,"A more powerful and refined wardstone, this one allows you a much greater return on investment. When activated, it draws energy from the soul more cleanly and efficiently, reducing the impact of Soulscourge on the user.","Uma pedra de proteção mais poderosa e refinada, que oferece um retorno muito maior sobre o investimento. Quando ativada, ela extrai a energia da alma de maneira mais limpa e eficiente, reduzindo o impacto do Soulscourge sobre o usuário."
 ST_JournalEntries/Sandstone,"A rock with a grainy texture. I really don’t know what you’re expecting here, there’s no deep lore about sandstone.","Uma rocha com uma textura granulada. Eu realmente não sei o que você espera aqui, não há conhecimento profundo em arenito."
 ST_JournalEntries/BandosianAmulet1,"A seemingly simple amulet carrying the symbol of Bandos. It feels strangely warm to the touch, and a faint sensation like the memory of a heartbeat thrums through your fingertips.
 
@@ -7664,17 +7664,17 @@ When the stone is broken, it activates the rune essence and draws anima in from 
 
 Souls are containers of pure anima. They grow over time from experience and adventure, the more the bearer of said soul enriches their life with activity, the stronger the soul. This means that the damage the wardstone creates, whilst not insignificant, is easily repaired through the simple passage of time. Especially on Ashenfall, where merely surviving to the next hour is an adventure.
 
-Wardstones are great in a pinch, but one must be careful not to use too many, less the damage they deal to themselves becomes too great.","Wardstones são ferramentas úteis para quem trabalha com enfermarias. A armadura, quando criada em um continente rico em anima, como Ashenfall, é infundido com fios de encantamento que aproveitam a magia natural para fornecer uma camada extra de proteção ao usuário.
+Wardstones are great in a pinch, but one must be careful not to use too many, less the damage they deal to themselves becomes too great.","Pedras de proteção são ferramentas úteis para quem trabalha com wards. A armadura, quando criada em um continente rico em anima como Ashenfall, é imbuída com fios de encantamento que aproveitam a magia natural para fornecer uma camada extra de proteção ao usuário.
 
-Essa proteção se esgota após o uso, à medida que a energia dentro da enfermaria é gasta no efeito. Mas o Wardstone pode corrigir essa situação... por um preço.
+Essa proteção se esgota com o uso, à medida que a energia dentro da ward é consumida pelo efeito. Mas a pedra de proteção pode corrigir essa situação… por um preço.
 
-A pedra ao redor da Wardstone é oca e mais quebradiça do que parece, e a essência da runa é cuidadosamente colocada nela junto com um ingrediente final-uma gota do sangue dos criadores. Esse sangue e a formação de essência de Rune cria uma espécie de conexão harmoniosa entre o portador de Wardstone e a própria pedra.
+A pedra ao redor da pedra de proteção é oca e mais quebradiça do que parece, e a essência rúnica é cuidadosamente colocada dentro dela junto com um ingrediente final – uma gota do sangue do criador. Esse sangue, e a formação da essência rúnica, criam uma espécie de conexão harmoniosa entre o portador da pedra de proteção e a própria pedra.
 
-Quando a pedra é quebrada, ela ativa a essência do Rune e atrai a Anima da fonte pura mais próxima-a alma do usuário.
+Quando a pedra é quebrada, ela ativa a essência rúnica e absorve anima da fonte pura mais próxima – a alma do usuário.
 
-As almas são recipientes de pura anima. Eles crescem ao longo do tempo a partir da experiência e da aventura, quanto mais o portador da referida alma enriquece a vida com a atividade, mais forte a alma. Isso significa que o dano que o Wardstone cria, embora não seja insignificante, é facilmente reparado através da passagem simples do tempo. Especialmente em Ashenfall, onde apenas sobreviver à próxima hora é uma aventura.
+As almas são recipientes de anima pura. Elas crescem ao longo do tempo, a partir de experiência e aventura; quanto mais o portador da alma enriquece sua vida com atividade, mais forte se torna a alma. Isso significa que o dano causado pela pedra de proteção, embora não insignificante, pode ser facilmente reparado com o simples passar do tempo. Especialmente em Ashenfall, onde sobreviver até a próxima hora é uma aventura.
 
-Wardstones é ótimo em uma pitada, mas é preciso ter cuidado para não usar muitos, menos os danos que causam a si mesmos se tornam muito grandes."
+As pedras de proteção são ótimas em um aperto, mas deve-se ter cuidado para não usar muitas, para que o dano causado a si mesmo não se torne grande demais."
 ST_JournalEntries/WaterRune,"Water is a strange thing, required by all living things, yet capable of ending civilisations. Rain is vital to the survival of a kingdom, yet its citizens lament the grey clouds forming overhead. Mages understand that water is a special sort of power, capable of being shaped in a multitude of ways. Water runes embody this fluidity of concept, finding use in many different types of spell.","A água é uma coisa estranha, exigida por todos os seres vivos, mas capaz de acabar com as civilizações. A chuva é vital para a sobrevivência de um reino, mas seus cidadãos lamentam as nuvens cinzentas que se formam no alto. Os magos entendem que a água é um tipo especial de poder, capaz de ser moldado de várias maneiras. As runas de água incorporam essa fluidez do conceito, encontrando uso em muitos tipos diferentes de feitiço."
 ST_JournalEntries/Thirst,"Water is the most basic necessity for all known life on Gielinor. Dehydration is deadlier than the strongest monster, guaranteeing death in its victims if they suffer it long enough.
 
@@ -8979,20 +8979,20 @@ ST_Tooltips/PowerLevelTitle.High,Below Zone Level,Abaixo do nível da zona
 ST_Tooltips/Broken,Broken,Quebrado
 ST_Tooltips/CannotConsume,Cannot consume,Não pode consumir
 ST_Tooltips/CannotConsumeMore,Cannot consume more,Não pode consumir mais
-ST_Tooltips/Wardstone.ChestPieceBroken,Chest piece broken,Pedaço de peito quebrado
+ST_Tooltips/Wardstone.ChestPieceBroken,Chest piece broken,Peça de Peito Quebrada
 ST_Tooltips/Duration,Duration: {Duration} {Unit},Duração: {Duration} {Unit}
 ST_Tooltips/ProcessingFuelHeader,Fuel,Combustível
 ST_Tooltips/ProcessingIngredientsHeader,Inputs,Entradas
 ST_Tooltips/MonstrousFangs,Large fangs used in creating deadly weaponry.,Grandes presas usadas na criação de armas mortais.
 ST_Tooltips/Locked,Locked,Trancado
-ST_Tooltips/Wardstone.NoChestPieceEquipped,No Chest piece equipped,Nenhum pedaço de peito equipado
-ST_Tooltips/Wardstone.NoChestPieceCapacity,No Lifeward for Chest piece,Sem vida para o peito
+ST_Tooltips/Wardstone.NoChestPieceEquipped,No Chest piece equipped,Nenhuma peça de peito equipada
+ST_Tooltips/Wardstone.NoChestPieceCapacity,No Lifeward for Chest piece,Sem Vida para a Peça de Peito
 ST_Tooltips/PowerLevelTitle.NotCompared,Power Level,Nível de Poder
-ST_Tooltips/RequiresHeldMeleeWeapon,Requires held melee weapon,Requer arma corpo a corpo mantida
+ST_Tooltips/RequiresHeldMeleeWeapon,Requires held melee weapon,Requer arma de combate corpo a corpo equipada
 ST_Tooltips/PowerLevelTitle.VeryHigh,Severly Below Zone Level,Seriamente abaixo do nível da zona
 ST_Tooltips/SmallAnimalFangs,Sharp little teeth used in weaponry.,Dentes pequenos afiados usados em armas.
-ST_Tooltips/VaultShards,Stone imbued with remnants of dragonkin magic. Found only in dragonkin vaults.,Pedra imbuída de remanescentes da magia de Dragonkin. Encontrado apenas em Dragonkin Vaults.
-ST_Tooltips/PowerLevelBody,This is the average power level of all the equipped armour. Your power level is an indicator of your survivability when encountering threats in a zone.,Este é o nível médio de poder de toda a armadura equipada. Seu nível de poder é um indicador de sua sobrevivência ao encontrar ameaças em uma zona.
+ST_Tooltips/VaultShards,Stone imbued with remnants of dragonkin magic. Found only in dragonkin vaults.,Pedra imbuída com vestígios da magia dos dragonkin. Encontrada apenas em cofres dos dragonkin.
+ST_Tooltips/PowerLevelBody,This is the average power level of all the equipped armour. Your power level is an indicator of your survivability when encountering threats in a zone.,Este é o nível de poder médio de toda a armadura equipada. O seu nível de poder é um indicativo de sua sobrevivência ao enfrentar ameaças em uma zona.
 ST_Tooltips/DurationUnitHours,h,h
 ST_Tooltips/DurationUnitMinutes,m,m
 ST_Tooltips/DurationUnitSeconds,s,s
@@ -9031,7 +9031,7 @@ ST_WeaponAttacks/GraniteMaulSpecial,Battering Ram,Aríete de Cerco
 ST_WeaponAttacks/BleedApplication,Bleed Build Up,Acúmulo de Sangramento
 ST_WeaponAttacks/BleedingDamage,Bleeding Tick Damage,Dano por Sangramento
 ST_WeaponAttacks/Burning,Burning,Queimando
-ST_WeaponAttacks/CrystalBowName,Crystal Bow,Arco de cristal
+ST_WeaponAttacks/CrystalBowName,Crystal Bow,Arco de Cristal
 ST_WeaponAttacks/GraniteMaulName,Granite Maul,Maça de Granito
 ST_WeaponAttacks/PoisonDamage,Poison Damage,Dano de veneno
 ST_WeaponAttacks/CrystalBowSpecial,Shattershot,Tiro Fragmentado
