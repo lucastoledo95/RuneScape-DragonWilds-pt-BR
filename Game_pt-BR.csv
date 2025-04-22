@@ -838,7 +838,7 @@ Um novo desafio aguarda..."
 /75D288E8417F34A94B40F08F58787D4B,Damage Type Fire,Dano de Tipo Fogo
 /7D2FAAF84A61DAAE0008BAB6D0A36D02,Damage Type Ranged,Dano de Tipo Distância
 /C909C4964B83601A808EAFB106FD7B1F,Damage Type Stab,Dano de Tipo Perfurante
-/28B822774D4FF6495A46DC81CA508A52,Damage to staggered targets,Dano contra alvos cambaleantes
+/28B822774D4FF6495A46DC81CA508A52,Damage to staggered targets,Dano contra alvos vulneráveis
 /8197F2E941C9F7834E3ECC8D0278AA24,Dark Mage Robe Legs,Pernas da Túnica do Mago das Trevas
 /E886F70149730293AF3C1F9E276F3C42,Darkness is banished by the dawn.,A escuridão é banida pelo amanhecer.
 /9EF56DA44C05A960208A7F9B09F61085,Date Joined: ##/##/##,Data de entrada: ##/##/##
@@ -1020,8 +1020,8 @@ Um novo desafio aguarda..."
 /C85EFA3142F360BE719ECEB32BACA4C3,Durability,Durabilidade
 /04FCD301460821F72CFB018353EC2025,Durability Loss Modifier,Modificador de perda de durabilidade
 /189A75CA4CB515BEB88C6DAE6F63380A,Durability Plus,Durabilidade Plus
-/DB2FABF14A5800AF575B4EA31D95F475,Durable armour crafted from hard leather reinforced with iron studs.,Armadura durável criada a partir de couro duro reforçado com pregos de ferro.
-/BD9E20E94F3A53F4CB138C9B40231CF0,Durable armour crafted from hard leather.,Armadura durável criada a partir de couro duro.
+/DB2FABF14A5800AF575B4EA31D95F475,Durable armour crafted from hard leather reinforced with iron studs.,Armadura durável criada a partir de couro reforçado reforçado com pregos de ferro.
+/BD9E20E94F3A53F4CB138C9B40231CF0,Durable armour crafted from hard leather.,Armadura durável criada a partir de couro reforçado.
 /970E075A4D18E562539D7AA386948237,E,E
 /F3ABE9AD4C9D0B746F7AA9A21D61726B,E,E
 /649382BB485BF56B4D1208A06BFDB4F1,EDITOR,EDITOR
@@ -1341,7 +1341,7 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /BC4873444A6E1B8676737FBE9430993A,Health Regen Tick,Regeneração de saúde por Tick
 /A5EB7B874D7DEB9C241E91AE034D7A8D,Heavy Armor Set Reduce Block Stamina Cost,Conjunto de Armadura Pesada reduz o custo de Stamina ao bloquear
 /560B14BE45B7FFA4CE9F959CA8DAE545,Heavy Armor Set Increase Crit Chance After Blocking,Conjunto de Armadura Pesada aumenta a chance de crítico após bloquear
-/F6064A8D4203CCD67EDB40BD1D04032E,Heavy Armor Set Increase Staggered Target Damage Modifier,Conjunto de Armadura Pesada aumenta o modificador de dano contra alvos atordoados
+/F6064A8D4203CCD67EDB40BD1D04032E,Heavy Armor Set Increase Staggered Target Damage Modifier,Conjunto de Armadura Pesada aumenta o modificador de dano contra alvos vulneráveis
 /419DBDAB4F815D22AD1F95919CF69B79,Heavy platelegs made from Leather and Bone.,Perneiras pesadas feitas de couro e osso.
 /72E1ACA8459D471106C182BE8C51DE6F,Heavy platelegs made from bronze.,Perneiras pesadas feitas de bronze.
 /FFCA6E764F4FA621B56A669BD00205FF,Hello Speech Bubble Tutorial!,Tutorial de Balão de Fala Olá!
@@ -2460,7 +2460,7 @@ Runas são retidas se você morrer."
 /4F2C9ACD4C88072F22FC9AA07B2F7E9A,Scroll Up,Role para cima
 /88508D4444B761FA4B88839C637B005E,Scroll Up,Role para cima
 /3A57A2AD47ED9BF768C6F7A9E618CEC0,Sealed Wooden Crate,Caixa de Madeira Lacrada
-/E6173B1D4036C199020364B5F888CAE2,Secondary (Hold),Secundário (espera)
+/E6173B1D4036C199020364B5F888CAE2,Secondary (Hold),Secundário (Segurar)
 /D3F766384A89B077E547F4AA136F336F,Secondary Prompt,Prompt secundário
 /6212077F47AE249622E0F5ACC1D46A14,Select Category,Selecione a categoria
 /84AE81364798224E399679911C02892B,Select Entry,Selecione a entrada
@@ -2689,7 +2689,7 @@ Runas são retidas se você morrer."
 /FDF2C0384D526D978472A285A28CF32B,Square Tile,Ladrilho quadrado
 /C1718DC24EB889EDB7E7A29C02BDAA9B,Stack of Bowls,Pilha de tigelas
 /6C5A53B24DF827018C0C4BB644E37C59,Stacked Wooden Crates,Crados de madeira empilhados
-/80D5A31F4064546FBC11F78A0A4857D8,Staggered Target Damage Modifier,Modificador de dano alvo escalonado
+/80D5A31F4064546FBC11F78A0A4857D8,Staggered Target Damage Modifier,Modificador de dano alvo vulnerável
 /34FE5D674337373E9D7AA49D7F176C53,Stairs used in corners.,Escadas usadas em cantos.
 /79BB8CA54E142DA3C5B4C5A97CDE3E3F,Stairs used in corners.,Escadas usadas em cantos.
 /7E86A59940531E5E49E15E80C75D4343,Stairs used in corners.,Escadas usadas em cantos.
@@ -4865,7 +4865,7 @@ ST_DragonSlayer_v2/Altar_DS_HasRecipe,There is an indention in the altar where s
 ST_DragonSlayer_v2/WoM_DS_AboutDragonkin3,"They have a penchant for two things that interest us. First, they make dragons, which is the problem we're facing right now.","Eles têm uma propensão a duas coisas que nos interessam. Primeiro, eles fazem dragões, que é o problema que estamos enfrentando agora."
 ST_DragonSlayer_v2/WoM_DS_AboutDragons3,"They swooped down from the skies and decimated the landing party. Whole teams of people, gone, just like that.","Eles desceram do céu e dizimaram a festa de pouso. Equipes inteiras de pessoas, se foram, assim."
 ST_DragonSlayer_v2/WoM_DS_NotGotDeerHorn_Struggling3,"To hunt deer you'll want a bow. Find some flax and some wood, this should be enough to help you build a spinning wheel. There you'll make thread and with that you can craft a bow.","Para caçar cervos, você vai querer um arco. Encontre um pouco de linho e um pouco de madeira, isso deve ser suficiente para ajudá-lo a construir uma roda giratória. Lá você fará um tópico e com isso poderá criar um arco."
-ST_DragonSlayer_v2/WoM_DS_HasVelgarHead4,"We can relax for a little while, but not forever. Velgar was one tough cookie, but he's just the foot soldier. Queen Kuldra is out there somewhere and she won't sit quietly for long.","Podemos relaxar por um tempo, mas não para sempre. Velgar era um biscoito duro, mas ele é apenas o soldado dos pés. A rainha Kuldra está lá fora em algum lugar e ela não se senta em silêncio por muito tempo."
+ST_DragonSlayer_v2/WoM_DS_HasVelgarHead4,"We can relax for a little while, but not forever. Velgar was one tough cookie, but he's just the foot soldier. Queen Kuldra is out there somewhere and she won't sit quietly for long.","Podemos relaxar por um tempo, mas não para sempre. Velgar era um biscoito reforçado, mas ele é apenas o soldado dos pés. A rainha Kuldra está lá fora em algum lugar e ela não se senta em silêncio por muito tempo."
 ST_DragonSlayer_v2/WoM_DS_AboutVelgar2,"We don't know much at the moment, since everyone who's seen him is dead.","Não sabemos muito no momento, já que todo mundo que o viu está morto."
 ST_DragonSlayer_v2/WoM_DS_AboutDragons6,"We fight back, and we fight back hard.",Nós revidamos e revidamos muito.
 ST_DragonSlayer_v2/WoM_DS_AboutDragonkin2,"We know that they're ancient, dangerous and constantly angry. They were cursed by the elder gods a long, long, long time ago.","Sabemos que eles são antigos, perigosos e constantemente zangados. Eles foram amaldiçoados pelos deuses mais velhos há muito, muito tempo atrás."
@@ -5283,7 +5283,7 @@ ST_HeartStrings/ThirdMemorial5,"Y baradwys
 Our world of adventure and excitement, held between four small walls.","Y Baradwys
 
 Nosso mundo de aventura e emoção, realizado entre quatro pequenas paredes."
-ST_HeartStrings/ThirdMemorial3,"Y byd dirdro. Tir llygredig Ghornfell is a harsh place, filled with dangers. The land itself is twisted, poison to the east and storms to the west. Overhead the dread Velgar circles, laughing at the destruction he’s wrought.","Y Byd Dirdro. Tir Llygredig Ghornfell é um lugar duro, cheio de perigos. A terra em si é torcida, venenosa a leste e tempestades a oeste. No alto dos temidos círculos de velgar, rindo da destruição que ele fez."
+ST_HeartStrings/ThirdMemorial3,"Y byd dirdro. Tir llygredig Ghornfell is a harsh place, filled with dangers. The land itself is twisted, poison to the east and storms to the west. Overhead the dread Velgar circles, laughing at the destruction he’s wrought.","Y Byd Dirdro. Tir Llygredig Ghornfell é um lugar reforçado, cheio de perigos. A terra em si é torcida, venenosa a leste e tempestades a oeste. No alto dos temidos círculos de velgar, rindo da destruição que ele fez."
 ST_HeartStrings/FourthMemorial2,"Y dragonkin I had thought them a myth, relegated to the most obscure bardic tales and songs. A shadow-on-the-wall horror story to scare small children into bed.","Y Dragonkin Eu os pensei em um mito, relegado aos contos e músicas bárdicas mais obscuras. Uma história de horror sombra na parede para assustar crianças pequenas na cama."
 ST_HeartStrings/FifthMemorial3,"Y pyrth hynaf, ar goll Those elder gates, stealing more of you from me.","Y Pyrth Hynaf, Ar Goll Aqueles portões mais velhos, roubando mais de você de mim."
 ST_HeartStrings/FifthMemorial4,"Yet, even as time left its wounds in your skin, you were still the most beautiful creature in all of Gielinor.","No entanto, mesmo quando o tempo deixou suas feridas em sua pele, você ainda era a criatura mais bonita em todo o Gielinor."
@@ -5386,8 +5386,8 @@ ST_ItemDescriptions/SkullSplitter,"A deadly weapon, with a distubingly accurate 
 ST_ItemDescriptions/DwellberryGlazedRoastFlank,"A delicious flank steak, covered in a fruity dwellbery glaze. Mouthwateringly tasty!","Um delicioso bife de flanco, coberto por um esmalte frutado. Bocal-d'água, saborosa!"
 ST_ItemDescriptions/RedberryGlazedRoastFlank,"A delicious flank steak, covered in a fruity redberry glaze. Delightfully delicious!","Um delicioso bife de flanco, coberto por um esmalte frutado. Deliciosamente delicioso!"
 ST_ItemDescriptions/Steak,A delicious steak. The perfect campfire meal.,Um bife delicioso. A refeição perfeita da fogueira.
-ST_ItemDescriptions/StuddedLeatherCowl,A durable helmet crafted from hard leather reinforced with iron studs.,Um capacete durável criado a partir de couro duro reforçado com pregos de ferro.
-ST_ItemDescriptions/HardLeatherCowl,A durable helmet crafted from hard leather.,Um capacete durável criado a partir de couro duro.
+ST_ItemDescriptions/StuddedLeatherCowl,A durable helmet crafted from hard leather reinforced with iron studs.,Um capacete durável criado a partir de couro reforçado reforçado com pregos de ferro.
+ST_ItemDescriptions/HardLeatherCowl,A durable helmet crafted from hard leather.,Um capacete durável criado a partir de couro reforçado.
 ST_ItemDescriptions/IronLoggingAxe,"A durable tool for chopping trees, ideal for budding lumberjacks.","Uma ferramenta durável para cortar árvores, ideal para lenhadores iniciantes."
 ST_ItemDescriptions/DragonboneDagger,"A ferocious blade, filled with primal draconic rage.","Uma lâmina feroz, cheia de raiva dracônica primitiva."
 ST_ItemDescriptions/HunterShortbow,"A finely crafted bow, fast and reliable.","Um arco finamente criado, rápido e confiável."
@@ -5500,8 +5500,8 @@ ST_ItemDescriptions/BronzeMace,"Crush your foes with this heavy, spiked bronze m
 ST_ItemDescriptions/IronMace,"Crush your foes with this heavy, spiked iron mace.",Esmague seus inimigos com esta maça de ferro pesada e com cravos.
 ST_ItemDescriptions/Decoration,Decoration,Decoração
 ST_ItemDescriptions/RawPotato,Don't eat the green bits.,Não coma os pedaços verdes.
-ST_ItemDescriptions/StuddedLeatherArmour,Durable armour crafted from hard leather reinforced with iron studs.,Armadura durável criada a partir de couro duro reforçado com pregos de ferro.
-ST_ItemDescriptions/HardLeatherBody,Durable armour crafted from hard leather.,Armadura durável criada a partir de couro duro.
+ST_ItemDescriptions/StuddedLeatherArmour,Durable armour crafted from hard leather reinforced with iron studs.,Armadura durável criada a partir de couro reforçado reforçado com pregos de ferro.
+ST_ItemDescriptions/HardLeatherBody,Durable armour crafted from hard leather.,Armadura durável criada a partir de couro reforçado.
 ST_ItemDescriptions/WildArcherBody,Durable armour worn by a Wild Knight archer.,Armadura durável usada por um arqueiro do cavaleiro selvagem.
 ST_ItemDescriptions/WildArcherLegs,Durable leg armour worn by a Wild Knight archer.,Armadura de perna durável usada por um arqueiro do cavaleiro selvagem.
 ST_ItemDescriptions/BakedPotato,"Fluffy and delicious, if only you had some butter.","Macio e delicioso, se você tivesse uma manteiga."
@@ -5716,8 +5716,8 @@ ST_ItemNames/GroundClay,Ground Clay,Argila moída
 ST_ItemNames/GroundGranite,Ground Granite,Granito moído
 ST_ItemNames/GroundSandstone,Ground Sandstone,Arenito moído
 ST_ItemNames/GroundStone,Ground Stone,Pedra moída
-ST_ItemNames/HardLeather,Hard Leather,Couro duro
-ST_ItemNames/HardLeatherBody,Hard Leather Body,Corpo de Couro Reforçado
+ST_ItemNames/HardLeather,Hard Leather,Couro reforçado
+ST_ItemNames/HardLeatherBody,Hard Leather Body,Couraça de Couro Reforçado
 ST_ItemNames/HardLeatherChaps,Hard Leather Chaps,Perneiras de Couro Reforçado
 ST_ItemNames/HardLeatherCowl,Hard Leather Cowl,Capuz de Couro Reforçado
 ST_ItemNames/Harralander,Harralander,Erva Harrander
@@ -6537,7 +6537,7 @@ Wild Knight hunters would favour this armour when visiting the forests of Brynmo
 
 For those of Amalgamated heritage, the armour was more easily shaped around any inconvenient mutations, and many a ranger would theme their armour to match. Fire-touched amalgamated were poorly suited to the armour, cooking the leather as they went. But those affected by plant-like mutations would enjoy blending leather and leaf.","O couro endurecido é uma defesa mais resistente, capaz de afastar ataques mais poderosos. Favorecido por caçadores e guardas florestais, que gostam da defesa que oferece sem a redução na mobilidade provocada pela armadura mais robusta.
 
-Os caçadores de cavaleiros selvagens favoreceriam essa armadura ao visitar as florestas de Brynmoor. O couro duro era resistente, e as cores se misturavam mais facilmente com a linha das árvores, permitindo que eles perseguem suas presas de maneira mais furtiva.
+Os caçadores de cavaleiros selvagens favoreceriam essa armadura ao visitar as florestas de Brynmoor. O couro reforçado era resistente, e as cores se misturavam mais facilmente com a linha das árvores, permitindo que eles perseguem suas presas de maneira mais furtiva.
 
 Para os da herança amalgamada, a armadura era mais facilmente moldada em torno de quaisquer mutações inconvenientes, e muitos guarda florestais temam sua armadura para combinar. A amalgamada tocada pelo fogo era pouco adequada à armadura, cozinhando o couro enquanto eles passavam. Mas os afetados por mutações em forma de plantas gostariam de misturar couro e folhas."
 ST_JournalEntries/Vaults,"Hidden across Ashenfall are the Vaults, the ruined remains of Dragonkin research. Each contains lost knowledge or riches, sealed away so that none but their jealous masters might possess them.
@@ -8055,7 +8055,7 @@ Antes do tratado de paz com a deusa, Lougrim, o Garou costumava entrar em confli
 
 As armas Garou eram poderosas e entregues por criaturas de força não natural. No entanto, o bronze se defenderia contra esses ataques, e deu a pausa de Garou, pois eles ainda não tinham luta contra o inimigo com uma tecnologia tão intrigante. As batalhas que anteriormente teriam sido um massacre se tornaram escaramuças quando os Garou testaram sua força contra essas novas defesas de bronze.
 
-Essa paz comparativa não durou muito."
+Essa paz comparativa não reforçadou muito."
 ST_JournalEntries/IronAxe,"While it might be cheaper to use bronze, there are some times when sheer power is necessary. For those times, a lumberjack need look no further than the glittering might of an iron axe’s blade. The mightiest of Ghornfell trees falls before its onslaught, and none in that region may stand against its might.
 
 Iron was so powerful, that it created a problem in Brynmoor. The population craved the metal so desperately that they mined the region almost dry. This let to infighting, small civil skirmishes and the white knights of the Blue Flame Keep, needed to be brought in to keep the peace.
