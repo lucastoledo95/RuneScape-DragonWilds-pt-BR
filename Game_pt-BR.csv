@@ -517,7 +517,7 @@ Um novo desafio aguarda..."
 /9251C1924863046A5AA0EAA6CCC1801B,Bloodweed Herb,Erva de erva-sangue
 /199D0103465186D89A621BACAAD7BC76,Bloodwood Sap,Seiva de madeira de sangue
 /927538AE4972FF30D9F1B2BFCB8EC2F7,Bloodwood Sap,Seiva de madeira de sangue
-/3274C2464B27CA5540B3D590D8AC0213,Blue Standing Torch,Blue Standing Tocha
+/3274C2464B27CA5540B3D590D8AC0213,Blue Standing Torch,Tocha azul de chão
 /4A68419A40D7B765F73F1DB74964B347,Blue Wall-mounted Torch,Tocha azul montada na parede
 /5ED25B724A9AAEFA441FC0BEE2A97908,Bolt of Coarse Thread,Parafuso de linha grossa
 /E460D7954BA9F38752D3D7A748FBD8F1,Bones to Peaches,Ossos para pêssegos
@@ -527,7 +527,7 @@ Um novo desafio aguarda..."
 /FD81BFDB4C66E16931456F9BDB0CA82D,Bowl of Onions,Tigela de cebola
 /B9F6482A420BA3EBDF9F378E45405340,Bowl of Peaches,Tigela de pêssegos
 /8407E33B444ABBA4ECC55F9F9C7DF318,Bowstring,Bowstring
-/4ECD5AB24ABBF0710700159C7FD7842F,Brewing Cauldron,Cauldeiro de fabricação de cerveja
+/4ECD5AB24ABBF0710700159C7FD7842F,Brewing Cauldron,Caldeirão de fermentação
 /101FD7A94B23F6F0612EFBADF026B018,Bring 50 ash logs to Zanik,Traga 50 troncos de cinzas para Zanik
 /8A1C30AE452F1A5CEF66DBB811EFE3FC,Bring Velgar's head to the Wise Old Man in Bramblemead village,Traga a cabeça de Velgar para o velho sábio em Bramblemaad Village
 /DC3D70A4419D4DFACCE304BDC67DA8AF,Bring the stone club to Doric outside the temple,Traga o clube de pedra para Doric fora do templo
@@ -669,11 +669,11 @@ Um novo desafio aguarda..."
 /A439FE18431CBA6A8DAEEE87D27B8DB8,Circle,Círculo
 /97866CF44F05CA7CD43A64BC2E2EDC8C,Claimed Bed,Cama reivindicada
 /A80B6C5B40C207272007D98C33EA58B0,Clay Deposit,Depósito de argila
-/B39E8F754F23DEC08C6EC094361FD8F3,Clay Node,Veios de argila
-/CB6C6D0B4CDA6E669F4FDA9905388015,Clay Node,Veios de argila
-/CF4C0F99478534F909AD26B95C396CD9,Clay Node,Veios de argila
-/EDE1590443B21E106FA85EA3EE373F9C,Clay Node,Veios de argila
-/FBA0E4CA4C3C5539B8228C91DE1CA6D2,Clay Node,Veios de argila
+/B39E8F754F23DEC08C6EC094361FD8F3,Clay Node,Minério de argila
+/CB6C6D0B4CDA6E669F4FDA9905388015,Clay Node,Minério de argila
+/CF4C0F99478534F909AD26B95C396CD9,Clay Node,Minério de argila
+/EDE1590443B21E106FA85EA3EE373F9C,Clay Node,Minério de argila
+/FBA0E4CA4C3C5539B8228C91DE1CA6D2,Clay Node,Minério de argila
 /08C165774C9E26DD02975EA09A1AFF1B,Clay Vase,Vaso de argila
 /9466335B453B15E1939060924B2D14AC,Clay deposit,Depósito de argila
 /8E6154F04E786EBD2CB2BA83458E071C,Clear Slot,Clear slot
@@ -752,26 +752,26 @@ Um novo desafio aguarda..."
 /2C165F7946EA7197B55B6DB2EE6C0056,Continue,Continuar
 /D418E0D74F5FCEE9AFB4CBAB73ED0B2B,Continue,Continuar
 /0BB399C94EACF24A53E9DEAC20891F16,Cooking,Culinária
-/4CC04F43440BE3181164E5B4F4438F46,Cooking Pot,Panela de cozinha
-/957B6C634E9EF01101B015B1A97747EB,Cooking Pot,Panela de cozinha
+/4CC04F43440BE3181164E5B4F4438F46,Cooking Pot,Caldeirão culinário
+/957B6C634E9EF01101B015B1A97747EB,Cooking Pot,Caldeirão culinário
 /3BD1FFE241AD276E06DC49AE845C2FE2,Cooking Range,Alcance de cozimento
 /D00689C0437F9BF97503AA990D7F6F81,Cooking Xp Gain Modifier,Modificador de ganho XP de cozinha
 /1C8FD8D14C4DE35F825179A2529B9314,Copper Deposit,Depósito de cobre
-/0BE9A15F4EFBAC63659AE5A5557E7E38,Copper Ore Node,Veios de minério de cobre
-/0C71D2B243C61E069C66F1BC22A9A5DE,Copper Ore Node,Veios de minério de cobre
-/160AD9314FBD38BA26CEEF84B272698E,Copper Ore Node,Veios de minério de cobre
-/16D0C4324278D6370D9E0DBACB427DF9,Copper Ore Node,Veios de minério de cobre
-/1E46821D4C6FE8665844AFA2FCC73AC0,Copper Ore Node,Veios de minério de cobre
-/2C3F29E34B25B47D5FA2248536FA4929,Copper Ore Node,Veios de minério de cobre
-/52B1039C45A2DBE1BFFC98BA2A9A8748,Copper Ore Node,Veios de minério de cobre
-/8338ED8348B31C445BF1E3BF58BC7225,Copper Ore Node,Veios de minério de cobre
-/B2E84435443AE99336305CAC8A6ADB5B,Copper Ore Node,Veios de minério de cobre
-/B84806E345AB77E7D0D0129A7C0A9773,Copper Ore Node,Veios de minério de cobre
-/BFBF4E37441840886464B3B3E29BA20F,Copper Ore Node,Veios de minério de cobre
-/BFE60DA94BD3F6A7DCA62A98083BBA6C,Copper Ore Node,Veios de minério de cobre
-/C3DC0A034D99A8B7D23A92905C2B8C6E,Copper Ore Node,Veios de minério de cobre
-/DE69AE1A48463632F0F857B1E4A5D9E6,Copper Ore Node,Veios de minério de cobre
-/FECBCE9B4259F82DB958EF8E28FF3FD9,Copper Ore Node,Veios de minério de cobre
+/0BE9A15F4EFBAC63659AE5A5557E7E38,Copper Ore Node,Minério de cobre
+/0C71D2B243C61E069C66F1BC22A9A5DE,Copper Ore Node,Minério de cobre
+/160AD9314FBD38BA26CEEF84B272698E,Copper Ore Node,Minério de cobre
+/16D0C4324278D6370D9E0DBACB427DF9,Copper Ore Node,Minério de cobre
+/1E46821D4C6FE8665844AFA2FCC73AC0,Copper Ore Node,Minério de cobre
+/2C3F29E34B25B47D5FA2248536FA4929,Copper Ore Node,Minério de cobre
+/52B1039C45A2DBE1BFFC98BA2A9A8748,Copper Ore Node,Minério de cobre
+/8338ED8348B31C445BF1E3BF58BC7225,Copper Ore Node,Minério de cobre
+/B2E84435443AE99336305CAC8A6ADB5B,Copper Ore Node,Minério de cobre
+/B84806E345AB77E7D0D0129A7C0A9773,Copper Ore Node,Minério de cobre
+/BFBF4E37441840886464B3B3E29BA20F,Copper Ore Node,Minério de cobre
+/BFE60DA94BD3F6A7DCA62A98083BBA6C,Copper Ore Node,Minério de cobre
+/C3DC0A034D99A8B7D23A92905C2B8C6E,Copper Ore Node,Minério de cobre
+/DE69AE1A48463632F0F857B1E4A5D9E6,Copper Ore Node,Minério de cobre
+/FECBCE9B4259F82DB958EF8E28FF3FD9,Copper Ore Node,Minério de cobre
 /03FB4B90456A672A815216A4A0661107,Coral,Coral
 /B10950C54A63352D99FB3E9FD8093A74,Corner Table,Mesa de canto
 /3006F551415F41863ACFDBAA7E1F8FE1,Cow,Vaca
@@ -1261,21 +1261,21 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /A16C5E054C3385173BD1D695290DE0C1,Goblin Pack,Goblin Pack
 /64A264654DFA93D70F6A97B17BA56438,Gold Bar,Barra de ouro
 /4A1010EE403674DD1928349910680C73,Gold Deposit,Depósito de ouro
-/03CAE53340B7F2EAE0458F9FCD4AC4F2,Gold Ore Node,Veios de minério de ouro
-/2EBD08C34FCCE09065319E9A31C4FBB7,Gold Ore Node,Veios de minério de ouro
-/3A0693494E2F4D2A2E2E9581B104EF63,Gold Ore Node,Veios de minério de ouro
-/3D99F03B422E2B51EC8A268684F5EBC5,Gold Ore Node,Veios de minério de ouro
-/3F7FC8054D0FD3B54357A69ECEFF6F6E,Gold Ore Node,Veios de minério de ouro
-/50B4152848B9BABD181FB784CA36216A,Gold Ore Node,Veios de minério de ouro
-/5F0B557C405D6114B3F6BFB7680B9204,Gold Ore Node,Veios de minério de ouro
-/7076D02B4977370E8907FD8978EAB8E6,Gold Ore Node,Veios de minério de ouro
-/97E00B64474B59EA2437D5B4A73C1656,Gold Ore Node,Veios de minério de ouro
-/A278270548A6706C2736748693CC736F,Gold Ore Node,Veios de minério de ouro
-/A32FDC824DED8AA93EF1289B6F32C251,Gold Ore Node,Veios de minério de ouro
-/A5D4B9FA42152623BC9B549E122FC8BB,Gold Ore Node,Veios de minério de ouro
-/B86471DA462D764B07A520A3D86B84A6,Gold Ore Node,Veios de minério de ouro
-/D6BB56A94B1B3BE69A5AA8A51FB0BE56,Gold Ore Node,Veios de minério de ouro
-/DFC5AC4D47425F3DA109D39B7ECAF3DB,Gold Ore Node,Veios de minério de ouro
+/03CAE53340B7F2EAE0458F9FCD4AC4F2,Gold Ore Node,Minério de ouro
+/2EBD08C34FCCE09065319E9A31C4FBB7,Gold Ore Node,Minério de ouro
+/3A0693494E2F4D2A2E2E9581B104EF63,Gold Ore Node,Minério de ouro
+/3D99F03B422E2B51EC8A268684F5EBC5,Gold Ore Node,Minério de ouro
+/3F7FC8054D0FD3B54357A69ECEFF6F6E,Gold Ore Node,Minério de ouro
+/50B4152848B9BABD181FB784CA36216A,Gold Ore Node,Minério de ouro
+/5F0B557C405D6114B3F6BFB7680B9204,Gold Ore Node,Minério de ouro
+/7076D02B4977370E8907FD8978EAB8E6,Gold Ore Node,Minério de ouro
+/97E00B64474B59EA2437D5B4A73C1656,Gold Ore Node,Minério de ouro
+/A278270548A6706C2736748693CC736F,Gold Ore Node,Minério de ouro
+/A32FDC824DED8AA93EF1289B6F32C251,Gold Ore Node,Minério de ouro
+/A5D4B9FA42152623BC9B549E122FC8BB,Gold Ore Node,Minério de ouro
+/B86471DA462D764B07A520A3D86B84A6,Gold Ore Node,Minério de ouro
+/D6BB56A94B1B3BE69A5AA8A51FB0BE56,Gold Ore Node,Minério de ouro
+/DFC5AC4D47425F3DA109D39B7ECAF3DB,Gold Ore Node,Minério de ouro
 /DEEB7C50491637DC504340B3BCE89A74,Golden Prayer Candle,Vela de oração de ouro
 /1F8DC16D4C4675696154F880E0CAF4F3,Gourmand Ring,Anel gourmand
 /3E3009F047590C623C3EF19FA931F09E,Grab Attention,Atenda a atenção
@@ -1476,21 +1476,21 @@ The Contents of this Chest-The Design Team",IOU: O conteúdo deste baú-A equipe
 /39645A0A48DE1D6A8485BDBC58228571,Invulnerable,Invulnerável
 /1D908A084AA7B035CFF41C82EF8A1E48,Iron Bar,Barra de ferro
 /520BA9554847BFA1E06FF8A3D0185902,Iron Deposit,Depósito de ferro
-/1C2F51554D70B09A1ED81CACC523CBE6,Iron Ore Node,Veios de minério de ferro
-/29BEF86B49A2736E737B95AC2C7ADDFD,Iron Ore Node,Veios de minério de ferro
-/2CF4F05845BF8547050E3ABF3C51A2B9,Iron Ore Node,Veios de minério de ferro
-/36E0BF4B4EE536CCA90F5FA1B7681AF2,Iron Ore Node,Veios de minério de ferro
-/44BC933041D77B05DA5375832AD6BFD1,Iron Ore Node,Veios de minério de ferro
-/4976B5AB46EC53412424BC9ACE77DC29,Iron Ore Node,Veios de minério de ferro
-/64A2496342A5FE22A6ED40A94A9BE9F1,Iron Ore Node,Veios de minério de ferro
-/8B8CDD134D943B2E2A0939ACC5B4A6D7,Iron Ore Node,Veios de minério de ferro
-/ADA3D01E4D731C0BC62A8EA05A723248,Iron Ore Node,Veios de minério de ferro
-/B0C3B96F4EACD727F7E42E99A0CD6AF4,Iron Ore Node,Veios de minério de ferro
-/CAC197A245544720B501B6B721A668A1,Iron Ore Node,Veios de minério de ferro
-/D8E54FAF463DAAA144649F8810BEB653,Iron Ore Node,Veios de minério de ferro
-/ED36947641F367AA5D5BFFBD76399E0F,Iron Ore Node,Veios de minério de ferro
-/F2A8AF794282B954547B1B8B138240EA,Iron Ore Node,Veios de minério de ferro
-/F86871224AEFF5BFE27CF69F5FEF3987,Iron Ore Node,Veios de minério de ferro
+/1C2F51554D70B09A1ED81CACC523CBE6,Iron Ore Node,Minério de ferro
+/29BEF86B49A2736E737B95AC2C7ADDFD,Iron Ore Node,Minério de ferro
+/2CF4F05845BF8547050E3ABF3C51A2B9,Iron Ore Node,Minério de ferro
+/36E0BF4B4EE536CCA90F5FA1B7681AF2,Iron Ore Node,Minério de ferro
+/44BC933041D77B05DA5375832AD6BFD1,Iron Ore Node,Minério de ferro
+/4976B5AB46EC53412424BC9ACE77DC29,Iron Ore Node,Minério de ferro
+/64A2496342A5FE22A6ED40A94A9BE9F1,Iron Ore Node,Minério de ferro
+/8B8CDD134D943B2E2A0939ACC5B4A6D7,Iron Ore Node,Minério de ferro
+/ADA3D01E4D731C0BC62A8EA05A723248,Iron Ore Node,Minério de ferro
+/B0C3B96F4EACD727F7E42E99A0CD6AF4,Iron Ore Node,Minério de ferro
+/CAC197A245544720B501B6B721A668A1,Iron Ore Node,Minério de ferro
+/D8E54FAF463DAAA144649F8810BEB653,Iron Ore Node,Minério de ferro
+/ED36947641F367AA5D5BFFBD76399E0F,Iron Ore Node,Minério de ferro
+/F2A8AF794282B954547B1B8B138240EA,Iron Ore Node,Minério de ferro
+/F86871224AEFF5BFE27CF69F5FEF3987,Iron Ore Node,Minério de ferro
 /D351871F400BC1980992C3AE5E920C11,Iron Platelegs,Perneiras de Ferro
 /0CF68DEC470D2250D4736CA0A9B39A4B,Iron Shield,Escudo de ferro
 /98CF53304022DDD97BDA59BA132F58C8,Is often uncomfortable with ambiguity,Muitas vezes é desconfortável com a ambiguidade
@@ -2507,21 +2507,21 @@ Runas são retidas se você morrer."
 /570D88204024B83FDE08D484E371F79D,Silver Deposit,Depósito de prata
 /D5E6C454442FBC582AA2688D44CAF3B1,Silver Guthix Icon,Ícone de prata Guthix
 /0A812D4A4911BD2B78429686C2484317,Silver Incense Burner,Queimador de incenso de prata
-/0C6B3A014CAE631860FB90BA13094D57,Silver Ore Node,Veios de minério de prata
-/0FAD1B9A43D0B8257E5D50BDC094DE95,Silver Ore Node,Veios de minério de prata
-/295DC110420892432F8C68B8AC6013A9,Silver Ore Node,Veios de minério de prata
-/3B99DACD439170C82EEAF4B1A3CA8F2E,Silver Ore Node,Veios de minério de prata
-/71CE899F41219A37CE4AD79C4113ACEC,Silver Ore Node,Veios de minério de prata
-/77DF1A3145ECEADADB4F90B007F8AADF,Silver Ore Node,Veios de minério de prata
-/885CCD1D4751F4FCDA071680BB3A148A,Silver Ore Node,Veios de minério de prata
-/8CC415CD44F601FDC01A51B02F58A7C6,Silver Ore Node,Veios de minério de prata
-/9591994347BBB01F81156D9930D49BE5,Silver Ore Node,Veios de minério de prata
-/A01DE2A440A4836E4F4BA3B784A623F2,Silver Ore Node,Veios de minério de prata
-/A41B0CA54247D0913AC2C5ABA8505564,Silver Ore Node,Veios de minério de prata
-/D4C2006840E3C7609EE3638B85D43431,Silver Ore Node,Veios de minério de prata
-/E76468334AE97DA170D85E84EDCEF7C2,Silver Ore Node,Veios de minério de prata
-/F0454CEB4417EEF2FBDBDFA7409FDCB2,Silver Ore Node,Veios de minério de prata
-/FC1852B547BDEC7276BED3B5CCF0F0FE,Silver Ore Node,Veios de minério de prata
+/0C6B3A014CAE631860FB90BA13094D57,Silver Ore Node,Minério de prata
+/0FAD1B9A43D0B8257E5D50BDC094DE95,Silver Ore Node,Minério de prata
+/295DC110420892432F8C68B8AC6013A9,Silver Ore Node,Minério de prata
+/3B99DACD439170C82EEAF4B1A3CA8F2E,Silver Ore Node,Minério de prata
+/71CE899F41219A37CE4AD79C4113ACEC,Silver Ore Node,Minério de prata
+/77DF1A3145ECEADADB4F90B007F8AADF,Silver Ore Node,Minério de prata
+/885CCD1D4751F4FCDA071680BB3A148A,Silver Ore Node,Minério de prata
+/8CC415CD44F601FDC01A51B02F58A7C6,Silver Ore Node,Minério de prata
+/9591994347BBB01F81156D9930D49BE5,Silver Ore Node,Minério de prata
+/A01DE2A440A4836E4F4BA3B784A623F2,Silver Ore Node,Minério de prata
+/A41B0CA54247D0913AC2C5ABA8505564,Silver Ore Node,Minério de prata
+/D4C2006840E3C7609EE3638B85D43431,Silver Ore Node,Minério de prata
+/E76468334AE97DA170D85E84EDCEF7C2,Silver Ore Node,Minério de prata
+/F0454CEB4417EEF2FBDBDFA7409FDCB2,Silver Ore Node,Minério de prata
+/FC1852B547BDEC7276BED3B5CCF0F0FE,Silver Ore Node,Minério de prata
 /3D819F5148D211E41D76C9875BA483B2,Silver Saradomin Icon,Ícone de Saradomin de Prata
 /83BC00694620675E9CB5A6ACCF536AD2,Silver Statue,Estátua de prata
 /27DAE0CA4C506545542A6AA442D059AB,Silver Zamorak Icon,Ícone de Silver Zamorak
@@ -2907,21 +2907,21 @@ ou não há masmorra"
 /FE3581CE456C8B0777C54B8C257A1DFB,Time,Tempo
 /6425B55C41893B9FA09DE1A455D0A330,Tin Bar,Barra de Estanho
 /6A5CEA3F49E8D5BBF958DFB20ECA657F,Tin Deposit,Depósito de Estanho
-/110CF19446848E6EC4B4D5B8A33C98DE,Tin Ore Node,Veios de minério de Estanho
-/129B0A97450549C93F315C956B6E8EDE,Tin Ore Node,Veios de minério de Estanho
-/189D7E374360E29DD6C9A595F91B95DD,Tin Ore Node,Veios de minério de Estanho
-/25F231D14C5FFA9A8F47499E5D0D3854,Tin Ore Node,Veios de minério de Estanho
-/27F4AEF5480CE418826DDC96CC7BEA3B,Tin Ore Node,Veios de minério de Estanho
-/27FBCBAB4293B4572A4A3EB9C6B371F7,Tin Ore Node,Veios de minério de Estanho
-/329F67844F758367C8691983EF7856FB,Tin Ore Node,Veios de minério de Estanho
-/4AA0975D496EC60E6B5DBDB12DBA2F16,Tin Ore Node,Veios de minério de Estanho
-/5785BF934B237EB874B2C28259F7263B,Tin Ore Node,Veios de minério de Estanho
-/6D5BB1E34F9281AA4A65A1B7437B3F1D,Tin Ore Node,Veios de minério de Estanho
-/7407DEC54FD1F839B972398F078F3975,Tin Ore Node,Veios de minério de Estanho
-/8BAB154A4619B078C23025A548EAAB30,Tin Ore Node,Veios de minério de Estanho
-/A7D1950041DCFDFB1850CD9ED88BB667,Tin Ore Node,Veios de minério de Estanho
-/A811A6244662CD6CFA7184ABB02718F3,Tin Ore Node,Veios de minério de Estanho
-/B086A6114E3928B3F4DF008490892A99,Tin Ore Node,Veios de minério de Estanho
+/110CF19446848E6EC4B4D5B8A33C98DE,Tin Ore Node,Minério de Estanho
+/129B0A97450549C93F315C956B6E8EDE,Tin Ore Node,Minério de Estanho
+/189D7E374360E29DD6C9A595F91B95DD,Tin Ore Node,Minério de Estanho
+/25F231D14C5FFA9A8F47499E5D0D3854,Tin Ore Node,Minério de Estanho
+/27F4AEF5480CE418826DDC96CC7BEA3B,Tin Ore Node,Minério de Estanho
+/27FBCBAB4293B4572A4A3EB9C6B371F7,Tin Ore Node,Minério de Estanho
+/329F67844F758367C8691983EF7856FB,Tin Ore Node,Minério de Estanho
+/4AA0975D496EC60E6B5DBDB12DBA2F16,Tin Ore Node,Minério de Estanho
+/5785BF934B237EB874B2C28259F7263B,Tin Ore Node,Minério de Estanho
+/6D5BB1E34F9281AA4A65A1B7437B3F1D,Tin Ore Node,Minério de Estanho
+/7407DEC54FD1F839B972398F078F3975,Tin Ore Node,Minério de Estanho
+/8BAB154A4619B078C23025A548EAAB30,Tin Ore Node,Minério de Estanho
+/A7D1950041DCFDFB1850CD9ED88BB667,Tin Ore Node,Minério de Estanho
+/A811A6244662CD6CFA7184ABB02718F3,Tin Ore Node,Minério de Estanho
+/B086A6114E3928B3F4DF008490892A99,Tin Ore Node,Minério de Estanho
 /51550AF94BDE6FC8906F2AB9347BC84D,Title,Título
 /BF5AC2AB4A61D668AE1D3FA814CC91B2,Title,Título
 /85D70E4B4CEA28D894FDE1AF59EF0A05,To Next Level:,Para o próximo nível:
@@ -8608,9 +8608,9 @@ b.	medir a eficácia de nossas campanhas de publicidade;
 c.	enviar ofertas e promoções relacionadas aos nossos jogos;
 d.	fornecer recompensas no jogo a jogadores que integram suas contas com canais de marketing relevantes (incluindo jogos Twitch / Amazon Prime); e
 e.	compartilhar informações com terceiros para fins de publicidade."
-ST_ProcessingStation/BrewingCauldron,Brewing Cauldron,Cauldeiro de fabricação de cerveja
-ST_ProcessingStation/CookingPot,Cooking Pot,Panela de cozinha
-ST_ProcessingStation/Grindstone,Grindstone,Mó
+ST_ProcessingStation/BrewingCauldron,Brewing Cauldron,Caldeirão de fermentação
+ST_ProcessingStation/CookingPot,Cooking Pot,Caldeirão culinário
+ST_ProcessingStation/Grindstone,Grindstone,Pedra de Amolar
 ST_ProcessingStation/Kiln,Kiln,Forno
 ST_ProcessingStation/Sawmill,Sawmill,Serraria
 ST_Settings/ui.settings.video.frameratelimit.Choice4,120,120
@@ -8898,7 +8898,7 @@ ST_Skills_Perks/Mining.StoneWeight.Desc,"The weight of stone, clay, and sand raw
 ST_Skills_Perks/Artisan.MagicalMending.Desc,Throw your items down and repair them instantly through the power of Nature Magic.,Drope seus itens no chão e repare-os instantaneamente através do poder da mágia da natureza.
 ST_Skills_Perks/Attack.TrainingDummy.Name,Training Dummy,Treinamento de manequim
 ST_Skills_Perks/Cooking.BonesToPeaches.Desc,Transmute unwanted bones on the ground into fresh Peaches for your consumption. Inhumane? Yes... but delicious!,Transmuta ossos indesejados no chão em pêssegos frescos para o seu consumo. Desumano? Sim... mas delicioso!
-ST_Skills_Perks/Attack.LesserPotion.Desc,Unlock the recipe for the Lesser Potion of Attack at the Brewing Cauldron.,Desbloqueie a receita para a pequena poção de ataque no caldeirão de fabricação.
+ST_Skills_Perks/Attack.LesserPotion.Desc,Unlock the recipe for the Lesser Potion of Attack at the Brewing Cauldron.,Desbloqueie a receita para a pequena poção de ataque no Caldeirão de fermentação.
 ST_Skills_Perks/Attack.WeaponExpertise.Desc,Unlocks additional attacks for all Melee Weapons.,Desbloqueia ataques adicionais para todas as armas corpo a corpo.
 ST_Skills_Perks/Construction.CreatureComforts.Desc,Unlocks an assortment of furniture and decorations.,Desbloqueia uma variedade de móveis e decorações.
 ST_Skills_Perks/Cooking.FancyCookware.Desc,Unlocks furniture piece Pan Rack in the building menu.,Desbloqueia o rack de mobiliário no menu de construção.
