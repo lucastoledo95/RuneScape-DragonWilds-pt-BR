@@ -4107,7 +4107,7 @@ QF_FTUE_Dialogue/WoM_FirstSteps_Intro_SkipTutorial_2,"Now, tell me, how do you f
 QF_FTUE_Dialogue/Vannaka_Butterknife_LinkToWom,"Now, young pup, your real adventure begins. Go and speak to the Wise Old Man again, he'll get you up to speed.","Agora, jovem filhote, sua verdadeira aventura começa. Vá e fale com o velho sábio novamente, ele o levará a acelerar."
 QF_FTUE_Dialogue/FTUE_Zanik_QuestLink_Goblins,"Oh, hey. Look, if you want to talk about goblins, let's do it away from here. Some of the others can get a bit jumpy and I'd prefer to keep it between us. Meet me back near the castle and we can go over it.","Oh, ei. Olha, se você quiser falar sobre goblins, vamos fazer isso daqui. Alguns outros podem ficar um pouco saltados e eu prefiro mantê-lo entre nós. Encontre-me de volta perto do castelo e podemos passar por cima."
 QF_FTUE_Dialogue/FTUE_Doric_WhoAreYou1,"Oh, sorry, didn't introduce myself. Names Doric, dwarven master crafstman and retired warrior.","Oh, desculpe, não me apresentou. Nomes Doric, Dwarven Master Crafstman e guerreiro aposentado."
-QF_FTUE_Dialogue/FTUE_Vannaka_Parry1,"Parrying an attack is all about timing. Wait for the right moment, just as the enemy is about to land their strike, and then block the attack.","Aparar um ataque é tudo sobre o tempo. Espere o momento certo, assim como o inimigo está prestes a acertar seu ataque e depois bloquear o ataque."
+QF_FTUE_Dialogue/FTUE_Vannaka_Parry1,"Parrying an attack is all about timing. Wait for the right moment, just as the enemy is about to land their strike, and then block the attack.","Defender um ataque é tudo sobre o tempo. Espere o momento certo, assim como o inimigo está prestes a acertar seu ataque e depois bloquear o ataque."
 QF_FTUE_Dialogue/FTUE_Zanik_Cook2,"Put your raw food on the campfire and wait for it to cook. Then, voila, you'll have a tasty meal.","Coloque sua comida crua na fogueira e espere cozinhar. Então, pronto, você terá uma refeição saborosa."
 QF_FTUE_Dialogue/Ratcatcher_Title,Ratcatcher,Ratcatcher
 QF_FTUE_Dialogue/FTUE_WoM_WhoAreYou1,"Really? You haven't heard of me? Oh how marvelously refreshing. So often people are all; 'oh my hero', 'please name my baby for me', or 'aaargh no, please don't burn me to ash'. The usual.","Realmente? Você não ouviu falar de mim? Oh, quão maravilhosamente refrescante. Muitas vezes, as pessoas são todas; 'Oh meu herói', 'por favor, nomeie meu bebê para mim', ou 'aaargh não, por favor, não me queime para cinzas'. O habitual."
@@ -4455,7 +4455,7 @@ ST_Chat/PlayerLeft,{0} <b>has left</>,{0} <b>saiu do servidor.</>
 ST_Controls/Accept,Accept,Aceitar
 ST_Controls/Back,Back,Voltar
 ST_Controls/CombatBlock,Block,Bloquear
-ST_Controls/CombatBlockAndParry,Block/Parry,Bloquear/Aparar
+ST_Controls/CombatBlockAndParry,Block/Parry,Bloquear/Parry
 ST_Controls/MenusBuilding,Building,Construção
 ST_Controls/BuildingTabLeft,Building Tab Left,Guia de construção à esquerda
 ST_Controls/BuildingTabRight,Building Tab Right,Guia de construção à direita
