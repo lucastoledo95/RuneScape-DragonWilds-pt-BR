@@ -331,7 +331,7 @@ PERK-ATERRADO---------------------------REDUZ a quantidade de dano de CHOQUE rec
 /C62FD01543C6D5D9B542638956605054,A well-crafted iron blade for skilled combatants.,Uma lâmina de ferro bem trabalhada para combatentes qualificados.
 /6720A6324D40F376000E9A926E2300B6,A window box with some fancy plants.,Uma caixa de janela com algumas plantas sofisticadas.
 /9057A66C4C34940463600B8DA9F1A48C,A window box with some nice plants.,Uma caixa de janela com algumas plantas agradáveis.
-/CBB7D16247A2605343C8238DCA259A77,A workstation dedicated to cooking food. A cooking range can be used to cook hearty meals as well as individual raw foods.,"Uma bancada de trabalho dedicada a cozinhar alimentos. Uma gama de cozimento pode ser usada para cozinhar refeições saudáveis, bem como alimentos crus individuais."
+/CBB7D16247A2605343C8238DCA259A77,A workstation dedicated to cooking food. A cooking range can be used to cook hearty meals as well as individual raw foods.,"Um Fogão dedicado a cozinhar alimentos. Uma gama de cozimento pode ser usada para cozinhar refeições saudáveis, bem como alimentos crus individuais."
 /85DEBB464997B0DD9CD1048DA76BBAD3,AI,Ai
 /BAF4E5F445172248D0B529A2C305AC55,AI Regen 4,Ai regen 4
 /BE24CE26449D1EE74612A9A6F5876DD2,ASSET GYM,Ginásio de ativo
@@ -591,12 +591,12 @@ Um novo desafio aguarda..."
 /0280820643C3CBA9AD2EFAAF0561CD4E,Built To Last,Construído para durar
 /740B771A4B53E48400187CABE1519001,Built To Last,Construído para durar
 /8D1F553D4049F8FD3F49C0B82AAE62BF,Burning Duration,Duração da queima
-/9766A9A94966345B51FF078F81BC49B6,Burning Duration Max,Duração da queima máx
-/0DD618F94823A8084845228BBA1BB926,Burning Tick Damage,Dano a carrapato ardente
+/9766A9A94966345B51FF078F81BC49B6,Burning Duration Max,Duração máxima da queima
+/0DD618F94823A8084845228BBA1BB926,Burning Tick Damage,Dano de queima por intervalo
 /4AF06B63423536439F8C58972C316F88,"But before all that, how about we take you through th ebasics of suriving here in Ashenfall?","Mas antes de tudo isso, que tal a gente te mostrar o básico para sobreviver aqui em Ashenfall?"
 /C46941994E71210D47FC1F9D715EF4A5,Butterfly,Borboleta
-/EBA93A31424FF48DFA0DCCB6C4D035C1,Button Label,Etiqueta do botão
-/7D7D82A6409436E19CD4DE8C8444AF28,"By burning charcoal to create a blazing hot flame, the furnace is able to fire clay, and smelt ores into metal bars.","Ao queimar carvão para criar uma chama quente em chamas, o forno é capaz de disparar argila e cheirar minérios em barras de metal."
+/EBA93A31424FF48DFA0DCCB6C4D035C1,Button Label,Button Label
+/7D7D82A6409436E19CD4DE8C8444AF28,"By burning charcoal to create a blazing hot flame, the furnace is able to fire clay, and smelt ores into metal bars.","Ao queimar carvão para criar uma chama intensamente quente, a fornalha consegue queimar argila e fundir minérios em barras de metal."
 /7D39F69641CCFA523DC4D68A45FCF766,"By proceeding, you agree to our Privacy Policy and Terms of Service","Ao proceder, você concorda com nossa política de privacidade e termos de serviço"
 /1BCFBA554AA0BDC891DEFAA88766D3D7,C,C
 /2EA3F14F4976DA0611CF06A4FF55BB8C,CAPS,Caps
@@ -608,8 +608,8 @@ Um novo desafio aguarda..."
 /8A629C6D40A2B5D0F57927AF1D88BCE0,CTRL,Ctrl
 /55028259447D073C0C00FD9BF866AD13,CURVED INNER CORNER 45° STAIRS,Esquina interno curvo 45° escadas
 /FCB04DD84FA37B991E5FB88A28936A10,CURVED OUTER CORNER 45° STAIRS,Canto externo curvo 45° escadas
-/CF774F28403C893971706896A02B8900,Cabbage Rain,Ranta de repolho
-/D33C0AC04B7C6D9C6ED81FA073C68489,Cabbage Rain,Ranta de repolho
+/CF774F28403C893971706896A02B8900,Cabbage Rain,Repolho 
+/D33C0AC04B7C6D9C6ED81FA073C68489,Cabbage Rain,Repolho 
 /9D723BA949FBF9E2E65DF3A7E4C0B77D,Caged Goblin,Goblin enjaulado
 /F8217B0847D1BA4AB54621B67D5FB1B0,Caged Goblin,Goblin enjaulado
 /2CBA0C944AD83C12A8AFD48F79E46D01,Call To Action,Convocar para Ação
@@ -630,7 +630,7 @@ Um novo desafio aguarda..."
 /CB21402B4B7FAD5D11925195E7E5AA3B,Carpets,Tapetes
 /2242A9454F2614D6151F788562F7FF99,Carry Weight,Peso de Transporte
 /BAD7DC7043CBB2FA375DEB9BC1DD5ABB,Carry Weight,Peso de Transporte
-/F2439C7A4080CC6EAF5304ABFC32145F,Cast on Cooking Range,Fundido na faixa de cozinha
+/F2439C7A4080CC6EAF5304ABFC32145F,Cast on Cooking Range,Usar no Fogão de Cozinha
 /8F4C5F744E86649415A1349C52E6794D,Cast on a Tree,Lançado em uma árvore
 /8225E018487C6950BAC16AB7863EE9D3,Cast on a furnace,Fundido em uma fornalha
 /24058AA2457F7802DFB53A806CBCA9E9,Cat's Grace,Graça de gato
@@ -754,7 +754,7 @@ Um novo desafio aguarda..."
 /0BB399C94EACF24A53E9DEAC20891F16,Cooking,Culinária
 /4CC04F43440BE3181164E5B4F4438F46,Cooking Pot,Caldeirão culinário
 /957B6C634E9EF01101B015B1A97747EB,Cooking Pot,Caldeirão culinário
-/3BD1FFE241AD276E06DC49AE845C2FE2,Cooking Range,Alcance de cozimento
+/3BD1FFE241AD276E06DC49AE845C2FE2,Cooking Range,Fogão de Cozinha
 /D00689C0437F9BF97503AA990D7F6F81,Cooking Xp Gain Modifier,Modificador de ganho XP de cozinha
 /1C8FD8D14C4DE35F825179A2529B9314,Copper Deposit,Depósito de cobre
 /0BE9A15F4EFBAC63659AE5A5557E7E38,Copper Ore Node,Minério de cobre
@@ -4551,7 +4551,7 @@ ST_Controls/TopBarSkills,Top Bar Skills,Habilidades de barra superior
 ST_Controls/TopBarTabLeft,Top Bar Tab Left,Guia da barra superior esquerda
 ST_Controls/TopBarTabRight,Top Bar Tab Right,Guia da barra superior certa
 ST_Controls/InventoryUse,Use Item,Use o item
-ST_Crafting/CookingRange,Cooking Range,Alcance de cozimento
+ST_Crafting/CookingRange,Cooking Range,Fogão de Cozinha
 ST_Crafting/CraftingTable,Crafting Table,mesa de criação
 ST_Crafting/ItemRecipeNotUnlocked,Item recipe not yet unlocked,Receita de item ainda não desbloqueada
 ST_Crafting/EmptyMessageCraft,No recipes unlocked yet,Nenhuma receita desbloqueada ainda
@@ -8522,7 +8522,7 @@ ST_Notifications/SpellPlacementBlocked,Blocked,Bloqueado
 ST_Notifications/GenericItemName,Item,Item
 ST_Notifications/ItemStorageDisallowed,Item cannot be stored.,O item não pode ser armazenado.
 ST_Notifications/VelgarWrathStart,The air grows heavy and oppressive—Velgar descends upon Blueflame Keep.,O ar cresce pesado e opressivo-ovelgar desce sobre a Keep Blueflame.
-ST_Notifications/SpellRequiresCooking,The spell must be cast on a cooking range.,O feitiço deve ser lançado em um alcance de cozimento.
+ST_Notifications/SpellRequiresCooking,The spell must be cast on a cooking range.,O feitiço deve ser lançado em um Fogão de Cozinha.
 ST_Notifications/RequiresFlatSurface,The spell must be cast on a flat surface.,O feitiço deve ser lançado em uma superfície plana.
 ST_Notifications/SpellRequiresPlantedVeg,The spell must be cast on a planted vegetable.,O feitiço deve ser lançado em um vegetal plantado.
 ST_Notifications/SpellRequiresTree,The spell must be cast on a tree.,O feitiço deve ser lançado em uma árvore.
@@ -8841,7 +8841,7 @@ ST_Skills_Perks/Construction.CreatureComforts.Name,Creature Comforts,Conforto da
 ST_Skills_Perks/Artisan.DecoratedAdventurer.Name,Decorated Adventurer,Aventureiro decorado
 ST_Skills_Perks/Woodcutting.LumberjackStamina.Desc,Decreased Woodcutting stamina costs.,Custo de Stamina para Corte de Lenha reduzido.
 ST_Skills_Perks/Artisan.MakeItLast.Desc,Decreased durability loss on equipment.,Diminuição da perda de durabilidade no equipamento.
-ST_Skills_Perks/Cooking.MinorNode.Stat1,Delicious Food Chance at the Cooking Range,Deliciosa chance de comida na área de cozinha
+ST_Skills_Perks/Cooking.MinorNode.Stat1,Delicious Food Chance at the Cooking Range,Deliciosa chance de comida no Fogão de Cozinha
 ST_Skills_Perks/Mining.DetectOre.Name,Detect Ore + Clay,Detectar minério + argila
 ST_Skills_Perks/Artisan.MinorNode.Stat1,Durability Loss on equipment.,Perda de durabilidade no equipamento.
 ST_Skills_Perks/Runecrafting.EarthRunes.Name,Earth Runes,Runas da terra
