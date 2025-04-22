@@ -1330,7 +1330,7 @@ Um símbolo de ventos tumultos, essenciais para magia baseada no ar e outros fei
 /13262D5F4F761CA87F5FC29B5CDE862D,HORIZONTAL THIN BEAM,Viga fina horizontal
 /436918A94BA0AC69D1A4ADAB3B3D40C8,HORIZONTAL THIN BEAM,Viga fina horizontal
 /245BC6E542AE8DBF0864CC87F9391069,"Handy for building structures, crafted from bronze bars.","Útil para construir estruturas, criado a partir de barras de bronze."
-/C041973544DAF50AEE3A3AB121C457AF,Hard Leather Chaps,Calças de couro duro
+/C041973544DAF50AEE3A3AB121C457AF,Hard Leather Chaps,Perneiras de Couro Resistente
 /2F5EA26047D3A30877D4029BEE255F83,Hard Rock Life,Vida de Pedra Dura
 /AABB7118439447EB7EFAD39246F8E6B9,Hard Rock Life,Vida de Pedra Dura
 /1EA2CA8D470BF8B40022BA9C1F5132D2,"Harvested from bloodwood trees, found in the toxic swamp in Ghornfell.","Coletado de árvores de madeira sangrenta, encontradas no pântano tóxico de Ghornfell."
@@ -1552,7 +1552,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /AFD2188348D946A4076C57AB5186E50B,Learn,Aprender
 /CDB5320742A1A00967FE05AF524C5936,Learn,Aprender
 /DC8A0BDF44CC30CC40FE3D80CDFA218B,Learn,Aprender
-/40F727B0475E78648696DA8B38CD3680,Leather Chaps,Capas de couro
+/40F727B0475E78648696DA8B38CD3680,Leather Chaps,Perneiras de Couro
 /E051BE4542426209AC71A183D530A79E,Leather From Hide,Couro de Hide
 /EE3B2BEE4280488486970BB440FEE030,Leather From Scraps,Couro de restos
 /38E9DC6043EDF5FD0C1804AD155B528F,Leather Shield,Escudo de couro
@@ -2051,7 +2051,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /2738E19B4751B3C98A24F0B16FA60E2D,PLAN: Skill Tome-Magic,Plano: Tomo de Habilidade - Magia
 /909956804D0CC982FF9346BBB0F37FDF,PLAN: Skill Tome-Mining,Plano: Tomo de Habilidade - Mineração
 /039DD5A345F0BDF6A881579DE6AD2193,PLAN: Skill Tome-Ranged,Plano: Tomo de Habilidade - Combate à distância
-/0F0856D24D0317ED589D6C95F8B70FC3,PLAN: Skill Tome-Runecrafting,Plano: Tomo de Habilidade - Criação de Runas
+/0F0856D24D0317ED589D6C95F8B70FC3,PLAN: Skill Tome-Runecrafting,Plano: Tomo de Habilidade - Criação de Runa
 /3E263DA8496F423A9CCCD591EAB87D11,PLAN: Skill Tome-Woodcutting,Plano: Tomo de Habilidade - Corte de Lenha
 /779A2223458EDB162816A08386F4E494,PLAN: Small Bronze Bar Pile,Plano: Pilha pequena de barras de bronze
 /D68DDDC0467D92E56732E4972BCB1FEF,PLAN: Small Clay Bin,Plano: Caixa pequena de argila
@@ -2559,18 +2559,18 @@ Runas são retidas se você morrer."
 /E428EFB14E6B7547073ED9B5D2EA2F83,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
 /F5E4A6EE4939E4AA3FB7259B10A529E6,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
 /FCD6DB47479C323D5D3BD996472DE707,Simple wall used to support roofs.,Parede simples usada para suportar telhados.
-/2D6A58AE4438F517914C1EA520662854,Skill Tome-Arrtisan,Skill Tome-Arrtisan
-/8482CE2C43286325C1609CB61A8DC120,Skill Tome-Attack,Tomador de habilidade-ataque
-/B2454C1D41395191135BFABBB86A6E8A,Skill Tome-Construction,Tomado de habilidade-Construção
-/64B57C2C47765F2374F9D7A11685A597,Skill Tome-Cooking,Tomado de habilidade-cozinhar
-/5A3C77B64C439A1DE00D97A3D25887A9,Skill Tome-Magic,Skill Tome-Magic
-/74CD4B7749D00F40583869A666CED8F2,Skill Tome-Mining,Tomador de habilidade-mineração
-/3454337A4B4DEC0F4CC9A587081F0510,Skill Tome-Ranged,Skill Tome-à distância
-/AE2508814A942D1DD404D5839B51DEFA,Skill Tome-Runecrafting,Skill Tome-Runecrafting
-/43F2792F40B9350373BC4DBB7D1394DC,Skill Tome-Woodcutting,Tomado de habilidade-Corpo de madeira
+/2D6A58AE4438F517914C1EA520662854,Skill Tome-Arrtisan,Skill Tomo-Artesanato
+/8482CE2C43286325C1609CB61A8DC120,Skill Tome-Attack,Skill Tomo-Ataque
+/B2454C1D41395191135BFABBB86A6E8A,Skill Tome-Construction,Skill Tomo-Construção
+/64B57C2C47765F2374F9D7A11685A597,Skill Tome-Cooking,Skill Tomo-Culinária
+/5A3C77B64C439A1DE00D97A3D25887A9,Skill Tome-Magic,Skill Tomo-Magia
+/74CD4B7749D00F40583869A666CED8F2,Skill Tome-Mining,Skill Tomo-Mineração
+/3454337A4B4DEC0F4CC9A587081F0510,Skill Tome-Ranged,Skill Tomo-Combate à Distância
+/AE2508814A942D1DD404D5839B51DEFA,Skill Tome-Runecrafting,Skill Tomo-Criação de Runa
+/43F2792F40B9350373BC4DBB7D1394DC,Skill Tome-Woodcutting,Skill Tomo-Corte de Lenha
 /3BC4159F492B4202FB8ABE92E52161A0,Skills,Habilidades
 /830B623A468D47CFAFC90B957A56A396,Skills Menu,Menu de habilidades
-/723C2D6A4E5573D8E0F2AF9C9D668B09,Skullsplitter,Skullsplitter
+/723C2D6A4E5573D8E0F2AF9C9D668B09,Skullsplitter,Quebra-crânios
 /6A912CA945BA767B768DE3BF6432E69D,Slanted Wall 26°,Parede inclinada 26°
 /D5A60F8243017064AD42CEA361CB6251,Slanted Wall 26° (small),Parede inclinada 26° (pequena)
 /3A9B55814F52217C2B10C7BDA1DC7CFD,Slanted Wall 45°,Parede inclinada 45°
@@ -2582,8 +2582,8 @@ Runas são retidas se você morrer."
 /B567340C4680564BC5AFB6B9B9465092,Sleep,Dormir
 /CFB5ED7941639B63682C08B8567AA481,Sleep,Dormir
 /0DA1708E42D0800EFB05B690A50920C2,Slider,Slider
-/7080C8554C1BAA6F72F06E9A3CDB1593,Slider Display,Exibição deslizante
-/74D821F54A4760DA50656A9213661538,Slider Display,Exibição deslizante
+/7080C8554C1BAA6F72F06E9A3CDB1593,Slider Display,Slider Display
+/74D821F54A4760DA50656A9213661538,Slider Display,Slider Display
 /35D72A4541182CF5B24F638643DF105F,Slow,Lento
 /85A8ACFC413829FBDF20ABA30EB8ECFD,Slow,Lento
 /65479FB14BE9154905E60D8DC1EAC507,Small 30° Hip Roof,Teto pequeno de 30°
@@ -2602,29 +2602,29 @@ Runas são retidas se você morrer."
 /6536C31E4DAC2F8368EE499AB3C90DC7,Small 60° Roof,Pequeno teto de 60°
 /2BD560D347EFDA2ED45ADABF53F62E45,Small 60° Valley Roof,Telhado pequeno de 60°
 /50711A474CA171586234EF8ED18CD713,Small Bronze Bar Pile,Pequena pilha de barra de bronze
-/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Báu pequeno
-/1084BCF540E0A4F42408EBBABE29F33F,Small Clay Bin,Estanho de argila pequena
+/1D32820A40AB828B26F8FC9EA12B0823,Small Chest,Baú pequeno
+/1084BCF540E0A4F42408EBBABE29F33F,Small Clay Bin,Caixote de argila pequeno
 /3BCDC1DE4D06F1BB2982D2A05306653F,Small Clay Pile,Pequena pilha de argila
-/C130BD644E03AB41CD2F73BF0C1A974C,Small Coarse Thread Bin,Bin lã grossa pequena
-/D52799F749334D92312A6992D7B0F458,Small Copper Bin,Estanho pequena de cobre
+/C130BD644E03AB41CD2F73BF0C1A974C,Small Coarse Thread Bin,Caixote de fio grosso pequeno
+/D52799F749334D92312A6992D7B0F458,Small Copper Bin,Caixote de cobre pequeno
 /22A1265D436667F6DB2ABABC901030E8,Small Copper Nugget,Pequena pepita de cobre
 /54581C72426147C4EF84649807047EC7,Small Gold Bar Pile,Pequena pilha de barra de ouro
-/2FD40A7643D70EE0AC1AD185B25AE454,Small Gold Bin,Pequena lixeira de ouro
+/2FD40A7643D70EE0AC1AD185B25AE454,Small Gold Bin,Caixote de ouro pequeno
 /D4FFC61049AEAF9734043AAD69F04FDC,Small Gold Nugget,Pequena pepita de ouro
 /0992CE9B43D144EAF5609BAE0A450593,Small Iron Bar Pile,Pequena pilha de barra de ferro
-/4C2AA7E549FD4878E06F1EB6B2AF212A,Small Iron Bin,Estanho pequena de ferro
+/4C2AA7E549FD4878E06F1EB6B2AF212A,Small Iron Bin,Caixote de ferro pequeno
 /0617839342F42B9CEA09ADAA1582C79E,Small Iron Nugget,Pequena pepita de ferro
-/F2DAAA624760EA089F59DCA33E3F43D0,Small Linen Cloth Bin,Estanho de pano de linho pequeno
-/39DDD3F0456593345EBABE9174C68ACE,Small Padded Cloth Bin,Estanho de pano acolchoado pequeno
+/F2DAAA624760EA089F59DCA33E3F43D0,Small Linen Cloth Bin,Caixote de pano de linho pequeno
+/39DDD3F0456593345EBABE9174C68ACE,Small Padded Cloth Bin,Caixote de pano acolchoado pequeno
 /66287A3B4AE01318DC16CE842C212BD5,Small Silver Bar Pile,Pequena pilha de barra de prata
-/4EF7C3404B99DB8D427E62B5CDBDDF17,Small Silver Bin,Pequena lixeira de prata
+/4EF7C3404B99DB8D427E62B5CDBDDF17,Small Silver Bin,Caixote de prata pequeno
 /DA35F08D44E8F1F45F31E68587748305,Small Silver Nugget,Pequena pepita de prata
 /9FFB6B1E4F815751B7DD4482EB46D866,Small Square Tile,Pequeno ladrilho quadrado
 /FA9569564EDDF4FE389D619624A55B79,Small Square Tile,Pequeno ladrilho quadrado
-/2F9221974929FA33EA21F995F2422FBD,Small Tin Bin,Pequena Estanho de Estanho
-/F1FD12DB4CB06FB792AF3E9C1D2188B4,Small Tin Nugget,Pequena pepita de Estanho
-/0E0FC8954A89BC10699C69817A52E8D8,Small Wool Cloth Bin,Caixote de pano de lã pequena
-/D2BB0F3245CD0ADC7375C39666ECB13A,Small Wool Thread Bin,Lixo de lã de lã
+/2F9221974929FA33EA21F995F2422FBD,Small Tin Bin,Caixote de estanho pequeno
+/F1FD12DB4CB06FB792AF3E9C1D2188B4,Small Tin Nugget,Pequena pepita de estanho
+/0E0FC8954A89BC10699C69817A52E8D8,Small Wool Cloth Bin,Caixote de pano de lã pequeno
+/D2BB0F3245CD0ADC7375C39666ECB13A,Small Wool Thread Bin,Caixote de fio de lã pequeno
 /D3B4EE6144E7E74AAF7A8D9EE8976514,"Smelted from Copper Ore, this metal can be mixed with Tin to create Bronze if you have a Crucible.","Fundado a partir de minério de cobre, esse metal pode ser misturado com estanho para criar bronze se você tiver um cadinho."
 /8B646DCD4B10CFC88C054A9C5A6852C6,"Smelted from Tin Ore, this metal can be mixed with Copper to create Bronze if you have a Crucible.","Fundado do minério de Estanho, esse metal pode ser misturado com cobre para criar bronze se você tiver um cadinho."
 /0ED563AB4EC15C5FB45B86A617F38CE0,Smithing Anvil,Smithing Anvil
@@ -2639,8 +2639,8 @@ Runas são retidas se você morrer."
 /50FBC4874FA208F4B4A5FA91900C2178,"Sorry, it’s morning. You have to get up!","Desculpe, é de manhã. Você tem que se levantar!"
 /2A4A5AE0419BA811938C4AA116EA24B4,Sort,Organizar
 /7DF1ED3F4FB8DE6B195C7688D665C393,Sort,Organizar
-/53AFB4714704A9B3D43131BEE3AAC9E3,SoundClass,SOLTCLASS
-/7B6117734C46AE59346897B72529EB9E,SoundClass,SOLTCLASS
+/53AFB4714704A9B3D43131BEE3AAC9E3,SoundClass,SoundClass
+/7B6117734C46AE59346897B72529EB9E,SoundClass,SoundClass
 /6DB5A9F94005EECC6CCEA48FD69B7E3E,Sous-chef,Sous-chef
 /A5F21A85431032B804631DA2848B0CC5,South,Sul
 /F98A4B664325CAB15CE2A2B17477271D,Space,Espaço
@@ -2791,7 +2791,7 @@ Runas são retidas se você morrer."
 /609CA2BC461E9695A411C298DB32556E,Switch Panel Right,Painel de interruptor à direita
 /20D4129743DD3E4E9E1A9092847BD63C,T,T
 /DC48301A426F372CEC2C20AEF0E495D1,T,T
-/77B7A27242281654E2D2FFB77D56AAEF,TEST_Cake,Test_cake
+/77B7A27242281654E2D2FFB77D56AAEF,TEST_Cake,TEST_Cake
 /1E897631455EB0FF80FE8F829ABFD446,TUTORIAL TITLE,Título do tutorial
 /23CB81AE4BAE0D6DE98141B01898D2E0,Tab,Guia
 /946151D34413A8BC7E18DC9C8ACE3DAE,Tab Left,Guia esquerda
@@ -2806,7 +2806,7 @@ Runas são retidas se você morrer."
 /C47370244B49C6BC85426388DD471E07,Tab Sub Left,Guia Sub esquerda
 /AC96A8984619E8D41D4DDFAC5D91BE0B,Table,Mesa
 /A800F1B342E20B26563D1AA596A15D63,Tables & Chairs,Mesas e cadeiras
-/B17AC2BD4DEBE166E03F60A29FA3D527,Take All,Pegue tudo
+/B17AC2BD4DEBE166E03F60A29FA3D527,Take All,Pegar tudo
 /7B059ED94DDB4A2538FD41AD0F2C54CE,Taking fire damage over time.,Sofrendo danos causados pelo fogo ao longo do tempo.
 /5570B6674D5003B0B12A40875DBD063B,Taking physical damage over time.,Sofrendo danos físicos ao longo do tempo.
 /A0D54AE5414469E0443279BFC2708C2B,Talk,Falar
@@ -3168,11 +3168,11 @@ ou não há masmorra"
 /D5E6FBA44285CA1D4E0645893A42944C,Whetstone,Pedra de amolar
 /6C9E41004149D57DC7CD028C897B9953,WideDoor,WindoDoor
 /DA119C6C49BBE9BA920BA0B73E96054F,WideDoors,Widedoors
-/4E4B3BA74BBFB1B0C1F32790A65A4708,Wild Archer Body,Corpo arqueiro selvagem
-/3FD23AF0464498066336D294607991FF,Wild Archer Chaps,Arqueiro selvagem manchas
-/61CA1FAA4281E9361333E5B01A36B6A5,Wild Archer Cowl,Wild Archer Cowl
-/57C929514A5F8C04F717229D8E59B30B,Wild Jade Vine,Wild Jade Vine
-/62CCFA3A40DD203A4ABBFAB1A1EC081D,Wild Scout's Shortbow,Scout de Scout Scout
+/4E4B3BA74BBFB1B0C1F32790A65A4708,Wild Archer Body,Corpo de Arqueiro Selvagem
+/3FD23AF0464498066336D294607991FF,Wild Archer Chaps,Perneiras de Arqueiro Selvagem
+/61CA1FAA4281E9361333E5B01A36B6A5,Wild Archer Cowl,Capuz de Arqueiro Selvagem
+/57C929514A5F8C04F717229D8E59B30B,Wild Jade Vine,Planta de jade selvagem
+/62CCFA3A40DD203A4ABBFAB1A1EC081D,Wild Scout's Shortbow,Arco curto do batedor selvagem
 /E40FC3864D96E9CAF688F382B5F415A8,Wild Spices,Especiarias selvagens
 /5D692985459A777B04333C953227FDB6,Wind Step,Passo do vento
 /45E2103B41B792EEAC995C90141198B9,Window,Janela
@@ -4337,23 +4337,23 @@ ST_AI_Names/ColossalRat,Rat King,Rato Rei
 ST_AI_Names/Raven,Raven,Corvo
 ST_AI_Names/Sheep,Sheep,Ovelha
 ST_AI_Names/Terrorbird,Terrorbird,Terrorbird
-ST_AI_Names/ColossalVaultGuardianRanged,Vault Archon,Arconte de Vault
-ST_AI_Names/VaultGuardianMelee,Vault Guardian Hulk,Vault Guardian Hulk
-ST_AI_Names/VaultGuardianRanged,Vault Guardian Sentinel,Vault Guardian Sentinel
-ST_AI_Names/ColossalVaultGuardianMelee,Vault Overlord,Vault Overlord
-ST_AI_Names/JadeVine,Wild Jade Vine,Wild Jade Vine
-ST_AI_Names/LapulisVine,Wild Lapulis Vine,Vinha selvagem de Lapulis
+ST_AI_Names/ColossalVaultGuardianRanged,Vault Archon,Archon do Cofre
+ST_AI_Names/VaultGuardianMelee,Vault Guardian Hulk,Guardião Hulk do Cofre
+ST_AI_Names/VaultGuardianRanged,Vault Guardian Sentinel,Sentinela do Guardião do Cofre
+ST_AI_Names/ColossalVaultGuardianMelee,Vault Overlord,Lord do Cofre
+ST_AI_Names/JadeVine,Wild Jade Vine,Planta de jade selvagem
+ST_AI_Names/LapulisVine,Wild Lapulis Vine,Planta de Lapulis selvagem
 ST_AI_Names/Wolf,Wolf,Lobo
 ST_Building/Empty,,
 ST_Building/ValidationFloating,,
 ST_Building/ValidationFoundation,,
 ST_Building/ValidationStability,Unstable,Instável
-ST_Building/AdvancedSnapping,Advanced Snapping,Estanqueamento avançado
-ST_Building/CollectionBasicBuilding,Basic Building,Construção básica
-ST_Building/BasicSnapping,Basic Snapping,Estalo básico
-ST_Building/CollectionBasicSurvival,Basic Survival,Sobrevivência básica
+ST_Building/AdvancedSnapping,Advanced Snapping,Fixação Avançada
+ST_Building/CollectionBasicBuilding,Basic Building,Construção Básica
+ST_Building/BasicSnapping,Basic Snapping,Fixação Básica
+ST_Building/CollectionBasicSurvival,Basic Survival,Sobrevivência Básica
 ST_Building/CollectionBeams,Beams,Vigas
-ST_Building/TabBeamsPillars,Beams & Pillars,Vigas e pilares
+ST_Building/TabBeamsPillars,Beams & Pillars,Vigas e Pilares
 ST_Building/ValidationOverlap,Blocked,Bloqueado
 ST_Building/Build,Build,Construir
 ST_Building/BuildMenu,Build Menu,Menu de Construção
@@ -4361,13 +4361,13 @@ ST_Building/Building,Building,Construção
 ST_Building/OculusVerticalMovement,Camera Up/Down,Câmera para cima/para baixo
 ST_Building/CollectionCrafting,Crafting,Criação
 ST_Building/TabCrafting,Crafting,Criação
-ST_Building/CycleSnappingMode,Cycle Snapping Mode,Modo de estalo do ciclo
+ST_Building/CycleSnappingMode,Cycle Snapping Mode,Modo de Fixação de Ciclo
 ST_Building/CollectionDecoration,Decoration,Decoração
 ST_Building/Delete,Delete,Excluir
-ST_Building/CollectionDoorsWindows,Doors & Windows,Portas e janelas
+ST_Building/CollectionDoorsWindows,Doors & Windows,Portas e Janelas
 ST_Building/ExitBuildMode,Exit,Sair
 ST_Building/ExitOculus,Exit Eye of Oculus,Sair do Olho Místico
-ST_Building/CollectionFastTravel,Fast Travel,Viagem rápida
+ST_Building/CollectionFastTravel,Fast Travel,Viagem Rápida
 ST_Building/TabFlooring,Flooring,Piso
 ST_Building/CollectionFloors,Floors,Pisos
 ST_Building/ForwardBack,Forward/Back,Para frente/para trás
@@ -4375,8 +4375,8 @@ ST_Building/CollectionFoundations,Foundations,Fundações
 ST_Building/CollectionFurniture,Furniture,Mobília
 ST_Building/TabFurniture,Furniture,Mobília
 ST_Building/CollectionGeneral,General,Em geral
-ST_Building/GhostModeOff,Ghost Mode Off,Modo fantasma desligado
-ST_Building/GhostModeOn,Ghost Mode On,Modo fantasma ligado
+ST_Building/GhostModeOff,Ghost Mode Off,Modo Fantasma Desligado
+ST_Building/GhostModeOn,Ghost Mode On,Modo Fantasma Ligado
 ST_Building/TabHome,Home,Lar
 ST_Building/CollectionImprovements,Improvements,Melhorias
 ST_Building/ValidationMaterials,Insufficient Resources,Recursos insuficientes
@@ -5570,10 +5570,10 @@ ST_ItemNames/AdventurersLongbow,Adventurer's Longbow,Arco do aventureiro
 ST_ItemNames/AdventurersTunic,Adventurer's Tunic,Túnica do aventureiro
 ST_ItemNames/AdventurersCape,Adventurers Cape,Aventureiros Cabo
 ST_ItemNames/AnimaInfusedBark,Anima-Infused Bark,Estanho com infusão de anima
-ST_ItemNames/AnimalBone,Animal Bone,Osso de animais
-ST_ItemNames/AnimalHide,Animal Hide,Esconde de animal
-ST_ItemNames/AnimalHideScraps,Animal Hide Scraps,Esconde de animais
-ST_ItemNames/AntiDragonShield,Anti-dragon Shield,Escudo anticragon
+ST_ItemNames/AnimalBone,Animal Bone,Osso de animal
+ST_ItemNames/AnimalHide,Animal Hide,Pele de animal
+ST_ItemNames/AnimalHideScraps,Animal Hide Scraps,Fragmentos de Pele de Animal
+ST_ItemNames/AntiDragonShield,Anti-dragon Shield,Escudo Anti-dragão
 ST_ItemNames/LesserAntiPoisonPotion,Antipoison Potion,Poção de antipoison
 ST_ItemNames/AnimalHorn,Antler,Antler
 ST_ItemNames/ApprenticeHat,Apprentice Hat,Aprendiz de chapéu
@@ -5650,8 +5650,8 @@ ST_ItemNames/CrystalBow,Crystal Bow,Arco de cristal
 ST_ItemNames/DarkMageHat,Dark Mage Hood,Hood de mago escuro
 ST_ItemNames/DarkMageRobeLegs,Dark Mage Robe Legs,Dark Mage Robe Legs
 ST_ItemNames/DarkMageRobes,Dark Mage Robes,Restas de mago escuro
-ST_ItemNames/DireWolfHide,Dire Wolf Hide,Esconde de lobo terrível
-ST_ItemNames/DireWolfLeather,Dire Wolf Leather,Couro de lobo terrível
+ST_ItemNames/DireWolfHide,Dire Wolf Hide,Pele de Lobo Terrível
+ST_ItemNames/DireWolfLeather,Dire Wolf Leather,Couro de Lobo Terrível
 ST_ItemNames/DirtyWater,Dirty Water,Água suja
 ST_ItemNames/DivineCabbage,Divine Cabbage,Repolho divino
 ST_ItemNames/DraconicStaff,Draconic Staff,Cajado Dracônico
@@ -5717,45 +5717,45 @@ ST_ItemNames/GroundGranite,Ground Granite,Granito moído
 ST_ItemNames/GroundSandstone,Ground Sandstone,Arenito moído
 ST_ItemNames/GroundStone,Ground Stone,Pedra moída
 ST_ItemNames/HardLeather,Hard Leather,Couro duro
-ST_ItemNames/HardLeatherBody,Hard Leather Body,Corpo de couro duro
-ST_ItemNames/HardLeatherChaps,Hard Leather Chaps,Capas de couro duro
-ST_ItemNames/HardLeatherCowl,Hard Leather Cowl,Cuzinho de couro duro
-ST_ItemNames/Harralander,Harralander,Harrander
-ST_ItemNames/Haunch,Haunch,Traseiro
+ST_ItemNames/HardLeatherBody,Hard Leather Body,Corpo de Couro Reforçado
+ST_ItemNames/HardLeatherChaps,Hard Leather Chaps,Perneiras de Couro Reforçado
+ST_ItemNames/HardLeatherCowl,Hard Leather Cowl,Capuz de Couro Reforçado
+ST_ItemNames/Harralander,Harralander,Erva Harrander
+ST_ItemNames/Haunch,Haunch,Coxa
 ST_ItemNames/LesserHealingPotion,Healing Potion,Poção de cura
-ST_ItemNames/HeartyCrunchies,Hearty Crunchies,Crunchies saudáveis
+ST_ItemNames/HeartyCrunchies,Hearty Crunchies,Salgadinhos saudáveis
 ST_ItemNames/HeartyFortifyingSoup,Hearty Fortifying Soup,Sopa fortificante saudável
 ST_ItemNames/HeartySoup,Hearty Soup,Sopa saudável
 ST_ItemNames/HeartyStew,Hearty Stew,Ensopado saudável
-ST_ItemNames/HighWarGodBanner,High War God Banner,Banner de Deus da Guerra High
-ST_ItemNames/GarouBowPlayer,Hunter Stagbow,Hunter Stagbow
+ST_ItemNames/HighWarGodBanner,High War God Banner,Estandarte do Deus da Guerra Supremo
+ST_ItemNames/GarouBowPlayer,Hunter Stagbow,Arco de Caçador de Cervo
 ST_ItemNames/GraniteMaulHead,Imbued Granite Block,Bloco de granito imbuído
-ST_ItemNames/GraniteMaulWrap,Imbued Leather Wrappings,Embalagens de couro imbuídas
-ST_ItemNames/IronBodkinArrow,Iron Arrow,Arrow de ferro
+ST_ItemNames/GraniteMaulWrap,Imbued Leather Wrappings,Fragmentos de couro imbuído
+ST_ItemNames/IronBodkinArrow,Iron Arrow,Flecha de ferro
 ST_ItemNames/IronBar,Iron Bar,Barra de ferro
-ST_ItemNames/IronBroadheadArrow,Iron Broadhead Arrow,Freta de Iron Broadhead
-ST_ItemNames/IronBrutalArrow,Iron Brutal Arrow,Arrow brutal de ferro
+ST_ItemNames/IronBroadheadArrow,Iron Broadhead Arrow,Flecha de ponta larga de ferro
+ST_ItemNames/IronBrutalArrow,Iron Brutal Arrow,Flecha brutal de ferro
 ST_ItemNames/IronDagger,Iron Dagger,Adaga de ferro
 ST_ItemNames/IronDeposit,Iron Deposit,Depósito de ferro
-ST_ItemNames/IronGreataxe,Iron Greataxe,Iron Greataxe
-ST_ItemNames/IronGreatsword,Iron Greatsword,Iron Greatsword
+ST_ItemNames/IronGreataxe,Iron Greataxe,Grande machado de ferro
+ST_ItemNames/IronGreatsword,Iron Greatsword,Espadão de ferro
 ST_ItemNames/IronHelmet,Iron Helmet,Capacete de ferro
-ST_ItemNames/IronLoggingAxe,Iron Logging Axe,Machado de registro de ferro
+ST_ItemNames/IronLoggingAxe,Iron Logging Axe,Machado de corte de ferro
 ST_ItemNames/IronMace,Iron Mace,Mace de ferro
 ST_ItemNames/IronOre,Iron Ore,Minério de ferro
 ST_ItemNames/IronPickaxe,Iron Pickaxe,Picareta de ferro
-ST_ItemNames/IronPlatebody,Iron Platebody,Placa de ferro
-ST_ItemNames/IronPlatelegs,Iron Platelegs,Planadores de ferro
+ST_ItemNames/IronPlatebody,Iron Platebody,Peitoral de ferro
+ST_ItemNames/IronPlatelegs,Iron Platelegs,Perneira de ferro
 ST_ItemNames/IronShield,Iron Shield,Escudo de ferro
 ST_ItemNames/IronSword,Iron Sword,Espada de Ferro
-ST_ItemNames/IronWarhammer,Iron Warhammer,Iron Warhammer
+ST_ItemNames/IronWarhammer,Iron Warhammer,Martelo de guerra de ferro
 ST_ItemNames/Jade,Jade,Jade
 ST_ItemNames/JuicyBrisket,Juicy Brisket,Peito bovino suculento
 ST_ItemNames/Kebab,Kebab,Churrasquinho
 ST_ItemNames/LargeWardstone,Large Wardstone,Grande Pedra de Proteção
 ST_ItemNames/Leather,Leather,Couro
-ST_ItemNames/LeatherBody,Leather Body,Corpo de couro
-ST_ItemNames/LeatherChaps,Leather Chaps,Capas de couro
+ST_ItemNames/LeatherBody,Leather Body,Peitoral de couro
+ST_ItemNames/LeatherChaps,Leather Chaps,Perneiras de Couro
 ST_ItemNames/LeatherCowl,Leather Cowl,Couz de couro
 ST_ItemNames/LeatherShield,Leather Shield,Escudo de couro
 ST_ItemNames/LegsOfLightness,Leggings Of Lightness,Perneiras de leveza
@@ -5800,7 +5800,7 @@ ST_ItemNames/RedberryCrunchies,Redberry Crunchies,Redberry Crunchies
 ST_ItemNames/RedberryGlazedRoastFlank,Redberry Glazed Roast Flank,Flanco assado envidraçado Redberry
 ST_ItemNames/RedberryGlazedRoastMeat,Redberry Glazed Roast Meat,Carne assada com vidro vermelho
 ST_ItemNames/RedberryInfusion,Redberry Infusion,Infusão de Redberry
-ST_ItemNames/ReinfocedBody,Reinforced Body,Corpo reforçado
+ST_ItemNames/ReinfocedBody,Reinforced Body,Peitoral reforçado
 ST_ItemNames/ReinfocedHelmet,Reinforced Helmet,Capacete reforçado
 ST_ItemNames/ReinfocedLegs,Reinforced Legs,Pernas reforçadas
 ST_ItemNames/RingOfPursuit,Ring of Pursuit,Anel de perseguição
@@ -5835,9 +5835,9 @@ ST_ItemNames/StoneDagger,Stone Dagger,Adaga de pedra
 ST_ItemNames/StoneLoggingAxe,Stone Logging Axe,Machado de registro de pedra
 ST_ItemNames/StonePickaxe,Stone Pickaxe,Picareta de pedra
 ST_ItemNames/StormtouchedCape,Stormtouched Cape,Cape Touched Touchd
-ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Corpo de couro cravejado
-ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Capinhas de couro cravejado
-ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Couz de couro cravejado
+ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Peitoral de couro cravejado
+ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Perneira de couro cravejado
+ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Capuz de couro cravejado
 ST_ItemNames/SwampTar,Swamp Tar,Alcatrão de pântanos
 ST_ItemNames/SwampThread,Swamp Thread,Fio do Pântano
 ST_ItemNames/Swampweed,Swamp Weed,Erva de Pântano
@@ -5853,15 +5853,15 @@ ST_ItemNames/VaultCore,Vault Core,Núcleo de Cofre
 ST_ItemNames/VaultShard,Vault Shard,SACHO DE VAULT
 ST_ItemNames/VegetableSoup,Vegetable Soup,Sopa de vegetais
 ST_ItemNames/VelgarsHead,Velgar's Head,A cabeça de Velgar
-ST_ItemNames/WeakAntiPoisonPotion,Weak Antipoison Potion,Poção antipoison fraca
-ST_ItemNames/WeakAntiShockPotion,Weak Antishock Potion,Poção fraca de antishock
-ST_ItemNames/WeakEnergyPotion,Weak Energy Potion,Poção de energia fraca
-ST_ItemNames/WeakHealingPotion,Weak Healing Potion,Poção de cura fraca
-ST_ItemNames/WeakWarmingPotion,Weak Warming Potion,Poção de aquecimento fraco
-ST_ItemNames/WhisperingCape,Whispering Cape,Capa sussurrando
+ST_ItemNames/WeakAntiPoisonPotion,Weak Antipoison Potion,Poção fraca de Antipoison 
+ST_ItemNames/WeakAntiShockPotion,Weak Antishock Potion,Poção fraca de Antishock
+ST_ItemNames/WeakEnergyPotion,Weak Energy Potion,Poção fraca de energia
+ST_ItemNames/WeakHealingPotion,Weak Healing Potion,Poção fraca de cura
+ST_ItemNames/WeakWarmingPotion,Weak Warming Potion,Poção fraca de warming
+ST_ItemNames/WhisperingCape,Whispering Cape,Capa do Sussurro
 ST_ItemNames/WildAnima,Wild Anima,Anima selvagem
-ST_ItemNames/WildArcherBody,Wild Archer Body,Corpo arqueiro selvagem
-ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Arqueiro selvagem manchas
+ST_ItemNames/WildArcherBody,Wild Archer Body,Peitoral arqueiro selvagem
+ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Perneiras de Arqueiro Selvagem.
 ST_ItemNames/WildArcherCowl,Wild Archer Cowl,Wild Archer Cowl
 ST_ItemNames/WildPie,Wild Pie,Torta selvagem
 ST_ItemNames/WildScoutShortbow,Wild Scout's Shortbow,Scout de Scout Scout
@@ -8174,7 +8174,7 @@ ST_Localization/AnimaCrystal,Anima Crystal,Anima Crystal
 ST_Localization/AnimaFlow,Anima Flow,Anima Flow
 ST_Localization/AnimaInfusedBark,Anima-infused Bark,Estanho com infusão de anima
 ST_Localization/LargeBone,Animal Bone,Osso de animais
-ST_Localization/AnimalHide,Animal Hide,Esconde de animal
+ST_Localization/AnimalHide,Animal Hide,Pele de animal
 ST_Localization/AnotherIngredientWillFinishPotionCreatePowerfulTincture,Another ingredient will finish this potion and create a powerful tincture.,Outro ingrediente terminará esta poção e criará uma tintura poderosa.
 ST_Localization/Apply,Apply,Aplicar
 ST_Localization/Armadyl,Armadyl,Armadil
@@ -8263,11 +8263,11 @@ ST_Localization/Lever,Lever,Alavanca
 ST_Localization/LightTorch,Light torch,Tocha leve
 ST_Localization/Loom,Loom,Tear
 ST_Localization/ArmourType_Magic,Magic,Magia
-ST_Localization/MagicResist,Magic Resist,Magic Resist
-ST_Localization/MaxHealth,Max Health,Max Health
-ST_Localization/MaxStamina,Max Stamina,Max resistência
+ST_Localization/MagicResist,Magic Resist,Resistência Mágica
+ST_Localization/MaxHealth,Max Health,Max Vida
+ST_Localization/MaxStamina,Max Stamina,Max Stamina
 ST_Localization/ArmourType_Melee,Melee,Corpo a corpo
-ST_Localization/MeleeResist,Melee Resist,Resistência à confusão
+ST_Localization/MeleeResist,Melee Resist,Resistência à Corpo a corpo
 ST_Localization/No,No,Não
 ST_Localization/NoEntryUnlockedOnThisCatgeory,No entry unlocked on this category,Nenhuma entrada desbloqueada nesta categoria
 ST_Localization/OK,OK,OK
