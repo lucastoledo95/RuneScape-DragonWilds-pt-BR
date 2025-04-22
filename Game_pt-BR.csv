@@ -212,9 +212,9 @@ Pellentesque ut suscipit sapien, egestas dapibus quam. Vestibulum nec purus leo.
 /A473E9094191D02A60CF248ECD7B3E70,"A horn of some sorts, it appears to have been violently smashed to pieces. Examine it to learn more.","Uma chifre de algum tipo, parece ter sido violentamente esmagado em pedaços. Examine-o para aprender mais."
 /78DE5CD64C74E3F06CD4E1B8D1C7406D,"A hydrating drink, infused with primal fury.
 
-PERK-FEROCIOUS-------------------------REDUCES the STAMINA cost of ATTACKS","Uma bebida hidratante, infundida com fúria primal.
+PERK-FEROCIOUS---------------------------REDUCES the STAMINA cost of ATTACKS","Uma bebida hidratante, infundida com fúria primal.
 
-PERK-FEROCIOUS-------------------------REDUZ o custo de STAMINA dos ATAQUES"
+PERK-FEROCIOUS---------------------------REDUZ o custo de STAMINA dos ATAQUES"
 /12703A8A4B70783BEDD2C6AC2FE07C05,A large horn belonging to an animal. Used in crafting,Um grande chifre pertencente a um animal. Usado na criação
 /95956AAE475D728BB6FC899DB3DB0B13,"A loom improvement. The loom harness grants an additional slot to the loom, allowing the loom to weave more complex textiles.","Uma melhoria para o tear. O arnês de tear concede um slot adicional ao tear, permitindo que o tear teça têxteis mais complexos."
 /AA7444EB4DA43755F0A842907EBE75A7,A magical weapon carved from ash wood.,Uma arma mágica esculpida em madeira de cinzas.
@@ -225,7 +225,7 @@ PERK-FEROCIOUS-------------------------REDUZ o custo de STAMINA dos ATAQUES"
 /9832E770458A8C3399F2E883D56F126E,"A meaty kebab w/ Mushrooms.
 
 
-PERK-Fungal Fortitude-------------------------Grants RESISTENCE to POISON effects","Um kebab carnudo com cogumelos.
+PERK-Fungal Fortitude---------------------------Grants RESISTENCE to POISON effects","Um kebab carnudo com cogumelos.
 
 
 PERK-Resistência a Fungos---------------------------Concede RESISTÊNCIA aos efeitos de VENENO"
@@ -292,17 +292,17 @@ PERK-Resistência a Fungos---------------------------Concede RESISTÊNCIA aos ef
 /908D0D614F41A59A9EA575A003942777,"A thirst-quenching drink, that improves your reflexes.
 
 
-PERK-EVASION-------------------------REDUCES the STAMINA cost of DODGING","Uma bebida que mata a sede e melhora seus reflexos.
+PERK-EVASION---------------------------REDUCES the STAMINA cost of DODGING","Uma bebida que mata a sede e melhora seus reflexos.
 
 
-PERK-EVASÃO-------------------------REDUZ o custo de STAMINA ao DESVIAR."
+PERK-EVASÃO---------------------------REDUZ o custo de STAMINA ao DESVIAR."
 /CB428C504BFA762819CD2BB3051A4B98,"A thirst-quenching drink, that puts a spring in your step.
 
 
-PERK-FLEET FOOTED-------------------------REDUCES the STAMINA cost of SPRINTING","Uma bebida que mata a sede e dá um impulso aos seus passos.
+PERK-FLEET FOOTED---------------------------REDUCES the STAMINA cost of SPRINTING","Uma bebida que mata a sede e dá um impulso aos seus passos.
 
 
-PERK-PÉ ÁGIL-------------------------REDUZ o custo de STAMINA ao CORRER."
+PERK-PÉ ÁGIL---------------------------REDUZ o custo de STAMINA ao CORRER."
 /380B648A406AAEE27DB0A7A66980909F,A tiny table.,Uma pequena mesa.
 /052583C8429C50075E2C81B0E0777239,A torch that can be mounted on vertical surfaces.,Uma tocha que pode ser montada em superfícies verticais.
 /33E5690E40E068BDE2615595C1CE6115,A torch that can be mounted on vertical surfaces.,Uma tocha que pode ser montada em superfícies verticais.
@@ -317,7 +317,7 @@ PERK-PÉ ÁGIL-------------------------REDUZ o custo de STAMINA ao CORRER."
 /4E5DD5294C8B1A8E35C974AF666A6E32,"A triumph of man over nature.
 
 
-PERK-GROUNDED-------------------------REDUCES the amount of SHOCK damage taken","Um triunfo do homem sobre a natureza.
+PERK-GROUNDED---------------------------REDUCES the amount of SHOCK damage taken","Um triunfo do homem sobre a natureza.
 
 
 PERK-ATERRADO---------------------------REDUZ a quantidade de dano de CHOQUE recebido"
@@ -1967,17 +1967,17 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /0CBD2FB5428CDDB615D99382258DA4DD,PATTERN: Stormtouched Cape,Padrão: Capa de tempestade
 /971A45A54E5321CAA7900F811B1CFCD5,PATTERN: Whispering Cape,Padrão: sussurrando capa
 /925AC5624F42A6A79C0CE3A3D867A00F,PAUSED,Parou
-/6571ED1048A8690E972196A1FF913FF7,PERK: Antipoison-------------------------NEGATES and PROTECTS against POISON effects,Perk: Antipoison---------------------------Nega e protege contra efeitos de veneno
-/7BD74D9C4C57B05E8B1F8E922AF413BE,PERK: Antipoison-------------------------NEGATES and PROTECTS against POISON effects,Perk: Antipoison---------------------------Nega e protege contra efeitos de veneno
-/A57223BC49B58BD58397938366778F75,PERK: Focused Artisan-------------------------Grants an XP BOOST for the ARTISAN Skill,Perk: Artisan focado---------------------------Concede um impulso XP para a habilidade artesanal
-/D6834E8A423619B8028A83A011AE9F80,PERK: Focused Attack-------------------------Grants an XP BOOST for the ATTACK Skill,Perk: ataque focado---------------------------Concede um impulso XP para a habilidade de ataque
-/731788AD4C9FEF759BB180A7AD38E441,PERK: Focused Construction-------------------------Grants an XP BOOST for the CONSTRUCTION Skill,Perk: Construção focada---------------------------Concede um impulso XP para a habilidade de construção
-/164811D14DFD2A9D442E25AD334130E8,PERK: Focused Cooking-------------------------Grants an XP BOOST for the COOKING Skill,Perk: Cozimento focado---------------------------Concede um impulso XP para a habilidade de cozimento
-/4BB5D4D145F5FCCDBF000AA580A599D5,PERK: Focused Mining-------------------------Grants an XP BOOST for the MINING Skill,Perk: mineração focada---------------------------Concede um impulso XP para a habilidade de mineração
-/56917F9D4F2538C20EA17BB11E4EA0DF,PERK: Focused Runecrafting-------------------------Grants an XP BOOST for the RUNECRAFTING Skill,Perk: Criação de Runa focado---------------------------Concede um aumento do XP para a habilidade Criação de Runa
-/D1CA612E4B254774C415D696D97A505C,PERK: Focused Woodcutting-------------------------Grants an XP BOOST for the WOODCUTTING Skill,Perk: Corte de Lenha focada---------------------------Concede um aumento XP para a habilidade de CORTE DE LENHA
-/ED385AEF441A581031E64F9B2D680836,PERK: Lumberjack-------------------------REDUCES the STAMINA cost of WOODCUTTING,Perk: Lenhador---------------------------Reduz o custo de Stamina do Corte de Lenha
-/294D18844826DAC81DE43697FE811EF6,PERK: Quarrymaster-------------------------REDUCES the STAMINA cost of MINING,Perk: Quarrymaster---------------------------Reduz o custo de Stamina da Mineração
+/6571ED1048A8690E972196A1FF913FF7,PERK: Antipoison---------------------------NEGATES and PROTECTS against POISON effects,Perk: Antipoison---------------------------Nega e protege contra efeitos de veneno
+/7BD74D9C4C57B05E8B1F8E922AF413BE,PERK: Antipoison---------------------------NEGATES and PROTECTS against POISON effects,Perk: Antipoison---------------------------Nega e protege contra efeitos de veneno
+/A57223BC49B58BD58397938366778F75,PERK: Focused Artisan---------------------------Grants an XP BOOST for the ARTISAN Skill,Perk: Artisan focado---------------------------Concede um impulso XP para a habilidade artesanal
+/D6834E8A423619B8028A83A011AE9F80,PERK: Focused Attack---------------------------Grants an XP BOOST for the ATTACK Skill,Perk: ataque focado---------------------------Concede um impulso XP para a habilidade de ataque
+/731788AD4C9FEF759BB180A7AD38E441,PERK: Focused Construction---------------------------Grants an XP BOOST for the CONSTRUCTION Skill,Perk: Construção focada---------------------------Concede um impulso XP para a habilidade de construção
+/164811D14DFD2A9D442E25AD334130E8,PERK: Focused Cooking---------------------------Grants an XP BOOST for the COOKING Skill,Perk: Cozimento focado---------------------------Concede um impulso XP para a habilidade de cozimento
+/4BB5D4D145F5FCCDBF000AA580A599D5,PERK: Focused Mining---------------------------Grants an XP BOOST for the MINING Skill,Perk: mineração focada---------------------------Concede um impulso XP para a habilidade de mineração
+/56917F9D4F2538C20EA17BB11E4EA0DF,PERK: Focused Runecrafting---------------------------Grants an XP BOOST for the RUNECRAFTING Skill,Perk: Criação de Runa focado---------------------------Concede um aumento do XP para a habilidade Criação de Runa
+/D1CA612E4B254774C415D696D97A505C,PERK: Focused Woodcutting---------------------------Grants an XP BOOST for the WOODCUTTING Skill,Perk: Corte de Lenha focada---------------------------Concede um aumento XP para a habilidade de CORTE DE LENHA
+/ED385AEF441A581031E64F9B2D680836,PERK: Lumberjack---------------------------REDUCES the STAMINA cost of WOODCUTTING,Perk: Lenhador---------------------------Reduz o custo de Stamina do Corte de Lenha
+/294D18844826DAC81DE43697FE811EF6,PERK: Quarrymaster---------------------------REDUCES the STAMINA cost of MINING,Perk: Quarrymaster---------------------------Reduz o custo de Stamina da Mineração
 /37EEB3F747896B4A108ABCB1B4113D7B,PLAN: Ball of Wool Thread,Plano: Novelo de linha de lã
 /FA37395C4D0699A18875B696F9F69B10,PLAN: Barrel Pile,Plano: Pilha de barris
 /3657F28349B90057F713078B8750B896,PLAN: Barrel of Granite,Plano: Barril de granito
@@ -5376,7 +5376,7 @@ ST_ItemDescriptions/ApprenticeHat,"A comfortable hat made from linen, perfect fo
 ST_ItemDescriptions/HeartyFortifyingSoup,"A comforting vegetable soup with added mushrooms. Helps prepare you for a grueling day ahead.
 
 
-PERK-FUNGAL FORTITUDE-------------------------Grants RESISTANCE to POISON effects","Uma sopa de legumes reconfortante com cogumelos adicionais. Ajuda a prepará-lo para um dia cansativo pela frente.
+PERK-FUNGAL FORTITUDE---------------------------Grants RESISTANCE to POISON effects","Uma sopa de legumes reconfortante com cogumelos adicionais. Ajuda a prepará-lo para um dia cansativo pela frente.
 
 
 PERK-FORMURA FUNGAL---------------------------Concede resistência aos efeitos de veneno"
@@ -5404,7 +5404,7 @@ ST_ItemDescriptions/WildArcherCowl,A helmet worn by a Wild Knight archer.,Um cap
 ST_ItemDescriptions/DragonkinMageHood,A hood styled after the ancient overlords of Ashenfall.,Um capuz denominou os antigos senhores de Ashenfall.
 ST_ItemDescriptions/FerociousInfusion,"A hydrating drink, infused with primal fury.
 
-PERK-FEROCIOUS-------------------------REDUCES the STAMINA cost of ATTACKS by 33%","Uma bebida hidratante, infundida com fúria primordial.
+PERK-FEROCIOUS---------------------------REDUCES the STAMINA cost of ATTACKS by 33%","Uma bebida hidratante, infundida com fúria primordial.
 
 PERK-FERROCUIO---------------------------Reduz o custo dos ataques de resistência em 33%"
 ST_ItemDescriptions/DwellberryGlazedRoastMeat,"A juicy piece of roasted meat, with a deliciously fruity dwellberry glazing. Scrumptious!","Um pedaço suculento de carne assada, com um envidraçamento de moradia deliciosamente frutado. Delicioso!"
@@ -5419,7 +5419,7 @@ ST_ItemDescriptions/HeartyStew,A nice hot stew. A taste of home.,Um bom ensopado
 ST_ItemDescriptions/MeatPizza,"A pizza with bits of meat on it.
 
 
-PERK-COAGULATED-------------------------Grants RESISTANCE to BLEED effects","Uma pizza com pedaços de carne nela.
+PERK-COAGULATED---------------------------Grants RESISTANCE to BLEED effects","Uma pizza com pedaços de carne nela.
 
 
 Perk-coagulado---------------------------Concede resistência a efeitos de sangria"
@@ -5432,7 +5432,7 @@ ST_ItemDescriptions/DwellberryInfusion,A refreshing fruity drink. Very good for 
 ST_ItemDescriptions/GrilledMushrooms,"A rich and earthy treat.
 
 
-PERK-FUNGAL FORTITUDE-------------------------Grants RESISTANCE to POISON effects","Um tratamento rico e terroso.
+PERK-FUNGAL FORTITUDE---------------------------Grants RESISTANCE to POISON effects","Um tratamento rico e terroso.
 
 
 PERK-FORMURA FUNGAL---------------------------Concede resistência aos efeitos de veneno"
@@ -5454,37 +5454,37 @@ ST_ItemDescriptions/FlankSteak,A thick and juicy steak. Only slightly overcooked
 ST_ItemDescriptions/EvasiveInfusion,"A thirst-quenching drink, that improves your reflexes.
 
 
-PERK-EVASION-------------------------REDUCES the STAMINA cost of DODGING by 33%","Uma bebida com sede que melhora seus reflexos.
+PERK-EVASION---------------------------REDUCES the STAMINA cost of DODGING by 33%","Uma bebida com sede que melhora seus reflexos.
 
 
 Vantagem-evasão---------------------------Reduz o custo de resistência de esquivar-se em 33%"
 ST_ItemDescriptions/FleetFootedInfusion,"A thirst-quenching drink, that puts a spring in your step.
 
 
-PERK-FLEET FOOTED-------------------------REDUCES the STAMINA cost of SPRINTING by 20%","Uma bebida que mata a sede e dá um impulso aos seus passos.
+PERK-FLEET FOOTED---------------------------REDUCES the STAMINA cost of SPRINTING by 20%","Uma bebida que mata a sede e dá um impulso aos seus passos.
 
 
-PERK-PÉ ÁGIL-------------------------REDUZ o custo de STAMINA ao CORRER em 20%"
+PERK-PÉ ÁGIL---------------------------REDUZ o custo de STAMINA ao CORRER em 20%"
 ST_ItemDescriptions/WildPie,"A triumph of man over nature.
 
 
-PERK-GROUNDED-------------------------SHOCK damage reduced by 50%","Um triunfo do homem sobre a natureza.
+PERK-GROUNDED---------------------------SHOCK damage reduced by 50%","Um triunfo do homem sobre a natureza.
 
 
-PERK-ATERRADO-------------------------DANO de CHOQUE reduzido em 50%"
+PERK-ATERRADO---------------------------DANO de CHOQUE reduzido em 50%"
 ST_ItemDescriptions/BronzeGreatsword,A two-handed bronze sword for those who prefer power over speed.,Uma espada de bronze de duas mãos para aqueles que preferem o poder à velocidade.
 ST_ItemDescriptions/WoodenArrows,A very basic arrow.,Uma flecha muito básica.
 ST_ItemDescriptions/FortifyingStew,"A warm meat and mushroom stew, fortifies you against the trials ahead.
 
 
-PERK-FUNGAL FORTITUDE-------------------------Grants RESISTANCE to POISON effects","Um ensopado de carne quente e cogumelo, fortalece-o contra as provações à frente.
+PERK-FUNGAL FORTITUDE---------------------------Grants RESISTANCE to POISON effects","Um ensopado de carne quente e cogumelo, fortalece-o contra as provações à frente.
 
 
 PERK-FORMURA FUNGAL---------------------------Concede resistência aos efeitos de veneno"
 ST_ItemDescriptions/FortifyingSoup,"A warm vegetable soup, with added mushrooms.
 
 
-PERK-FUNGAL FORTITUDE-------------------------Grants RESISTANCE to POISON effects","Uma sopa de legumes quentes, com cogumelos adicionais.
+PERK-FUNGAL FORTITUDE---------------------------Grants RESISTANCE to POISON effects","Uma sopa de legumes quentes, com cogumelos adicionais.
 
 
 PERK-FORMURA FUNGAL---------------------------Concede resistência aos efeitos de veneno"
@@ -5508,7 +5508,7 @@ ST_ItemDescriptions/BakedPotato,"Fluffy and delicious, if only you had some butt
 ST_ItemDescriptions/FortifyingCrunchies,"It actually smells quite good.
 
 
-PERK-FUNGAL FORTITUDE-------------------------Grants RESISTANCE to POISON effects","Na verdade, cheira muito bem.
+PERK-FUNGAL FORTITUDE---------------------------Grants RESISTANCE to POISON effects","Na verdade, cheira muito bem.
 
 
 PERK-FORMURA FUNGAL---------------------------Concede resistência aos efeitos de veneno"
