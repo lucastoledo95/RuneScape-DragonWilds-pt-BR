@@ -2324,7 +2324,7 @@ Criar e link: Além disso, permite que você entre nos Serviços de Conta EPIC (
 /68E707BF4C08E8DEF952B39BDE43B356,Ram,Bater
 /50F269554F3A7903FF7008AD9692F7F4,Ram Horn,chifre de Ram
 /690E295540EC012AED599EA6B1F7EC23,Ranarr Herb,Rindor Herb
-/E8BE697A46872448782F2193446D8BA0,Ranged,A variou
+/E8BE697A46872448782F2193446D8BA0,Ranged,Combate à Distância
 /0FB8FE274DDA4452A4C6198F47EC614B,Ranged Armour,Armadura à distância
 /7FD2B63C49ADBE21BD1E419B6072116E,Ranged Attack Draw Time,Hora do sorteio de ataque à distância
 /7A20FEC149A21CA098181494C8B4195F,Ranged Attack Stamina Cost,Custo de Stamina do Ataque à Distância
@@ -2723,7 +2723,7 @@ Runas são retidas se você morrer."
 /9789694C480B85965E4F41930CB6D2E2,Stockade Gate,Stockade Gate
 /41D9846F4B737BCE47D8ECB4B9A48AAD,Stockade Gate Frame,Estrutura do portão da bolsa
 /BA5159E6487C452C74DF68B6D653D0CA,Stockade Wall,Parede da bolsa
-/BD9DFBB640C273D29DEE769C2B13FE4E,Stone Boulder,Boulder de pedra
+/BD9DFBB640C273D29DEE769C2B13FE4E,Stone Boulder,Bloco de pedra
 /BCE0FBB44FD40DD1314E3C9F85A90C67,Stone Fireplace,Lareira de pedra
 /111797D44A1D87FC9FB87F8695A69D1D,Stone Prayer Altar,Altar de oração de pedra
 /D9EE805440325FD5762CAEB193722C2C,Stool,Banquinho
@@ -2731,7 +2731,7 @@ Runas são retidas se você morrer."
 /A1E392564E215E64311ED3942D33907F,Strips of imbued dire wolf leather for the granite maul grips. Infused with primal savagery.,Fragmentos de couro de lobo terrível imbuídos para as empunhaduras das garras maul de granito. Infundidos com selvageria primal.
 /9C5CEA034180E45E35B204901FC5AE00,Strong threads of spidersilk that can be spun into cloth.,Fios fortes de teia de aranha que podem ser fiados em tecido.
 /CBFEAA844EB0016C89CC4381BB010CBD,Stronger Logging Axe needed,Machado de log mais forte necessário
-/88D3F4E3480E530EB782A49AF9E9610D,Stronger Pickaxe needed,Picareta mais forte necessária
+/88D3F4E3480E530EB782A49AF9E9610D,Stronger Pickaxe needed,Precisa de uma Picareta mais forte
 /436D3EA948A0869E873AE0A0F61956F2,Studded Leather Chaps,Perneiras de Couro Reforçado
 /1BAABFAC4BB4662FA8E61C802F5BE98A,Study,Estudar
 /1E335DDC4275D0FAB6D3A191317ECCC0,Study,Estudar
@@ -2930,16 +2930,16 @@ ou não há masmorra"
 /1789E14443508935B8C1AB82BF01214E,Toggle Day / Night,Alternar dia / noite
 /9D5F7D084D0C21250158DE80ACA9A11F,Toggle Inventory,Alternar o inventário
 /2F97CD2E40DAA1BB77666B8A1DC84FE5,Toggles,Alterna
-/8F6B49354E2A7439C88669B783641647,Tome of Attack-Vol 1.,Tome de ataque-vol 1.
-/CC59C29A4F200D0ACE7AB599D09EAE1B,Tome of Construction-Vol 1.,Tome de construção-vol 1.
-/63022B364DE7AA7BDE29E1AFABD04270,Tome of Cooking-Vol 1.,Tomo de cozinha-vol 1.
-/C2CF37C7406840022A15FFBDC2C20424,Tome of Magic-Vol 1.,Tome de magia-vol 1.
-/2113EE2B4B58E0CF3159F8B4E941D145,Tome of Mining-Vol 1.,Tome de mineração-vol 1.
-/EDC190234FCC694ACA90A191505B6C00,Tome of Ranged-Vol 1.,Tome de varredura-vol 1.
-/6C8357D441EC6165FAB03B8531B97AC4,Tome of Runecrafting-Vol 1.,Tome de Runecrafting-Vol. 1.
-/1052C7504EB0352D0E7E019282CC095D,Tome of Woodcutting-Vol 1.,Tomo de coroa-Vol. 1.
-/D765B42A438AEFF1D9D066A6ABB9FA41,Tome of the Artisan-Vol 1.,Tome do artesão-vol 1.
-/6948231542BB732FE57C30A9FCBB1D89,Tome of the Dragon Slayer,Tome do Dragon Slayer
+/8F6B49354E2A7439C88669B783641647,Tome of Attack-Vol 1.,Tomo de Ataque-Vol. 1
+/CC59C29A4F200D0ACE7AB599D09EAE1B,Tome of Construction-Vol 1.,Tomo de Construção-Vol. 1
+/63022B364DE7AA7BDE29E1AFABD04270,Tome of Cooking-Vol 1.,Tomo de Culinária-Vol. 1
+/C2CF37C7406840022A15FFBDC2C20424,Tome of Magic-Vol 1.,Tomo de Magia-Vol. 1
+/2113EE2B4B58E0CF3159F8B4E941D145,Tome of Mining-Vol 1.,Tomo de Mineração-Vol. 1
+/EDC190234FCC694ACA90A191505B6C00,Tome of Ranged-Vol 1.,Tomo de Combate à Distância-Vol. 1
+/6C8357D441EC6165FAB03B8531B97AC4,Tome of Runecrafting-Vol 1.,Tomo de Criação de Runa-Vol. 1
+/1052C7504EB0352D0E7E019282CC095D,Tome of Woodcutting-Vol 1.,Tomo de Corte de Lenha-Vol. 1
+/D765B42A438AEFF1D9D066A6ABB9FA41,Tome of the Artisan-Vol 1.,Tomo do Artesão-Vol. 1
+/6948231542BB732FE57C30A9FCBB1D89,Tome of the Dragon Slayer,Tomo do Matador de Dragões
 /6B3B5D2048ABC59443ED8CB861F1A7B7,Tool,Ferramenta
 /406AB00245E48B743D95FD9193962591,Tools,Ferramentas
 /C73C22CE462975709B59D59B507C211F,Touch,Tocar
@@ -3150,7 +3150,7 @@ ou não há masmorra"
 /DD05873840D34DC4A842BA826284E73C,Weak Focused Cooking Potion,Poção de cozinha focada fraca
 /1743549349AFA7A69C4E9983CE9A9FF7,Weak Focused Mining Potion,Poção de mineração focada fraca
 /E05557B94B28AC529AAF59A18DA5AA77,Weak Focused Runecraft Potion,"Poção de Runecraft, foco fraco"
-/A198C8EF460051A0430658817426F6F6,Weak Focused Woodcutting Potion,Poção de corte de madeira focada fraca
+/A198C8EF460051A0430658817426F6F6,Weak Focused Woodcutting Potion,Poção de corte de lenha focada fraca
 /AFDB35414BE568C8EE538BB49FBD3A5D,Weak Lumberjack Potion,Poção fraca de lenhador
 /588C68C14BA5D80DBCCC94BCADEFF344,Weak Point Damage,Dano de ponto fraco
 /5B0B1811463BEF2748902B9DFE56DD8F,Weak Points Damage Multiplier,Pontos fracos danos multiplicadores
@@ -3217,11 +3217,11 @@ ou não há masmorra"
 /F88D12584184A18D80D97AA62EA13817,Wise Old Man,Velho Sábio
 /7E67167E4AD775F74FE93DB9599C64DA,Wizard Robe Legs,Pernas de mago
 /B868CF55407A3DBF7CEE5482FECBD00D,Wolf,Lobo
-/3E51C72C442CAD76A059B48C794213BA,Woodcutting,Cor de madeira
-/5EBC12534671D4DB3C7D09B24B29C6BC,Woodcutting Damage Modifier,Modificador de danos por coroa
-/8ED654C74618053290700E8888A05E83,Woodcutting Stamina Cost Modifier,Modificador de custo de resistência ao xilogravura
-/139D40FA46634FAEF5C23089A45B8C69,Woodcutting Swing Speed Multiplier,Multiplicador de velocidade de balanço do xilogravura
-/40A6163E4FBDB331084483AB1EA7D019,Woodcutting Xp Gain Modifier,Modificador de ganho XP de coroa
+/3E51C72C442CAD76A059B48C794213BA,Woodcutting,Corte de Lenha
+/5EBC12534671D4DB3C7D09B24B29C6BC,Woodcutting Damage Modifier,Modificador de Dano de Corte de Lenha
+/8ED654C74618053290700E8888A05E83,Woodcutting Stamina Cost Modifier,Modificador de Custo de Stamina de Corte de Lenha
+/139D40FA46634FAEF5C23089A45B8C69,Woodcutting Swing Speed Multiplier,Multiplicador de Velocidade de Golpe de Corte de Lenha
+/40A6163E4FBDB331084483AB1EA7D019,Woodcutting Xp Gain Modifier,Modificador de Ganho de XP de Corte de Lenha
 /2EA7894D438300F9914F0591077B207D,Wooden Barrel,Barril de madeira
 /491F7A854D96FB07B795A186929CE09C,Wooden Bin,Bin de madeira
 /E1AD67384F51BE0F119D2DAC78262AD4,Wooden Bin Pile,Pilha de bin de madeira
@@ -4382,9 +4382,9 @@ ST_Building/CollectionImprovements,Improvements,Melhorias
 ST_Building/ValidationMaterials,Insufficient Resources,Recursos insuficientes
 ST_Building/CollectionLighting,Lighting,Iluminação
 ST_Building/MustBeExposed,Must Be Exposed,Deve ser exposto
-ST_Building/NoSnapping,No Snapping,Sem estalo
+ST_Building/NoSnapping,No Snapping,Não há ajuste 
 ST_Building/Overlapping,Overlapping,Sobreposição
-ST_Building/Place,Place,Lugar
+ST_Building/Place,Place,Posicionar
 ST_Building/GhostModeDescription,Place blueprints of structures that you can complete later by adding materials. Blueprints do not cost any materials.,Coloque as plantas de estruturas que você pode concluir posteriormente adicionando materiais. As plantas não custam nenhum material.
 ST_Building/TabPrayer,Prayer,Oração
 ST_Building/CollectionProcessing,Processing,Processamento
@@ -5631,14 +5631,14 @@ ST_ItemNames/ChefsHat,Chef's Hat,Chapéu do chef
 ST_ItemNames/ChieftansBlade,Chieftan's Blade,Blade de Chieftan
 ST_ItemNames/Clay,Clay,Argila
 ST_ItemNames/ClayDecoration,Clay Decoration,Decoração de argila
-ST_ItemNames/ClayDecorationUnfired,Clay Decoration (Unfired),Decoração de argila (não incorporada)
+ST_ItemNames/ClayDecorationUnfired,Clay Decoration (Unfired),Decoração de argila (cru)
 ST_ItemNames/ClayDeposit,Clay Deposit,Depósito de argila
-ST_ItemNames/ClayMould,Clay Mould,Molde de barro
-ST_ItemNames/ClayMouldUnfired,Clay Mould (Unfired),Molde de argila (sem ser considerado)
-ST_ItemNames/ClaySlab,Clay Slab,Laje de barro
-ST_ItemNames/ClaySlabUnfired,Clay Slab (Unfired),Laje de argila (sem ser inutilizada)
-ST_ItemNames/ClayVessel,Clay Vessel,Navio de argila
-ST_ItemNames/ClayVesselUnfired,Clay Vessel (Unfired),Navio de argila (sem ser considerado)
+ST_ItemNames/ClayMould,Clay Mould,Molde de argila
+ST_ItemNames/ClayMouldUnfired,Clay Mould (Unfired),Molde de argila (cru)
+ST_ItemNames/ClaySlab,Clay Slab,Placa de argila
+ST_ItemNames/ClaySlabUnfired,Clay Slab (Unfired),Placa de argila (cru)
+ST_ItemNames/ClayVessel,Clay Vessel,Vaso de argila
+ST_ItemNames/ClayVesselUnfired,Clay Vessel (Unfired),Vaso de argila (cru)
 ST_ItemNames/CleanWater,Clean Water,Água limpa
 ST_ItemNames/CoarseAnimalFur,Coarse Animal Fur,Peles de animais grossos
 ST_ItemNames/LinenThread,Coarse Thread,Fio Grosso
@@ -5754,9 +5754,9 @@ ST_ItemNames/JuicyBrisket,Juicy Brisket,Peito bovino suculento
 ST_ItemNames/Kebab,Kebab,Churrasquinho
 ST_ItemNames/LargeWardstone,Large Wardstone,Grande Pedra de Proteção
 ST_ItemNames/Leather,Leather,Couro
-ST_ItemNames/LeatherBody,Leather Body,Peitoral de couro
+ST_ItemNames/LeatherBody,Leather Body,Couraça de couro
 ST_ItemNames/LeatherChaps,Leather Chaps,Perneiras de Couro
-ST_ItemNames/LeatherCowl,Leather Cowl,Couz de couro
+ST_ItemNames/LeatherCowl,Leather Cowl,Capuz de couro
 ST_ItemNames/LeatherShield,Leather Shield,Escudo de couro
 ST_ItemNames/LegsOfLightness,Leggings Of Lightness,Perneiras de leveza
 ST_ItemNames/Marrentill,Marrentill,Marrentill
@@ -5835,7 +5835,7 @@ ST_ItemNames/StoneDagger,Stone Dagger,Adaga de pedra
 ST_ItemNames/StoneLoggingAxe,Stone Logging Axe,Machado de registro de pedra
 ST_ItemNames/StonePickaxe,Stone Pickaxe,Picareta de pedra
 ST_ItemNames/StormtouchedCape,Stormtouched Cape,Cape Touched Touchd
-ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Peitoral de couro cravejado
+ST_ItemNames/StuddedLeatherBody,Studded Leather Body,Couraça de couro cravejado
 ST_ItemNames/StuddedLeatherChaps,Studded Leather Chaps,Perneira de couro cravejado
 ST_ItemNames/StuddedLeatherCowl,Studded Leather Cowl,Capuz de couro cravejado
 ST_ItemNames/SwampTar,Swamp Tar,Alcatrão de pântanos
@@ -5860,9 +5860,9 @@ ST_ItemNames/WeakHealingPotion,Weak Healing Potion,Poção fraca de cura
 ST_ItemNames/WeakWarmingPotion,Weak Warming Potion,Poção fraca de warming
 ST_ItemNames/WhisperingCape,Whispering Cape,Capa do Sussurro
 ST_ItemNames/WildAnima,Wild Anima,Anima selvagem
-ST_ItemNames/WildArcherBody,Wild Archer Body,Peitoral arqueiro selvagem
-ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Perneiras de Arqueiro Selvagem.
-ST_ItemNames/WildArcherCowl,Wild Archer Cowl,Wild Archer Cowl
+ST_ItemNames/WildArcherBody,Wild Archer Body,Tunica de Arqueiro Selvagem
+ST_ItemNames/WildArcherChaps,Wild Archer Chaps,Perneiras de Arqueiro Selvagem
+ST_ItemNames/WildArcherCowl,Wild Archer Cowl,Capuz de Arqueiro Selvagem
 ST_ItemNames/WildPie,Wild Pie,Torta selvagem
 ST_ItemNames/WildScoutShortbow,Wild Scout's Shortbow,Scout de Scout Scout
 ST_ItemNames/WizardHat,Wizard Hat,Chapéu do mago
@@ -8167,7 +8167,7 @@ ST_Localization/AlphaWolf,Alpha Wolf,Alpha Wolf
 ST_Localization/Ambry,Ambry,Ambry
 ST_Localization/Ammo,Ammo,Munição
 ST_Localization/AmuletMould,Amulet Mould,MOLDO DE AMULETO
-ST_Localization/AmuletMouldUnfired,Amulet Mould (Unfired),Molde de amuleto (não inchado)
+ST_Localization/AmuletMouldUnfired,Amulet Mould (Unfired),Molde de amuleto (cru)
 ST_Localization/AmuletOfDefence,Amulet of Defence,Amuleto de defesa
 ST_Localization/AmuletOfMagic,Amulet of Magic,Amuleto de magia
 ST_Localization/AnimaCrystal,Anima Crystal,Anima Crystal
@@ -8277,7 +8277,7 @@ ST_Localization/Opal,Opal,Opala
 ST_Localization/Open,Open,Abrir
 ST_Localization/PickaxeRequired,Pickaxe required!,Pickaxe necessária!
 ST_Localization/Pull,Pull,Puxar
-ST_Localization/ArmourType_Ranged,Ranged,A variou
+ST_Localization/ArmourType_Ranged,Ranged,Combate à Distância
 ST_Localization/RangedResist,Ranged Resist,Resistência à distância
 ST_Localization/Recipes,Recipes,Receitas
 ST_Localization/RedTopaz,Red Topaz,TOPAZ RED
@@ -8515,7 +8515,7 @@ ST_Narrative_Intro/NarrativeIntroTextPart4,"So we called the best-yes, that's yo
 ST_Narrative_Intro/NarrativeIntroTextPart3,"The dragons didn't like that, not one little bit.","Os dragões não gostaram disso, nem um pouco."
 ST_Narrative_Intro/NarrativeIntroTextPart2,"When the continent was suddenly discovered, explorers poured in to claim its secrets.","Quando o continente foi descoberto subitamente, os exploradores entraram para reivindicar seus segredos."
 ST_Notifications/VelgarBreath,A terrible roar poisons the air.,Um terrível rugido envenena o ar.
-ST_Notifications/BaseUnderAttack,A warband is attacking your base!,Uma banda de guerra está atacando sua base!
+ST_Notifications/BaseUnderAttack,A warband is attacking your base!,Um bando de guerra está atacando sua base!
 ST_Notifications/Boundary,An unknown force prevents you from going further.,Uma força desconhecida impede que você vá mais longe.
 ST_Notifications/BuildingValidationOverlap,Blocked,Bloqueado
 ST_Notifications/SpellPlacementBlocked,Blocked,Bloqueado
