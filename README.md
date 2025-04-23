@@ -117,7 +117,7 @@ Muita gente não percebe, mas por trás dessa tradução estão:
 
 ## 🧩 Quer ajudar na tradução?
 
-Você pode colaborar com as planilhas abertas no Google Drive ou aqui mesmo no GitHub!
+Você pode colaborar com as planilhas aqui mesmo no GitHub!
 
 ### 🇧🇷 Português (PT-BR)
 📄 Participe sugerindo melhorias, revisando trechos ou traduzindo novas linhas.
@@ -129,10 +129,9 @@ Você pode colaborar com as planilhas abertas no Google Drive ou aqui mesmo no G
 
 ## 📢 Participe das discussões!
 
-- 💰 Sugestão de preço da doação  
+- 💰 Sugestão de preço da doação  (esquece 1k de download, 1 doação só e foi de um criador de conteúdo, já desisti das doações)
 - 🛠️ Manutenção e updates  
 - 💬 Feedbacks e bugs  
 
 ---
-
 
