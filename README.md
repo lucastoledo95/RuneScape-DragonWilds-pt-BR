@@ -56,7 +56,7 @@ Trazendo **acessibilidade** e **imersão** para quem cresceu jogando RPGs com al
 
 ### 🇧🇷 Instruções (PT-BR)
 
-(Tutorial YouTube - Créditos para o criador do vídeo)[https://www.youtube.com/watch?v=mIOSZ2eCSN8&t=29s]
+[Tutorial YouTube - Créditos para o criador do vídeo](https://www.youtube.com/watch?v=mIOSZ2eCSN8&t=29s)
 
 [Aproveitem e vejam a evolução da tradução em tempo real com o parceiro Andarilhoo - Twitch](https://www.twitch.tv/andarilhoo)
 
